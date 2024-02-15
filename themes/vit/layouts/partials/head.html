@@ -1,0 +1,157 @@
+{{ partialCached "head/css.html" . }}
+{{ partialCached "head/vendors.html" . }}
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+    <link rel="icon" type="image/x-icon" href="/img/favicon.svg">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Агентство цифровых интеграций">
+    <meta name="yandex-verification" content="78484268419037b0">
+    <meta name="yandex-verification" content="408dcc32111025c9">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <script src="https://mc.yandex.ru/metrika/tag.js"></script>
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+      (function (m, e, t, r, i, k, a) {
+        m[i] =
+          m[i] ||
+          function () {
+            (m[i].a = m[i].a || []).push(arguments);
+          };
+        m[i].l = 1 * new Date();
+        for (var j = 0; j < document.scripts.length; j++) {
+          if (document.scripts[j].src === r) {
+            return;
+          }
+        }
+        (k = e.createElement(t)),
+          (a = e.getElementsByTagName(t)[0]),
+          (k.async = 1),
+          (k.src = r),
+          a.parentNode.insertBefore(k, a);
+      })(
+        window,
+        document,
+        "script",
+        "https://mc.yandex.ru/metrika/tag.js",
+        "ym"
+      );
+      ym(91502557, "init", {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true,
+        trackHash: true,
+      });
+    </script>
+    <noscript>
+      <div>
+        <img src="https://mc.yandex.ru/watch/91502557" style="position: absolute; left: -9999px" alt="" />
+      </div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!--
+          FIXME:
+          https://michalsnik.github.io/aos/
+          https://animate.style/
+      -->
+    <style>
+      .logo {
+        font-family: "Marmelad", sans-serif;
+        font-size: 40px;
+        color: #000;
+      }
+  
+      .hiro-nav-popup-toggle {
+        position: fixed;
+        top: 50px;
+        right: 50px;
+      }
+  
+      #services {
+        background-color: #b39ddb;
+      }
+  
+      #works {
+        background-color: #90a4ae;
+      }
+  
+      #career {
+        background-color: #90caf9;
+      }
+  
+      .container-container {
+        margin: 10px;
+        background-color: rgb(40, 47, 92);
+      }
+  
+      .container_foto {
+        padding: 0;
+        overflow: hidden;
+        position: relative;
+        padding: 0 !important;
+      }
+  
+      .container_foto article {
+        position: absolute;
+        bottom: 0;
+        padding: 0 0 10px 10px;
+        z-index: 1;
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        -ms-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+      }
+  
+      .container_foto h2 {
+        color: #000000;
+        text-shadow: 1px 1px 7px #fff;
+        background: linear-gradient(10deg, #ffffff8f, transparent);
+        font-weight: 800;
+        font-size: 25px;
+        border-bottom: #fff solid 1px;
+      }
+  
+      .container_foto h4 {
+        font-weight: 300;
+        color: #fff;
+        font-size: 16px;
+        background-color: #000;
+        opacity: 0.75;
+      }
+  
+      .container_foto img {
+        width: 100%;
+        top: 0;
+        left: 0;
+        opacity: 0.75;
+        -webkit-transition: all 4s ease;
+        -moz-transition: all 4s ease;
+        -o-transition: all 4s ease;
+        -ms-transition: all 4s ease;
+        transition: all 4s ease;
+      }
+  
+      .container_foto:hover {
+        cursor: pointer;
+      }
+  
+      .container_foto:hover img {
+        opacity: 0.1;
+        transform: scale(1.5);
+      }
+  
+      .container_foto:hover article {
+        transform: translate(2px, -69px);
+        -webkit-transform: translate(2px, -69px);
+        -moz-transform: translate(2px, -69px);
+        -o-transform: translate(2px, -69px);
+        -ms-transform: translate(2px, -69px);
+      }
+  
+      .carousel-item-social-links {
+        display: inline-flex;
+      }
+    </style>
+    <script type="module" src="chrome-extension://jdkknkkbebbapilgoeccciglkfbmbnfm/hook.js"></script>
