@@ -31,13 +31,9 @@
                 </ul>
               </div>
               <div class="col-md-6">
-
-                
                 {{ $image := resources.Get "img/about-01.jpg" }}
                 {{ $image := $image.Resize "x515" }}
-                {{ with $image }}
                 <img loading="lazy" src="{{ $image.RelPermalink }}" class="img-fluid w-100 rounded" width="372px">
-                {{ end }}
               </div>
             </div>
           </div>

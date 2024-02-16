@@ -16,11 +16,17 @@
         </p>
         <div>
           <a class="carousel-control-prev" href="#hiroTeamCarousel" role="button" data-slide="prev">
-            <img src="assets/images/arrow_left.png" alt="left arrow" width="20px">
+            {{ $image := resources.Get "images/arrow_left.png" }}
+            {{ $image := $image.Resize "x20" }}
+            <img loading="lazy" src="{{ $image.RelPermalink }}" alt="left arrow" width="20px">
+           
             <span class="sr-only">до</span>
           </a>
           <a class="carousel-control-next" href="#hiroTeamCarousel" role="button" data-slide="next">
-            <img src="assets/images/Arrow_right.png" alt="right arrow" width="20px">
+            {{ $image := resources.Get "images/Arrow_right.png" }}
+            {{ $image := $image.Resize "x20" }}
+            <img loading="lazy" src="{{ $image.RelPermalink }}" alt="right arrow" width="20px">
+           
             <span class="sr-only">после</span>
           </a>
         </div>
@@ -41,7 +47,9 @@
                 </div>
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    <img src="img/we-eg.png" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-eg.png" }}
+                    {{ $image := $image.Resize "x515" }}
+                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
                     <div class="team-member-details">
                       <h6 class="team-member-name">Егор Шарыпин</h6>
                       <p class="team-member-title">CTO, Co-Founder</p>
@@ -98,7 +106,10 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    <img src="img/we-gri.jpg" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-gri.jpg" }}
+                    {{ $image := $image.Resize "x515" }}
+                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+
                     <div class="team-member-details">
                       <h6 class="team-member-name">Белогубов Григорий</h6>
                       <p class="team-member-title">Trainee</p>

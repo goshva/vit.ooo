@@ -27,7 +27,10 @@
           <div class="col-md-6 blog-posts text-white hiro-pro-nav">
             <h5 class="popup-blog-headng">Последнее</h5>
             <div class="media mb-4">
-              <img src="img/pro-narasimha.png" alt="blog" width="140px" class="img-fluid mr-4">
+              {{ $image := resources.Get "img/pro-narasimha.png" }}
+              {{ $image := $image.Resize "x140" }}
+              <img loading="lazy" src="{{ $image.RelPermalink }}"  class="img-fluid mr-4"  width="140px">
+  
               <div class="media-body align-self-end">
                 <h5 class="popup-blog-post-title">
                   <a href="#works" class="pro-link text-white">Нарасимха:<br>Крипто-пузыри</a>

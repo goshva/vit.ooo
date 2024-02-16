@@ -13,7 +13,10 @@
                 </p>
             </div>
             <div class="col-md-6 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                <img src="img/art.png" class="w-100 mb-5">
+                {{ $image := resources.Get "img/art.png" }}
+                {{ $image := $image.Resize "x334" }}
+                <img loading="lazy" src="{{ $image.RelPermalink }}" class="w-100 mb-5" >
+    
                 <p class="section-text-light">
                     Доверяя нам свои бизнес-процессы, вы получаете не только
                     результат, но и понимание их функционирования и связей.

@@ -270,7 +270,9 @@
               <h2>Мой Кавказ</h2>
               <h4>Сильный сайт по туризму</h4>
             </article>
-            <img src="img/pro-maratgo.png">
+            {{ $image := resources.Get "img/pro-maratgo.png" }}
+            {{ $image := $image.Resize "x515" }}
+            <img loading="lazy" src="{{ $image.RelPermalink }}" class="img-fluid w-100 rounded" width="372px">
           </div>
         </div>
         <div class="modal fade" id="enlightenment" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -314,7 +316,9 @@
               <h2>Интернет магазин Сладостей</h2>
               <h4>Бутик MC Chocolaterie</h4>
             </article>
-            <img src="img/pro-mc.png">
+            {{ $image := resources.Get "img/pro-mc.png" }}
+            {{ $image := $image.Resize "x515" }}
+            <img loading="lazy" src="{{ $image.RelPermalink }}" class="img-fluid w-100 rounded" width="372px">
           </div>
         </div>
         <div class="modal fade" id="mc" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
