@@ -2,5 +2,6 @@
     "baseURL": "https://vit.ooo/",
     "languageCode": "ru-ru",
     "title": "ООО «вАйТи»",
-    "theme": "vit"
+    "theme": "vit",
+    "publishDir": "docs"
   }
