@@ -38,7 +38,9 @@
               </div>
             </div>
             <div class="media mb-4">
-              <img src="img/pro-yat.png" alt="blog" width="140px" class="img-fluid mr-4">
+              {{ $image := resources.Get "img/pro-yat.png" }}
+              {{ $image := $image.Resize "x140" }}
+              <img loading="lazy" src="{{ $image.RelPermalink }}"  class="img-fluid mr-4"  width="140px">
               <div class="media-body align-self-end">
                 <h5 class="popup-blog-post-title">
                   <a href="#works" class="pro-link text-white">Ятѣ: Обмен<br>Ценностями</a>
@@ -46,7 +48,10 @@
               </div>
             </div>
             <div class="media mb-4">
-              <img src="img/pro-gm.png" alt="blog" width="140px" class="img-fluid mr-4">
+              {{ $image := resources.Get "img/pro-gm.png" }}
+              {{ $image := $image.Resize "x140" }}
+              <img loading="lazy" src="{{ $image.RelPermalink }}"  class="img-fluid mr-4"  width="140px">
+                            
               <div class="media-body align-self-end">
                 <h5 class="popup-blog-post-title">
                   <a href="#works" class="pro-link text-white">Град мастеров: Ярмарки<br>Рукоделья</a>

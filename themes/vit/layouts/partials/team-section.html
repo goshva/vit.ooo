@@ -38,8 +38,10 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    <img src="img/we-ev.png" class="team-member-thumbnail">
-                    <div class="team-member-details">
+                    {{ $image := resources.Get "img/we-ev.png" }}
+                    {{ $image := $image.Resize "x515" }}
+                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+                                       <div class="team-member-details">
                       <h6 class="team-member-name">Евгений Носов</h6>
                       <p class="team-member-title">Team Lead</p>
                     </div>
@@ -62,7 +64,9 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    <img src="img/we-nik.jpg" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-nik.jpg" }}
+                    {{ $image := $image.Resize "x515" }}
+                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
                     <div class="team-member-details">
                       <h6 class="team-member-name">Никита Маденко</h6>
                       <p class="team-member-title">Project Manager</p>
@@ -71,7 +75,9 @@
                 </div>
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    <img src="img/we-max.jpg" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-max.jpg" }}
+                    {{ $image := $image.Resize "x515" }}
+                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
                     <div class="team-member-details">
                       <h6 class="team-member-name">Скринник Максим</h6>
                       <p class="team-member-title">FullStack developer</p>
@@ -84,7 +90,9 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    <img src="img/shm-1.jpg" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/shm-1.jpg" }}
+                    {{ $image := $image.Resize "x515" }}
+                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
                     <div class="team-member-details">
                       <h6 class="team-member-name">Анна Шмакова</h6>
                       <p class="team-member-title">Frontend developer</p>
@@ -93,7 +101,9 @@
                 </div>
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    <img src="img/we-li.jpg" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-li.jpg" }}
+                    {{ $image := $image.Resize "x515" }}
+                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
                     <div class="team-member-details">
                       <h6 class="team-member-name">Дмитрий Балагуров</h6>
                       <p class="team-member-title">Developer</p>
@@ -118,7 +128,10 @@
                 </div>
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    <img src="img/we-vad.jpg" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-vad.jpg" }}
+                    {{ $image := $image.Resize "x515" }}
+                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+
                     <div class="team-member-details">
                       <h6 class="team-member-name">Анастасия Ромина</h6>
                       <p class="team-member-title">Trainee</p>

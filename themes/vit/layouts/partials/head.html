@@ -1,7 +1,8 @@
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/vendors.html" . }}
     <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
-    <link rel="icon" type="image/x-icon" href="/img/favicon.svg">
+    {{ $image := resources.Get "img/favicon.svg" }}
+    <link rel="icon" type="image/x-icon" href="{{ $image.RelPermalink }}">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
