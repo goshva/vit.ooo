@@ -1,47 +1,81 @@
 <section class="team-section hiro-section" id="team">
   <div class="container">
     <div class="row">
-      <div class="col-md-5 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+      <div
+        class="col-md-5 wow fadeInUp"
+        style="visibility: visible; animation-name: fadeInUp"
+      >
         <h2 class="section-title">
-          Знакомьтесь<br>
+          Знакомьтесь<br />
           с командой
         </h2>
         <p class="section-text-light">
           Мы являемся группой энтузиастов-программистов с богатым опытом
-          разработки прогрессивных веб-приложений, обучения нейронных сетей
-          и освоения больших данных. Мы верим в то, что всеобщая доступность
-          информации способна изменить мир к лучшему. Мы разрабатываем
-          сложные системы для простых людей. Все наши продукты основаны на
-          проектах с открытым исходным кодом.
+          разработки прогрессивных веб-приложений, обучения нейронных сетей и
+          освоения больших данных. Мы верим в то, что всеобщая доступность
+          информации способна изменить мир к лучшему. Мы разрабатываем сложные
+          системы для простых людей. Все наши продукты основаны на проектах с
+          открытым исходным кодом.
         </p>
         <div>
-          <a class="carousel-control-prev" href="#hiroTeamCarousel" role="button" data-slide="prev">
-            {{ $image := resources.Get "images/arrow_left.png" }}
-            {{ $image := $image.Resize "x20" }}
-            <img loading="lazy" src="{{ $image.RelPermalink }}" alt="left arrow" width="20px">
-           
+          <a
+            class="carousel-control-prev"
+            href="#hiroTeamCarousel"
+            role="button"
+            data-slide="prev"
+          >
+            {{ $image := resources.Get "images/arrow_left.png" }} {{ $image :=
+            $image.Resize "x20" }}
+            <img
+              loading="lazy"
+              src="{{ $image.RelPermalink }}"
+              alt="left arrow"
+              width="20px"
+            />
+
             <span class="sr-only">до</span>
           </a>
-          <a class="carousel-control-next" href="#hiroTeamCarousel" role="button" data-slide="next">
-            {{ $image := resources.Get "images/Arrow_right.png" }}
-            {{ $image := $image.Resize "x20" }}
-            <img loading="lazy" src="{{ $image.RelPermalink }}" alt="right arrow" width="20px">
-           
+          <a
+            class="carousel-control-next"
+            href="#hiroTeamCarousel"
+            role="button"
+            data-slide="next"
+          >
+            {{ $image := resources.Get "images/Arrow_right.png" }} {{ $image :=
+            $image.Resize "x20" }}
+            <img
+              loading="lazy"
+              src="{{ $image.RelPermalink }}"
+              alt="right arrow"
+              width="20px"
+            />
+
             <span class="sr-only">после</span>
           </a>
         </div>
       </div>
-      <div class="col-md-7 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-        <div id="hiroTeamCarousel" class="hiro-team-carousel carousel slide" data-ride="carousel">
+      <div
+        class="col-md-7 wow fadeInRight"
+        style="visibility: visible; animation-name: fadeInRight"
+      >
+        <div
+          id="hiroTeamCarousel"
+          class="hiro-team-carousel carousel slide"
+          data-ride="carousel"
+        >
           <div class="carousel-inner" role="listbox">
             <div class="carousel-item">
               <div class="row">
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    {{ $image := resources.Get "img/we-ev.png" }}
-                    {{ $image := $image.Resize "x515" }}
-                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
-                                       <div class="team-member-details">
+                    {{ $image := resources.Get "img/we-ev.png" }} {{ $image :=
+                    $image.Resize "x515" }}
+                    <img
+                      loading="lazy"
+                      src="{{ $image.RelPermalink }}"
+                      class="team-member-thumbnail"
+                    />
+                    <div class="team-member-details">
                       <h6 class="team-member-name">Евгений Носов</h6>
                       <p class="team-member-title">Team Lead</p>
                     </div>
@@ -49,9 +83,13 @@
                 </div>
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    {{ $image := resources.Get "img/we-eg.png" }}
-                    {{ $image := $image.Resize "x515" }}
-                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-eg.png" }} {{ $image :=
+                    $image.Resize "x515" }}
+                    <img
+                      loading="lazy"
+                      src="{{ $image.RelPermalink }}"
+                      class="team-member-thumbnail"
+                    />
                     <div class="team-member-details">
                       <h6 class="team-member-name">Егор Шарыпин</h6>
                       <p class="team-member-title">CTO, Co-Founder</p>
@@ -64,9 +102,13 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    {{ $image := resources.Get "img/we-nik.jpg" }}
-                    {{ $image := $image.Resize "x515" }}
-                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-nik.jpg" }} {{ $image :=
+                    $image.Resize "x515" }}
+                    <img
+                      loading="lazy"
+                      src="{{ $image.RelPermalink }}"
+                      class="team-member-thumbnail"
+                    />
                     <div class="team-member-details">
                       <h6 class="team-member-name">Никита Маденко</h6>
                       <p class="team-member-title">Project Manager</p>
@@ -75,9 +117,13 @@
                 </div>
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    {{ $image := resources.Get "img/we-max.jpg" }}
-                    {{ $image := $image.Resize "x515" }}
-                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-max.jpg" }} {{ $image :=
+                    $image.Resize "x515" }}
+                    <img
+                      loading="lazy"
+                      src="{{ $image.RelPermalink }}"
+                      class="team-member-thumbnail"
+                    />
                     <div class="team-member-details">
                       <h6 class="team-member-name">Скринник Максим</h6>
                       <p class="team-member-title">FullStack developer</p>
@@ -90,9 +136,13 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    {{ $image := resources.Get "img/shm-1.jpg" }}
-                    {{ $image := $image.Resize "x515" }}
-                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/shm-1.jpg" }} {{ $image :=
+                    $image.Resize "x515" }}
+                    <img
+                      loading="lazy"
+                      src="{{ $image.RelPermalink }}"
+                      class="team-member-thumbnail"
+                    />
                     <div class="team-member-details">
                       <h6 class="team-member-name">Анна Шмакова</h6>
                       <p class="team-member-title">Frontend developer</p>
@@ -101,9 +151,13 @@
                 </div>
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    {{ $image := resources.Get "img/we-li.jpg" }}
-                    {{ $image := $image.Resize "x515" }}
-                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-li.jpg" }} {{ $image :=
+                    $image.Resize "x515" }}
+                    <img
+                      loading="lazy"
+                      src="{{ $image.RelPermalink }}"
+                      class="team-member-thumbnail"
+                    />
                     <div class="team-member-details">
                       <h6 class="team-member-name">Дмитрий Балагуров</h6>
                       <p class="team-member-title">Developer</p>
@@ -116,9 +170,13 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    {{ $image := resources.Get "img/we-gri.jpg" }}
-                    {{ $image := $image.Resize "x515" }}
-                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-gri.jpg" }} {{ $image :=
+                    $image.Resize "x515" }}
+                    <img
+                      loading="lazy"
+                      src="{{ $image.RelPermalink }}"
+                      class="team-member-thumbnail"
+                    />
 
                     <div class="team-member-details">
                       <h6 class="team-member-name">Белогубов Григорий</h6>
@@ -128,9 +186,13 @@
                 </div>
                 <div class="col-sm-6">
                   <div class="team-card" data-animation="animated flipInY">
-                    {{ $image := resources.Get "img/we-vad.jpg" }}
-                    {{ $image := $image.Resize "x515" }}
-                    <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+                    {{ $image := resources.Get "img/we-vad.jpg" }} {{ $image :=
+                    $image.Resize "x515" }}
+                    <img
+                      loading="lazy"
+                      src="{{ $image.RelPermalink }}"
+                      class="team-member-thumbnail"
+                    />
 
                     <div class="team-member-details">
                       <h6 class="team-member-name">Анастасия Ромина</h6>

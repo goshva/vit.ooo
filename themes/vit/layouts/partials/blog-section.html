@@ -1,5 +1,72 @@
-{{ .Content }}
-{{ range site.RegularPages }}
-  <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ .Summary }}
-{{ end }}
+<section class="posts-section hiro-section" id="posts">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-md-6 col-lg-4 mb-3">
+        <div class="card post-card h-100">
+          <div class="card-body">
+            <img
+              class="card-img-top post-image mb-3"
+              src="/posts/post-1/happy-birthday.jpg"
+              alt="post-image"
+            />
+            <h5 class="card-title">Ура нам 1 год</h5>
+            <p class="card-text text-muted mb-2">
+              Неполный список наших достижений
+            </p>
+          </div>
+          <div class="card-footer bg-transparent border-0">
+            <a href="#" class="card-link bottom">
+              <span>Перейти</span>
+              <span class="arrow-right"></span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-3">
+        <div class="card post-card h-100">
+          <div class="card-body">
+            <img
+              class="card-img-top post-image mb-3"
+              src="/posts/post-3/bryce-canyon.jpg"
+              alt="post-image"
+            />
+            <h5 class="card-title">Эксперимент с набором стажеров</h5>
+            <p class="card-text text-muted mb-2">Какой-то текст</p>
+          </div>
+          <div class="card-footer bg-transparent border-0">
+            <a href="#" class="card-link bottom">
+              <span>Перейти</span>
+              <span class="arrow-right"></span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 col-lg-4 mb-3">
+        <div class="card post-card h-100">
+          <div class="card-body">
+            <img
+              class="card-img-top post-image mb-3"
+              src="/posts/post-2/game-dev.jpg"
+              alt="post-image"
+            />
+            <h5 class="card-title">Выход в гейм дев</h5>
+            <p class="card-text text-muted mb-2">
+              Интелектуальная игра Snakeword
+            </p>
+            <a href="#" class="card-link">
+              <span>Перейти</span>
+              <span class="arrow-right"></span>
+            </a>
+          </div>
+          <div class="card-footer bg-transparent border-0">
+            <p class="card-text text-muted mb-2">Карточная игра Дурак</p>
+            <a href="#" class="card-link">
+              <span>Перейти</span>
+              <span class="arrow-right"></span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

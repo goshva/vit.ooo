@@ -1,25 +1,29 @@
 <!DOCTYPE html>
-<html lang="{{ or site.Language.LanguageCode site.Language.Lang }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
-<head>
-  {{ partial "head.html" . }}
-</head>
-<body>
-  <div class="hiro-loader" style="display: none;"></div>
-  <header class="hiro-header home-header" id="top">
-    {{ partial "header.html" . }}
-  </header>
-  <main>
-    {{ partial "hiro-nav-popup-modal.html" . }}
-    {{ partial "about-section.html" . }}
-    {{ partial "services-section.html" . }}
-    {{ partial "projects-section.html" . }}
-    {{ partial "team-section.html" . }}
-    {{ partial "career-section.html" . }}
-    {{ partial "blog-section.html" . }}
-    {{ block "main" . }}{{ end }}
-  </main>
-  <footer class="hiro-footer wow fadeInUp" >
-    {{ partial "footer.html" . }}
-  </footer>
-</body>
+<html
+  lang="{{ or site.Language.LanguageCode site.Language.Lang }}"
+  dir="{{ or site.Language.LanguageDirection `ltr` }}"
+>
+  <head>
+    {{ partial "head.html" . }}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="hiro-loader" style="display: none"></div>
+    <header class="hiro-header home-header" id="top">
+      {{ partial "header.html" . }}
+    </header>
+    <main>
+      {{ partial "hiro-nav-popup-modal.html" . }} {{ partial
+      "about-section.html" . }} {{ partial "services-section.html" . }} {{
+      partial "projects-section.html" . }} {{ partial "team-section.html" . }}
+      {{ partial "career-section.html" . }} {{ partial "blog-section.html" . }}
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer class="hiro-footer wow fadeInUp">
+      {{ partial "footer.html" . }}
+    </footer>
+    <script src="./../../assets/js/main.js"></script>
+  </body>
 </html>

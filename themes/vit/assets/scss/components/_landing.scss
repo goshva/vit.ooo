@@ -52,6 +52,10 @@
         top: calc(50% + 32px);
     }
 
+    .list-group-item {
+        background-color: transparent;
+    }
+
     .service-category-title {
         padding-bottom: 4px;
 
@@ -209,4 +213,53 @@
             font-size: 42px;
         }
     }
+}
+
+.posts-section {
+    padding-bottom: 50px;
+
+    .post-card {
+        border-radius: 5%;
+        background-color: #f5f5f5eb;
+        border-color: #cfd0d1;
+        border-width: 1px;
+        border-style: solid;
+      }
+      
+      .post-card:hover {
+        box-shadow: 1px 2px 6px 4px rgba(36, 37, 37, 0.1);
+      }
+      
+      .post-card:hover .arrow-right::before {
+        transition: 300ms;
+        transform: translateX(5px);
+      }
+      
+      .arrow-right {
+        display: inline-block;
+        position: relative;
+        width: 20px;
+        height: 20px;
+      }
+      
+      .arrow-right::before {
+        content: '';
+          background-image: url('/images/right-arrow_hu2af9e9a5120d340ac6e4f1d9f5869022_1008_0x20_resize_box_3.png');
+          background-size: 15px;
+          background-repeat: no-repeat;
+          display: inline-block;
+          position: absolute;
+          width: 20px;
+          height: 20px;
+          top: 8px;
+          left: 3px;
+      }
+      
+      .card-link span {
+        color: #2d98fc;
+      }
+      
+      .card-text {
+        font-size: 14px;
+      }
 }
