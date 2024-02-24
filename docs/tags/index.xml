@@ -2,31 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ООО «вАйТи»</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://vit.ooo/tags/</link>
     <description>Recent content in Tags on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
+    <atom:link href="https://vit.ooo/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blue</title>
-      <link>http://localhost:1313/tags/blue/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/blue/</guid>
+      <title>gamedev</title>
+      <link>https://vit.ooo/tags/gamedev/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/gamedev/</guid>
       <description></description>
     </item>
     <item>
-      <title>Green</title>
-      <link>http://localhost:1313/tags/green/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/green/</guid>
+      <title>goverment</title>
+      <link>https://vit.ooo/tags/goverment/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/goverment/</guid>
       <description></description>
     </item>
     <item>
-      <title>Red</title>
-      <link>http://localhost:1313/tags/red/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/red/</guid>
+      <title>intern</title>
+      <link>https://vit.ooo/tags/intern/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/intern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>junior</title>
+      <link>https://vit.ooo/tags/junior/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/junior/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>purejs</title>
+      <link>https://vit.ooo/tags/purejs/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/purejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>status</title>
+      <link>https://vit.ooo/tags/status/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/status/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>websocket</title>
+      <link>https://vit.ooo/tags/websocket/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/websocket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>bar</title>
+      <link>https://vit.ooo/tags/bar/</link>
+      <pubDate>Fri, 10 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/bar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>crypto</title>
+      <link>https://vit.ooo/tags/crypto/</link>
+      <pubDate>Fri, 10 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/crypto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>eat</title>
+      <link>https://vit.ooo/tags/eat/</link>
+      <pubDate>Fri, 10 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/eat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>nft</title>
+      <link>https://vit.ooo/tags/nft/</link>
+      <pubDate>Fri, 10 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/nft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>web3</title>
+      <link>https://vit.ooo/tags/web3/</link>
+      <pubDate>Fri, 10 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/web3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>red</title>
+      <link>https://vit.ooo/tags/red/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/red/</guid>
       <description></description>
     </item>
   </channel>

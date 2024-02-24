@@ -2,33 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/blue/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/green/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-3/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/red/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post-2/</loc>
+    <loc>https://vit.ooo/posts/post-2/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-1/</loc>
+    <loc>https://vit.ooo/tags/gamedev/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/goverment/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/intern/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/junior/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/purejs/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/status/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/websocket/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/posts/post-4/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/posts/post-5/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/posts/post-3/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/bar/</loc>
+    <lastmod>2023-02-10T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/crypto/</loc>
+    <lastmod>2023-02-10T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/eat/</loc>
+    <lastmod>2023-02-10T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/nft/</loc>
+    <lastmod>2023-02-10T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/web3/</loc>
+    <lastmod>2023-02-10T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/posts/post-6/</loc>
+    <lastmod>2023-02-10T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/tags/red/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://vit.ooo/posts/post-1/</loc>
+    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://vit.ooo/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://vit.ooo/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://vit.ooo/categories/</loc>
   </url>
 </urlset>

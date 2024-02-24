@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gamedev on ООО «вАйТи»</title>
+    <link>https://vit.ooo/tags/gamedev/</link>
+    <description>Recent content in gamedev on ООО «вАйТи»</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
+    <atom:link href="https://vit.ooo/tags/gamedev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Card game Durak</title>
+      <link>https://vit.ooo/posts/post-2/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/posts/post-2/</guid>
+      <description>Игра в онлайн Дурака в карты - это захватывающий процесс, который требует как стратегического мышления, так и удачи. Игроки по очереди выкладывают карты на стол, стараясь избавиться от своих карт быстрее других. Основной целью является избавиться от всех карт первым и не остаться &amp;ldquo;дураком&amp;rdquo;.
+Каждая карта имеет свое значение и масть, иногда игрокам приходится принимать решения на основе того, какие карты были уже сыграны и какие еще могут быть у соперников.</description>
+    </item>
+  </channel>
+</rss>
