@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>red on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/red/</link>
-    <description>Recent content in red on ООО «вАйТи»</description>
+    <title>Red on ООО «вАйТи»</title>
+    <link>http://localhost:1313/tags/red/</link>
+    <description>Recent content in Red on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/red/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/red/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ура нам 1 год</title>
-      <link>https://vit.ooo/posts/post-1/</link>
+      <link>http://localhost:1313/posts/post-1/index.ru/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/posts/post-1/</guid>
+      <guid>http://localhost:1313/posts/post-1/index.ru/</guid>
       <description></description>
     </item>
   </channel>
