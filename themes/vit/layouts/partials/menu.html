@@ -1,11 +1,4 @@
-{{- /*
-Renders a menu for the given menu ID.
 
-@context {page} page The current page.
-@context {string} menuID The menu ID.
-
-@example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-*/}}
 
 {{- $page := .page }}
 {{- $menuID := .menuID }}
@@ -32,9 +25,7 @@ Renders a menu for the given menu ID.
         </svg>
       </button>
     </div>
-        <ul>
-      {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-    </ul>
+
 
   </div>
 </nav>

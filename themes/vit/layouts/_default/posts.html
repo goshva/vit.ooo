@@ -1,8 +1,10 @@
+{{ define "main" }}
 <section class="posts-section hiro-section" id="posts">
     <div class="container">
         <div class="row">
+            <h2>Наш блог</h2>
             <p>{{ .Content }}</p></br>
-            {{range site.RegularPages}}
+            {{range .Site.RegularPages}}
             <div class="col-md-4">
                 <div class="card post-card" style="width: 22rem">
                     <div class="card-body">
@@ -35,3 +37,4 @@
         </div>
     </div>
 </section>
+{{ end }}

@@ -1,39 +1,11 @@
 {{ define "main" }}
-<section class="posts-section hiro-section" id="posts">
-    <div class="container">
-        <div class="row">
-            {{ .Content }}
-            {{range .Site.RegularPages}}
-            <div class="col-md-4">
-                <div class="card post-card" style="width: 22rem">
-                    <div class="card-body">
-                        <img class="card-img-top interns-image" src="{{ .Permalink }}{{ .Params.header_image }}"
-                            alt="interns-image" />
-                        <h5 class="card-title">{{.Title}}</h5>
-                        <p class="card-text text-muted">{{.Params.description}}</p>
+{{ partial "header.html" . }}
+{{ partial "hiro-nav-popup-modal.html" . }}
+{{ partial "about-section.html" . }}
+{{ partial "services-section.html" . }}
+{{ partial "projects-section.html" . }}
+{{ partial "team-section.html" . }}
+{{ partial "career-section.html" . }}
+{{ partial "posts-section.html"}}
 
-
-
-                        {{ $taxonomy := "tags" }}
-                        {{ with .GetTerms $taxonomy }}
-                          <p>
-                            {{ range $k, $_ := . -}}
-                              {{ if $k }}, {{ end }}
-                              <a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
-                            {{- end }}
-                          </p>
-                        {{ end }}
-
-                        <a href="#" class="card-link bottom">
-                            <a href="{{.Permalink}}">Перейти</a>
-                            <span class="arrow-right"></span>
-                        </a>
-                        
-                    </div>
-                </div>
-            </div>
-            {{end}}
-        </div>
-    </div>
-</section>
 {{ end }}

@@ -12,19 +12,13 @@
 <body>
   <div class="hiro-loader" style="display: none"></div>
   <header class="hiro-header home-header" id="top">
-    {{ partial "header.html" . }}
   </header>
   <main>
-    {{ partial "hiro-nav-popup-modal.html" . }}
-    {{ partial
-    "about-section.html" . }}
-    {{ partial "services-section.html" . }}
-    {{
-    partial "projects-section.html" . }}
-    {{ partial "team-section.html" . }}
-    {{ partial "career-section.html" . }}
 
-    {{ block "main" . }}{{ end }}
+
+    {{ block "main" . }}
+
+    {{ end }}
   </main>
   <footer class="hiro-footer wow fadeInUp">
     {{ partial "footer.html" . }}
