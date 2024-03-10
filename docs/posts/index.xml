@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ООО «вАйТи»</title>
+    <title>Posts on My New Hugo Site</title>
     <link>https://vit.ooo/posts/</link>
-    <description>Recent content in Posts on ООО «вАйТи»</description>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
