@@ -1,6 +1,8 @@
 baseURL = 'https://vit.ooo/'
-languageCode = 'en-us'
+languageCode = 'ru-ru'
 title = 'My New Hugo Site'
+theme = 'vit'
+publishDir = 'docs'
 
 [[menus.main]]
 name = 'Home'

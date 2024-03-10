@@ -107,8 +107,9 @@
             </ul>
           </div>
           <div class="col-md-6">
-            {{ $image := resources.Get "img/about-02.jpg" }} {{ $image :=
-            $image.Resize "x515" }} {{ with $image }}
+            {{ $image := resources.Get "img/about-02.jpg" }} 
+            {{ $image :=$image.Resize "x515" }} 
+            {{ with $image }}
             <img
               loading="lazy"
               src="{{ $image.RelPermalink }}"

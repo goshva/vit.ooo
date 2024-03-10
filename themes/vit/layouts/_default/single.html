@@ -1,10 +1,32 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+<section class="posts-section hiro-section" id="posts">
+  <div class="container">
+      <div class="row">
+          <h2>{{ .Title }}</h2>
 
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := .Date | time.Format ":date_long" }}
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+      {{ .Content }}
+      {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+<hr>
+      {{ with .NextInSection }}
+      <a class="link-hover-fx" href="{{ .Permalink }}">{{ .Title }}</a>
+      <a class="go-top-btn" href="{{ .Permalink }}">
+        {{ $image := resources.Get "images/Arrow_right.png" }} 
+        {{ $image := $image.Resize "x20" }}
+        {{ with $image }}
+          <img
+            loading="lazy"
+            src="{{ $image.RelPermalink }}"
+            class="img-fluid w-100 rounded"
+            width="372px"
+          />
+          {{ end }}
+      </a>
+      {{ end }}
+      </div>
+  </div>
+</section>
 {{ end }}
