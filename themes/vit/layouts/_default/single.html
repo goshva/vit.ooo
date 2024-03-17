@@ -1,8 +1,8 @@
 {{ define "main" }}
 <section class="posts-section hiro-section" id="posts">
   <div class="container">
-      <div class="row">
-          <h2>{{ .Title }}</h2>
+    <div class="row">
+      <h2>{{ .Title }}</h2>
 
       {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
       {{ $dateHuman := .Date | time.Format ":date_long" }}
@@ -10,23 +10,17 @@
 
       {{ .Content }}
       {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
-<hr>
+      <hr>
       {{ with .NextInSection }}
-      <a class="link-hover-fx" href="{{ .Permalink }}">{{ .Title }}</a>
-      <a class="go-top-btn" href="{{ .Permalink }}">
-        {{ $image := resources.Get "images/Arrow_right.png" }} 
-        {{ $image := $image.Resize "x20" }}
-        {{ with $image }}
-          <img
-            loading="lazy"
-            src="{{ $image.RelPermalink }}"
-            class="img-fluid w-100 rounded"
-            width="372px"
-          />
-          {{ end }}
+      <a class="link-hover-fx" href="{{ .Permalink }}">{{ .Title }}
+        <span style="font-size:3em">
+          ➡️
+          <span>
       </a>
       {{ end }}
-      </div>
+      <button class="link-hover-fx" onclick="window.history.back()">Вернуться</button>
+
+    </div>
   </div>
 </section>
 {{ end }}
