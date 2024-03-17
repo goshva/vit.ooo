@@ -1,40 +1,48 @@
 {{ define "main" }}
 <section class="posts-section hiro-section" id="posts">
     <div class="container">
-        <div class="row">
+        <div class="row posts-top">
             <h2>Наш блог</h2>
-            <p>{{ .Content }}</p></br>
+            <p>{{ .Content }}</p>
+        </div>
+
+            <ul class="row posts-list">
             {{range .Site.RegularPages}}
-            <div class="col-md-4">
-                <div class="card post-card" style="width: 22rem">
+            
+              <li class="col-md-5 col-xl-3 card post-card" style="width: 22rem">
                     <div class="card-body">
                         <a href="{{.Permalink}}">
                             <img class="card-img-top interns-image" src="{{ .Permalink }}{{ .Params.header_image }}"
                                 alt="interns-image" />
                         </a>
-                        <h5 class="card-title">{{.Title}}</h5>
-                        <p class="card-text text-muted">{{.Params.description}}</p>
+                        <div class="post-wrap">
+                          <div class="post-wrap-top">
+                            <h5 class="card-title">{{.Title}}</h5>
+                            <p class="card-text card-text-blog text-muted">{{.Params.description}}</p>
+                          </div>
 
 
+                          {{ $taxonomy := "tags" }}
+                          {{ with .GetTerms $taxonomy }}
+                          <div class="post-wrap-bottom">
+                            <p class="posts-hesh">
+                                {{ range $k, $_ := . -}}
+                                {{ if $k }}, {{ end }}
+                                <a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
+                                {{- end }}
+                            </p>
+                            {{ end }}
 
-                        {{ $taxonomy := "tags" }}
-                        {{ with .GetTerms $taxonomy }}
-                        <p>
-                            {{ range $k, $_ := . -}}
-                            {{ if $k }}, {{ end }}
-                            <a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
-                            {{- end }}
-                        </p>
-                        {{ end }}
+                            <a href="{{.Permalink}}" class="card-link bottom post-button">Перейти</a>
 
-                        <a href="{{.Permalink}}" class="card-link bottom">Перейти</a>
-                        <span class="arrow-right"></span>
-
+                            <span class="arrow-right"></span>
+                          </div>
+                        </div>
                     </div>
-                </div>
-            </div>
+                <!-- </div> -->
+            </li>
             {{end}}
-        </div>
+          </ul>
     </div>
 </section>
 {{ end }}

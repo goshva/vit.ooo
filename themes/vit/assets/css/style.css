@@ -7598,7 +7598,9 @@ html {
 
 .hiro-section {
   padding: 70px;
-  padding-bottom: 90px; }
+  padding-bottom: 90px; 
+  background-color: #fff;
+  color: #000;}
   @media (max-width: 767px) {
     .hiro-section {
       padding: 35px 20px; } }
@@ -7969,3 +7971,73 @@ html {
     width: 100%; }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Posts */
+.posts-list {
+  margin: 0;
+  padding: 0;
+  gap: 30px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+
+.posts-top {
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  padding: 0;
+  border: unset;
+}
+
+.card-body {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+}
+
+.post-wrap {
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  justify-content: space-between;
+}
+
+.card-title {
+  color: #000;
+  font-size: 1.25rem;
+}
+
+.post-wrap-top {
+  margin-bottom: 10px;
+}
+
+.post-button {
+  display: flex;
+  justify-content: center;
+  padding: 6px 16px;
+  border: 1px solid #007bff;
+  font-size: 16px;
+  text-decoration: none;
+  color: #007bff;
+  border-radius: 4px;
+  cursor: pointer;
+  }
+
+  .card-text-blog {
+    font-size: 14px;
+  }
+
+  .posts-hesh {
+    color: #007bff;
+  }
+
+  main {
+    min-width: 320px;
+  }
+
