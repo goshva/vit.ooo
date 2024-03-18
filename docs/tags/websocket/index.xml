@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Websocket on ООО «вАйТи»</title>
-    <link>http://localhost:65519/tags/websocket/</link>
+    <link>http://localhost:1313/tags/websocket/</link>
     <description>Recent content in Websocket on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:65519/tags/websocket/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/websocket/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Выход в гейм дев</title>
-      <link>http://localhost:65519/posts/post-5/</link>
+      <link>http://localhost:1313/posts/post-5/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:65519/posts/post-5/</guid>
+      <guid>http://localhost:1313/posts/post-5/</guid>
       <description>В современном мире игры онлайн становятся все более популярными, привлекая миллионы игроков со всего мира. Одной из таких игр является Snakeword - захватывающая игра на соображение, скорость и ловкость ума. Snakeword представляет собой словесную головоломку, где игроки должны составлять слова из букв, расположенных в 4х4 сетке. Чем длиннее и редче слово, тем больше очков получает игрок.&#xA;Онлайн версия Snakeword позволяет игрокам соревноваться с множеством других участников, что делает игру еще более захватывающей и динамичной.</description>
     </item>
   </channel>
