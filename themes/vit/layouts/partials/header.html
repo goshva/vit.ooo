@@ -1,230 +1,231 @@
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-
-<div
-  class="container wow fadeInUp"
-  style="visibility: visible; animation-name: fadeInUp"
->
+<div class="nav-header">
   <div
-    id="hiroHeaderCarousel"
-    class="hiro-header-carousel carousel slide"
-    data-ride="carousel"
-    data-interval="3500"
+    class="container wow fadeInUp"
+    style="visibility: visible; animation-name: fadeInUp"
   >
-    <div class="carousel-inner" role="listbox">
-      <div class="carousel-item active">
-        <div class="row">
-          <div class="col-md-6">
-            <h1
-              class="carousel-item-title"
-              data-animation="animated fadeInRight"
-              data-number="01"
-            >
-              <span>Разработка цифровых решений</span>
-            </h1>
-            <p
-              class="carousel-item-description"
-              data-animation="animated fadeInRight"
-            >
-              Наша компания готова помочь улучшить ваш сервис, продукт или
-              бизнес путём использования современных подходов, инструментов и
-              фреймворков.
-            </p>
-            <a
-              href="#services"
-              class="carousel-item-link link-hover-fx"
-              data-animation="animated fadeInRight"
-              >ПОДРОБНЕЕ</a
-            >
-            <ul
-              class="carousel-item-social-links nav wow rubberBand"
-              style="visibility: visible; animation-name: rubberBand"
-            >
-              <li>
-                <a href="https://quasar.dev/" class="link-hover-fx">Quasar</a>
-              </li>
-              <li>
-                <a href="https://vuejs.org/" class="link-hover-fx">Vue.js</a>
-              </li>
-              <li>
-                <a href="https://fastapi.tiangolo.com/" class="link-hover-fx"
-                  >FastAPI</a
-                >
-              </li>
-            </ul>
+    <div
+      id="hiroHeaderCarousel"
+      class="hiro-header-carousel carousel slide"
+      data-ride="carousel"
+      data-interval="3500"
+    >
+      <div class="carousel-inner" role="listbox">
+        <div class="carousel-item active">
+          <div class="row">
+            <div class="col-md-6">
+              <h1
+                class="carousel-item-title"
+                data-animation="animated fadeInRight"
+                data-number="01"
+              >
+                <span>Разработка цифровых решений</span>
+              </h1>
+              <p
+                class="carousel-item-description"
+                data-animation="animated fadeInRight"
+              >
+                Наша компания готова помочь улучшить ваш сервис, продукт или
+                бизнес путём использования современных подходов, инструментов и
+                фреймворков.
+              </p>
+              <a
+                href="#services"
+                class="carousel-item-link link-hover-fx"
+                data-animation="animated fadeInRight"
+                >ПОДРОБНЕЕ</a
+              >
+              <ul
+                class="carousel-item-social-links nav wow rubberBand"
+                style="visibility: visible; animation-name: rubberBand"
+              >
+                <li>
+                  <a href="https://quasar.dev/" class="link-hover-fx">Quasar</a>
+                </li>
+                <li>
+                  <a href="https://vuejs.org/" class="link-hover-fx">Vue.js</a>
+                </li>
+                <li>
+                  <a href="https://fastapi.tiangolo.com/" class="link-hover-fx"
+                    >FastAPI</a
+                  >
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-6">
+              {{ $image := resources.Get "img/about-01.jpg" }} {{ $image :=
+              $image.Resize "x515" }}
+              <img
+                loading="lazy"
+                src="{{ $image.RelPermalink }}"
+                class="img-fluid w-100 rounded"
+                width="372px"
+              />
+            </div>
           </div>
-          <div class="col-md-6">
-            {{ $image := resources.Get "img/about-01.jpg" }} {{ $image :=
-            $image.Resize "x515" }}
-            <img
-              loading="lazy"
-              src="{{ $image.RelPermalink }}"
-              class="img-fluid w-100 rounded"
-              width="372px"
-            />
+        </div>
+        <div class="carousel-item">
+          <div class="row">
+            <div class="col-md-6">
+              <h1
+                class="carousel-item-title"
+                data-animation="animated fadeInRight"
+                data-number="02"
+              >
+                <span>Внедрение инноваций</span>
+              </h1>
+              <p
+                class="carousel-item-description"
+                data-animation="animated fadeInRight"
+              >
+                Использование для бизнеса новейших технологий на основе Блокчейн,
+                Больших данных и Машинного обучения.
+              </p>
+              <a
+                href="#services"
+                class="carousel-item-link link-hover-fx"
+                data-animation="animated fadeInRight"
+                >ПОДРОБНЕЕ</a
+              >
+              <ul
+                class="carousel-item-social-links nav"
+                data-animation="animated rubberBand"
+              >
+                <li>
+                  <a href="https://near.org/" class="link-hover-fx">Near</a>
+                </li>
+                <li>
+                  <a href="https://www.influxdata.com/" class="link-hover-fx"
+                    >InfluxDB</a
+                  >
+                </li>
+                <li>
+                  <a href="https://www.tensorflow.org/" class="link-hover-fx"
+                    >TensorFlow</a
+                  >
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-6">
+              {{ $image := resources.Get "img/about-02.jpg" }} 
+              {{ $image :=$image.Resize "x515" }} 
+              {{ with $image }}
+              <img
+                loading="lazy"
+                src="{{ $image.RelPermalink }}"
+                class="img-fluid w-100 rounded"
+                width="372px"
+              />
+              {{ end }}
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="row">
+            <div class="col-md-6">
+              <h1
+                class="carousel-item-title"
+                data-animation="animated fadeInRight"
+                data-number="03"
+              >
+                <span>Сопровождение проектов</span>
+              </h1>
+              <p
+                class="carousel-item-description"
+                data-animation="animated fadeInRight"
+              >
+                Наши специалисты сопровождают клиентов на протяжении всего
+                жизненного цикла проекта.
+              </p>
+              <a
+                href="#!"
+                class="carousel-item-link link-hover-fx"
+                data-animation="animated fadeInRight"
+                >ПОДРОБНЕЕ</a
+              >
+              <ul
+                class="carousel-item-social-links nav"
+                data-animation="animated rubberBand"
+              >
+                <li>
+                  <a href="https://www.docker.com/" class="link-hover-fx"
+                    >Docker</a
+                  >
+                </li>
+                <li>
+                  <a href="https://www.ansible.com/" class="link-hover-fx"
+                    >Ansible</a
+                  >
+                </li>
+                <li>
+                  <a href="https://www.jenkins.io/" class="link-hover-fx"
+                    >Jenkins</a
+                  >
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-6">
+              {{ $image := resources.Get "img/about-03.jpg" }} {{ $image :=
+              $image.Resize "x515" }} {{ with $image }}
+              <img
+                loading="lazy"
+                src="{{ $image.RelPermalink }}"
+                class="img-fluid w-100 rounded"
+                width="372px"
+              />
+              {{ end }}
+            </div>
           </div>
         </div>
       </div>
-      <div class="carousel-item">
-        <div class="row">
-          <div class="col-md-6">
-            <h1
-              class="carousel-item-title"
-              data-animation="animated fadeInRight"
-              data-number="02"
-            >
-              <span>Внедрение инноваций</span>
-            </h1>
-            <p
-              class="carousel-item-description"
-              data-animation="animated fadeInRight"
-            >
-              Использование для бизнеса новейших технологий на основе Блокчейн,
-              Больших данных и Машинного обучения.
-            </p>
-            <a
-              href="#services"
-              class="carousel-item-link link-hover-fx"
-              data-animation="animated fadeInRight"
-              >ПОДРОБНЕЕ</a
-            >
-            <ul
-              class="carousel-item-social-links nav"
-              data-animation="animated rubberBand"
-            >
-              <li>
-                <a href="https://near.org/" class="link-hover-fx">Near</a>
-              </li>
-              <li>
-                <a href="https://www.influxdata.com/" class="link-hover-fx"
-                  >InfluxDB</a
-                >
-              </li>
-              <li>
-                <a href="https://www.tensorflow.org/" class="link-hover-fx"
-                  >TensorFlow</a
-                >
-              </li>
-            </ul>
-          </div>
-          <div class="col-md-6">
-            {{ $image := resources.Get "img/about-02.jpg" }} 
-            {{ $image :=$image.Resize "x515" }} 
-            {{ with $image }}
-            <img
-              loading="lazy"
-              src="{{ $image.RelPermalink }}"
-              class="img-fluid w-100 rounded"
-              width="372px"
-            />
-            {{ end }}
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <div class="row">
-          <div class="col-md-6">
-            <h1
-              class="carousel-item-title"
-              data-animation="animated fadeInRight"
-              data-number="03"
-            >
-              <span>Сопровождение проектов</span>
-            </h1>
-            <p
-              class="carousel-item-description"
-              data-animation="animated fadeInRight"
-            >
-              Наши специалисты сопровождают клиентов на протяжении всего
-              жизненного цикла проекта.
-            </p>
-            <a
-              href="#!"
-              class="carousel-item-link link-hover-fx"
-              data-animation="animated fadeInRight"
-              >ПОДРОБНЕЕ</a
-            >
-            <ul
-              class="carousel-item-social-links nav"
-              data-animation="animated rubberBand"
-            >
-              <li>
-                <a href="https://www.docker.com/" class="link-hover-fx"
-                  >Docker</a
-                >
-              </li>
-              <li>
-                <a href="https://www.ansible.com/" class="link-hover-fx"
-                  >Ansible</a
-                >
-              </li>
-              <li>
-                <a href="https://www.jenkins.io/" class="link-hover-fx"
-                  >Jenkins</a
-                >
-              </li>
-            </ul>
-          </div>
-          <div class="col-md-6">
-            {{ $image := resources.Get "img/about-03.jpg" }} {{ $image :=
-            $image.Resize "x515" }} {{ with $image }}
-            <img
-              loading="lazy"
-              src="{{ $image.RelPermalink }}"
-              class="img-fluid w-100 rounded"
-              width="372px"
-            />
-            {{ end }}
-          </div>
-        </div>
-      </div>
+      <ol class="carousel-indicators">
+        <li data-target="#hiroHeaderCarousel" data-slide-to="0" class=""></li>
+        <li data-target="#hiroHeaderCarousel" data-slide-to="1" class=""></li>
+        <li
+          data-target="#hiroHeaderCarousel"
+          data-slide-to="2"
+          class="active"
+        ></li>
+      </ol>
     </div>
-    <ol class="carousel-indicators">
-      <li data-target="#hiroHeaderCarousel" data-slide-to="0" class=""></li>
-      <li data-target="#hiroHeaderCarousel" data-slide-to="1" class=""></li>
-      <li
-        data-target="#hiroHeaderCarousel"
-        data-slide-to="2"
-        class="active"
-      ></li>
-    </ol>
+    <iframe
+      id="telegram-login-oooVitBot"
+      src="https://oauth.telegram.org/embed/oooVitBot?origin=https%3A%2F%2Fvit.ooo&amp;return_to=https%3A%2F%2Fvit.ooo%2F&amp;size=medium&amp;userpic=false&amp;request_access=write"
+      width="186"
+      height="28"
+      frameborder="0"
+      scrolling="no"
+      style="
+        overflow: hidden;
+        color-scheme: light dark;
+        border: none;
+        height: 28px;
+        width: 136px;
+      "
+    ></iframe>
+    <script
+      async=""
+      src="https://telegram.org/js/telegram-widget.js?22"
+      data-telegram-login="oooVitBot"
+      data-size="medium"
+      data-userpic="false"
+      data-onauth="onTelegramAuth(user)"
+      data-request-access="write"
+    ></script>
+    <script type="text/javascript">
+      function onTelegramAuth(user) {
+        console.log(user);
+        alert(
+          "Logged in as " +
+            user.first_name +
+            " " +
+            user.last_name +
+            " (" +
+            user.id +
+            (user.username ? ", @" + user.username : "") +
+            ")"
+        );
+      }
+    </script>
   </div>
-  <iframe
-    id="telegram-login-oooVitBot"
-    src="https://oauth.telegram.org/embed/oooVitBot?origin=https%3A%2F%2Fvit.ooo&amp;return_to=https%3A%2F%2Fvit.ooo%2F&amp;size=medium&amp;userpic=false&amp;request_access=write"
-    width="186"
-    height="28"
-    frameborder="0"
-    scrolling="no"
-    style="
-      overflow: hidden;
-      color-scheme: light dark;
-      border: none;
-      height: 28px;
-      width: 136px;
-    "
-  ></iframe>
-  <script
-    async=""
-    src="https://telegram.org/js/telegram-widget.js?22"
-    data-telegram-login="oooVitBot"
-    data-size="medium"
-    data-userpic="false"
-    data-onauth="onTelegramAuth(user)"
-    data-request-access="write"
-  ></script>
-  <script type="text/javascript">
-    function onTelegramAuth(user) {
-      console.log(user);
-      alert(
-        "Logged in as " +
-          user.first_name +
-          " " +
-          user.last_name +
-          " (" +
-          user.id +
-          (user.username ? ", @" + user.username : "") +
-          ")"
-      );
-    }
-  </script>
 </div>

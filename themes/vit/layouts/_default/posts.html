@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row posts-top">
             <h2>Наш блог</h2>
-            <p>{{ .Content }}</p>
+            <p class="posts-text">{{ .Content }}</p>
         </div>
 
             <ul class="row posts-list">
@@ -43,6 +43,8 @@
             </li>
             {{end}}
           </ul>
+          <button class="post-back-button" onclick="window.history.back()">⬅️ На главную</button>
+
     </div>
 </section>
 {{ end }}
