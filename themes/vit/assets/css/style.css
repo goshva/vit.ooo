@@ -8041,3 +8041,7 @@ html {
     min-width: 320px;
   }
 
+  .posts-section {
+    border-bottom: 1px solid #cacaca;
+  }
+  
