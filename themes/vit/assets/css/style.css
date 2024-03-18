@@ -8064,5 +8064,10 @@ html {
     background-position: center;
   }
 
+  @media (max-width: 767px) {
+    .nav-header-none {
+      background-image: none;
+    }
+    }
 
 
