@@ -1,8 +1,45 @@
 {{ define "main" }}
+
+<div class="container">
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+  {{ range .Data.Terms.ByCount }}
+        <ul class="tags-list">
+            <li class="tags-item"><a class="title is-5 is-size-6-mobile" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+                {{ $Totalpage:= len .Pages }}
+                {{ $Totalpage }} post{{ if ne $Totalpage 1 }}s{{ end }}
+            </li>
+        </ul>
+    {{ end }}
+</div>
+
+<style>
+  main {
+    background-color: #90caf9;
+  }
+
+  h1 {
+    margin-bottom: 15px;
+    font-size: 3.5rem;
+  }
+
+  a {
+    color: #000;
+  }
+
+  .tags-list {
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    row-gap: 15px;
+    column-gap: 20px;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+  }
+
+  .tags-item {
+    font-size: 2rem;  
+    list-style-type: none;
+    line-height: 100%;
+  }
+</style>
 {{ end }}
