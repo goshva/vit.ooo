@@ -1,4 +1,6 @@
 baseURL = 'https://blog.vit.ooo/'
+defaultContentLanguage  = 'ru'
+
 languageCode = 'ru-ru'
 title = 'ООО «вАйТи»'
 description = 'Агентство цифровых интеграций'
@@ -47,3 +49,7 @@ weight = 60
   [markup.goldmark.parser.attribute]
     block = true
     title = true
+
+    
+[permalinks]
+#posts = "/:title/:filename"
