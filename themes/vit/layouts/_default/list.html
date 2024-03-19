@@ -1,29 +1,26 @@
+
 {{ define "main" }}
 
 <div class="container">
   <h1>{{ .Title }}</h1>
+  <ul class="tags-list">
   {{ range .Data.Terms.ByCount }}
-        <ul class="tags-list">
-            <li class="tags-item"><a class="title is-5 is-size-6-mobile" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-                {{ $Totalpage:= len .Pages }}
-                {{ $Totalpage }} post{{ if ne $Totalpage 1 }}s{{ end }}
+            <li class="tags-item"><a class="title is-5 is-size-6-mobile" href="{{ .Page.Permalink }}">{{ .Page.Title }}
+                {{ $Totalpage:= len .Pages }}&nbsp;
+                <span class="title-count">{{ $Totalpage }}{{ if ne $Totalpage 1 }}{{ end }}</span></a>
             </li>
-        </ul>
-    {{ end }}
+            {{ end }}
+          </ul>
 </div>
 
 <style>
   main {
-    background-color: #90caf9;
+    background-color: #b39ddb;
   }
 
   h1 {
-    margin-bottom: 15px;
+    margin-bottom: 25px;
     font-size: 3.5rem;
-  }
-
-  a {
-    color: #000;
   }
 
   .tags-list {
@@ -31,9 +28,25 @@
     /* flex-direction: column; */
     flex-wrap: wrap;
     row-gap: 15px;
-    column-gap: 20px;
+    column-gap: 30px;
     margin-bottom: 0;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .title {
+    display: flex;
+    padding: 10px;
+    border: 1px solid #fff;
+    color: #000;
+    background-color: #fff;
+  }
+
+  .title-count {
+    padding: 2px;
+    background-color: #d8d8d8;
   }
 
   .tags-item {
@@ -41,5 +54,6 @@
     list-style-type: none;
     line-height: 100%;
   }
+
 </style>
 {{ end }}
