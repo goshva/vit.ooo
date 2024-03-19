@@ -6,97 +6,146 @@
     <description>Recent content in Tags on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 10:00:00 -0700</lastBuildDate>
     <atom:link href="https://blog.vit.ooo/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gamedev</title>
+      <title>intern</title>
+      <link>https://blog.vit.ooo/tags/intern/</link>
+      <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/intern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>junior</title>
+      <link>https://blog.vit.ooo/tags/junior/</link>
+      <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/junior/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>education</title>
+      <link>https://blog.vit.ooo/tags/education/</link>
+      <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>html5</title>
+      <link>https://blog.vit.ooo/tags/html5/</link>
+      <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/html5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>purejs</title>
+      <link>https://blog.vit.ooo/tags/purejs/</link>
+      <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/purejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Snakeword</title>
+      <link>https://blog.vit.ooo/tags/snakeword/</link>
+      <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/snakeword/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>study</title>
+      <link>https://blog.vit.ooo/tags/study/</link>
+      <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/study/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>websocket</title>
+      <link>https://blog.vit.ooo/tags/websocket/</link>
+      <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/websocket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>bar</title>
+      <link>https://blog.vit.ooo/tags/bar/</link>
+      <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/bar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>crypto</title>
+      <link>https://blog.vit.ooo/tags/crypto/</link>
+      <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/crypto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>eat</title>
+      <link>https://blog.vit.ooo/tags/eat/</link>
+      <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/eat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>nft</title>
+      <link>https://blog.vit.ooo/tags/nft/</link>
+      <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/nft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>web3</title>
+      <link>https://blog.vit.ooo/tags/web3/</link>
+      <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/web3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>gamedev</title>
       <link>https://blog.vit.ooo/tags/gamedev/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://blog.vit.ooo/tags/gamedev/</guid>
       <description></description>
     </item>
     <item>
-      <title>Goverment</title>
+      <title>goverment</title>
       <link>https://blog.vit.ooo/tags/goverment/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://blog.vit.ooo/tags/goverment/</guid>
       <description></description>
     </item>
     <item>
-      <title>Intern</title>
-      <link>https://blog.vit.ooo/tags/intern/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/intern/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Junior</title>
-      <link>https://blog.vit.ooo/tags/junior/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/junior/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Purejs</title>
-      <link>https://blog.vit.ooo/tags/purejs/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/purejs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Status</title>
+      <title>status</title>
       <link>https://blog.vit.ooo/tags/status/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://blog.vit.ooo/tags/status/</guid>
       <description></description>
     </item>
     <item>
-      <title>Websocket</title>
-      <link>https://blog.vit.ooo/tags/websocket/</link>
+      <title>Даванков</title>
+      <link>https://blog.vit.ooo/tags/%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/websocket/</guid>
+      <guid>https://blog.vit.ooo/tags/%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bar</title>
-      <link>https://blog.vit.ooo/tags/bar/</link>
-      <pubDate>Fri, 10 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/bar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Crypto</title>
-      <link>https://blog.vit.ooo/tags/crypto/</link>
-      <pubDate>Fri, 10 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/crypto/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eat</title>
-      <link>https://blog.vit.ooo/tags/eat/</link>
-      <pubDate>Fri, 10 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/eat/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nft</title>
-      <link>https://blog.vit.ooo/tags/nft/</link>
-      <pubDate>Fri, 10 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/nft/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web3</title>
-      <link>https://blog.vit.ooo/tags/web3/</link>
-      <pubDate>Fri, 10 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/web3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Red</title>
-      <link>https://blog.vit.ooo/tags/red/</link>
+      <title>быстрый старт</title>
+      <link>https://blog.vit.ooo/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/red/</guid>
+      <guid>https://blog.vit.ooo/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>вайти</title>
+      <link>https://blog.vit.ooo/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ооо</title>
+      <link>https://blog.vit.ooo/tags/%D0%BE%D0%BE%D0%BE/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>https://blog.vit.ooo/tags/%D0%BE%D0%BE%D0%BE/</guid>
       <description></description>
     </item>
   </channel>
