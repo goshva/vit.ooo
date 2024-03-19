@@ -8045,3 +8045,26 @@ html {
     border-bottom: 1px solid #e6e6e6;
   }
   
+  .posts-text {
+    font-size: clamp(1rem, 3vw, 1.5rem);
+  }
+
+  .post-back-button {
+    border: none;
+    font-size: 20px;
+    background-color: transparent;
+    letter-spacing: 3.94px;
+  }
+  
+  .nav-header {
+    background-image: linear-gradient(to right, #fff 0%, #fff 70%, #000 70%, #000 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  @media (max-width: 767px) {
+    .nav-header-none {
+      background-image: none;
+    }
+    }
