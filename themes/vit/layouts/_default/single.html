@@ -1,5 +1,9 @@
 {{ define "main" }}
 <style>
+.single-section {
+  background-image: linear-gradient(to right, #fff 0%, #fff 70%, #f0f8ff 70%, #f0f8ff 100%);
+  }
+
   .single-post__date {
   font-size: clamp(1rem, 3vw, 1.5rem);
 }
@@ -70,11 +74,9 @@
   color: #000;
   text-align: center;
 }
-
-.single-section {
-
-}
 </style>
+{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+{{ partial "hiro-nav-popup-modal.html" }}
 <section class="posts-section hiro-section single-section" id="posts">
   <div class="container">
     <div class="row">

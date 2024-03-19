@@ -1,0 +1,72 @@
+{{ define "main" }}
+<style>
+.page-404 {
+  padding: 40px 0;
+  margin: 0 auto;
+  background: #fff;
+  font-family: "Roboto Condensed", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  color: #4a95f7;
+  max-height: 100vh;
+  font-size: clamp(1rem, 2vw, 3rem);
+}
+
+.page-404__header {
+  font-size: clamp(5rem, 4vw, 10rem);
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.page-404__img {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.page-404__link {
+  display: inline-block;
+  background-color: #4a95f7;
+  color: #ffffff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.page-404__link:hover {
+  background-color: #ed9194;
+  text-decoration: none;
+  color: #ffffff;
+}
+</style>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML + CSS</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+      <section class="page-404">
+        <h1 class="page-404__header">404</h1>
+        {{ $image := resources.Get "img/404img.png" }} {{ $image :=
+          $image.Resize "x515" }}
+        <img src="{{ $image.RelPermalink }}" class="page-404__img" />
+        <p class="page-404__text">Упс! Такой страницы не существует</p>
+        <a href="{{ "" | relURL }}" class="page-404__link">Вернуться на главную</a>
+      </section>
+    </main>
+  </body>
+</html>
+
+
+{{ end }}
