@@ -7975,6 +7975,7 @@ html {
 /* Posts */
 .posts-list {
   margin: 0;
+  margin-bottom: 30px;
   padding: 0;
   gap: 30px;
   display: flex;
