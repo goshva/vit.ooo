@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ООО «вАйТи»</title>
-    <link>https://blog.vit.ooo/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Thu, 15 Feb 2024 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://blog.vit.ooo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Эксперимент с набором стажеров</title>
-      <link>https://blog.vit.ooo/posts/post-3/</link>
+      <link>http://localhost:1313/posts/post-3/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/posts/post-3/</guid>
+      <guid>http://localhost:1313/posts/post-3/</guid>
       <description>Эксперимент с набором 30 стажеров оказался увлекательным и интересным процессом. В рамках эксперимента продемонстрировали стажерам различные навыки и технологии в действии, дали возможность проявить себя на практике. Кроме того, организуемсоревнования, задания и задачи, чтобы оценить эффективность и продуктивность каждого из ребят.&#xA;Кроме того, проводим регулярные обзоры кода и обратную связь с каждым участником, чтобы помочь развиваться и расти в профессии разработчика. Уделяем внимание развитию командной работы и сплоченности и взаимо выручки, чтобы они смогли эффективно взаимодействовать друг с другом.</description>
     </item>
     <item>
       <title>Выход в гейм дев</title>
-      <link>https://blog.vit.ooo/posts/post-5/</link>
+      <link>http://localhost:1313/posts/post-5/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/posts/post-5/</guid>
+      <guid>http://localhost:1313/posts/post-5/</guid>
       <description>В современном мире игры онлайн становятся все более популярными, привлекая миллионы игроков со всего мира. Одной из таких игр является Snakeword - захватывающая игра на соображение, скорость и ловкость ума. Snakeword представляет собой словесную головоломку, где игроки должны составлять слова из букв, расположенных в 9х9 сетке. Чем длиннее слово, тем больше очков получает игрок.&#xA;Онлайн версия Snakeword позволяет игрокам соревноваться с множеством других участников, что делает игру еще более захватывающей и динамичной.</description>
     </item>
     <item>
       <title>Открытие КриптоБара</title>
-      <link>https://blog.vit.ooo/posts/post-6/</link>
+      <link>http://localhost:1313/posts/post-6/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/posts/post-6/</guid>
+      <guid>http://localhost:1313/posts/post-6/</guid>
       <description>Acid Crypto Bar / Web3 Hub / Kitchen - это уникальный проект, который объединяет в себе концепцию бара, центра Web3 и кухни. Это место предназначено для того, чтобы люди могли наслаждаться вкусной едой, хорошими напитками и в то же время погружаться в мир криптовалют и новейших технологий.&#xA;В Acid Crypto Bar гости смогут не только заказать вкусные блюда из различных кухонь мира, но и принять участие в различных мероприятиях и мастер-классах, посвященных криптовалютам, блокчейну, NFT и другим темам Web3.</description>
     </item>
     <item>
       <title>Card game Durak</title>
-      <link>https://blog.vit.ooo/posts/post-2/</link>
+      <link>http://localhost:1313/posts/post-2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/posts/post-2/</guid>
+      <guid>http://localhost:1313/posts/post-2/</guid>
       <description>Игра в онлайн Дурака в карты - это захватывающий процесс, который требует как стратегического мышления, так и удачи. Игроки по очереди выкладывают карты на стол, стараясь избавиться от своих карт быстрее других. Основной целью является избавиться от всех карт первым и не остаться &amp;ldquo;дураком&amp;rdquo;.&#xA;Каждая карта имеет свое значение и масть, иногда игрокам приходится принимать решения на основе того, какие карты были уже сыграны и какие еще могут быть у соперников.</description>
     </item>
     <item>
       <title>Встреча с кандидатом в президенты</title>
-      <link>https://blog.vit.ooo/posts/post-4/</link>
+      <link>http://localhost:1313/posts/post-4/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/posts/post-4/</guid>
+      <guid>http://localhost:1313/posts/post-4/</guid>
       <description>Проект ЯТЬ - это уникальная инициатива, которая имеет огромный потенциал для развития нашего общества. Этот проект объединяет людей с разными талантами и умениями, позволяя им реализовать свои идеи и внести свой вклад в создание лучшего мира. Развитие проекта ЯТЬ - это не просто поддержка творчества и инноваций, это инвестиция в будущее нашей страны.&#xA;Давайте вместе строить будущее, в котором каждый человек сможет реализовать свои мечты и достичь своих целей. Давайте поддерживать и развивать проект ЯТЬ, чтобы он стал примером успешного сотрудничества и вдохновением для многих людей.</description>
     </item>
     <item>
       <title>Ура  - нам 1 год</title>
-      <link>https://blog.vit.ooo/posts/post-1/</link>
+      <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/posts/post-1/</guid>
+      <guid>http://localhost:1313/posts/post-1/</guid>
       <description>За прошедший год наша компания по созданию программного обеспечения сделала значительный шаг вперед и достигла ряда важных достижений. В этом отчете мы хотим поделиться с вами нашими ключевыми успехами и рассказать о планах на будущее.&#xA;В ходе первого года работы нами были разработаны и успешно внедрены несколько программных продуктов для различных сфер бизнеса. Мы активно работали над улучшением качества наших продуктов, учитывая отзывы и пожелания наших клиентов. Это позволило нам увеличить уровень удовлетворенности пользователей и повысить нашу репутацию на рынке.</description>
     </item>
   </channel>
