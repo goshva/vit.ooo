@@ -6,7 +6,7 @@
 <section class="posts-section hiro-section" id="posts">
     <div class="container">
         <div class="row posts-top">
-            <h2>Наш блог</h2>
+            <h2 class="posts-title">Наш блог</h2>
             <p class="posts-text">{{ .Content }}</p>
         </div>
 
@@ -51,4 +51,16 @@
 
     </div>
 </section>
+<style>
+  p {
+    font-size: 1.5rem;
+  }
+  .posts-title {
+    font-size: 3rem;
+  }
+  
+</style>
 {{ end }}
+
+
+
