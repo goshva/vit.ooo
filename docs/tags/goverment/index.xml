@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goverment on ООО «вАйТи»</title>
-    <link>https://blog.vit.ooo/tags/goverment/</link>
+    <link>http://localhost:1313/tags/goverment/</link>
     <description>Recent content in Goverment on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://blog.vit.ooo/tags/goverment/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/goverment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Встреча с кандидатом в президенты</title>
-      <link>https://blog.vit.ooo/posts/post-4/</link>
+      <link>http://localhost:1313/posts/post-4/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/posts/post-4/</guid>
+      <guid>http://localhost:1313/posts/post-4/</guid>
       <description>Проект ЯТЬ - это уникальная инициатива, которая имеет огромный потенциал для развития нашего общества. Этот проект объединяет людей с разными талантами и умениями, позволяя им реализовать свои идеи и внести свой вклад в создание лучшего мира. Развитие проекта ЯТЬ - это не просто поддержка творчества и инноваций, это инвестиция в будущее нашей страны.&#xA;Давайте вместе строить будущее, в котором каждый человек сможет реализовать свои мечты и достичь своих целей. Давайте поддерживать и развивать проект ЯТЬ, чтобы он стал примером успешного сотрудничества и вдохновением для многих людей.</description>
     </item>
   </channel>

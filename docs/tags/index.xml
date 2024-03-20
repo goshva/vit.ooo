@@ -2,150 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ООО «вАйТи»</title>
-    <link>https://blog.vit.ooo/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Thu, 15 Feb 2024 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://blog.vit.ooo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intern</title>
-      <link>https://blog.vit.ooo/tags/intern/</link>
+      <link>http://localhost:1313/tags/intern/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/intern/</guid>
+      <guid>http://localhost:1313/tags/intern/</guid>
       <description></description>
     </item>
     <item>
       <title>Junior</title>
-      <link>https://blog.vit.ooo/tags/junior/</link>
+      <link>http://localhost:1313/tags/junior/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/junior/</guid>
+      <guid>http://localhost:1313/tags/junior/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>https://blog.vit.ooo/tags/education/</link>
+      <link>http://localhost:1313/tags/education/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/education/</guid>
+      <guid>http://localhost:1313/tags/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Html5</title>
-      <link>https://blog.vit.ooo/tags/html5/</link>
+      <link>http://localhost:1313/tags/html5/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/html5/</guid>
+      <guid>http://localhost:1313/tags/html5/</guid>
       <description></description>
     </item>
     <item>
       <title>Purejs</title>
-      <link>https://blog.vit.ooo/tags/purejs/</link>
+      <link>http://localhost:1313/tags/purejs/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/purejs/</guid>
+      <guid>http://localhost:1313/tags/purejs/</guid>
       <description></description>
     </item>
     <item>
       <title>Snakeword</title>
-      <link>https://blog.vit.ooo/tags/snakeword/</link>
+      <link>http://localhost:1313/tags/snakeword/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/snakeword/</guid>
+      <guid>http://localhost:1313/tags/snakeword/</guid>
       <description></description>
     </item>
     <item>
       <title>Study</title>
-      <link>https://blog.vit.ooo/tags/study/</link>
+      <link>http://localhost:1313/tags/study/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/study/</guid>
+      <guid>http://localhost:1313/tags/study/</guid>
       <description></description>
     </item>
     <item>
       <title>Websocket</title>
-      <link>https://blog.vit.ooo/tags/websocket/</link>
+      <link>http://localhost:1313/tags/websocket/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/websocket/</guid>
+      <guid>http://localhost:1313/tags/websocket/</guid>
       <description></description>
     </item>
     <item>
       <title>Bar</title>
-      <link>https://blog.vit.ooo/tags/bar/</link>
+      <link>http://localhost:1313/tags/bar/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/bar/</guid>
+      <guid>http://localhost:1313/tags/bar/</guid>
       <description></description>
     </item>
     <item>
       <title>Crypto</title>
-      <link>https://blog.vit.ooo/tags/crypto/</link>
+      <link>http://localhost:1313/tags/crypto/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/crypto/</guid>
+      <guid>http://localhost:1313/tags/crypto/</guid>
       <description></description>
     </item>
     <item>
       <title>Eat</title>
-      <link>https://blog.vit.ooo/tags/eat/</link>
+      <link>http://localhost:1313/tags/eat/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/eat/</guid>
+      <guid>http://localhost:1313/tags/eat/</guid>
       <description></description>
     </item>
     <item>
       <title>Nft</title>
-      <link>https://blog.vit.ooo/tags/nft/</link>
+      <link>http://localhost:1313/tags/nft/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/nft/</guid>
+      <guid>http://localhost:1313/tags/nft/</guid>
       <description></description>
     </item>
     <item>
       <title>Web3</title>
-      <link>https://blog.vit.ooo/tags/web3/</link>
+      <link>http://localhost:1313/tags/web3/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/web3/</guid>
+      <guid>http://localhost:1313/tags/web3/</guid>
       <description></description>
     </item>
     <item>
       <title>Gamedev</title>
-      <link>https://blog.vit.ooo/tags/gamedev/</link>
+      <link>http://localhost:1313/tags/gamedev/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/gamedev/</guid>
+      <guid>http://localhost:1313/tags/gamedev/</guid>
       <description></description>
     </item>
     <item>
       <title>Goverment</title>
-      <link>https://blog.vit.ooo/tags/goverment/</link>
+      <link>http://localhost:1313/tags/goverment/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/goverment/</guid>
+      <guid>http://localhost:1313/tags/goverment/</guid>
       <description></description>
     </item>
     <item>
       <title>Status</title>
-      <link>https://blog.vit.ooo/tags/status/</link>
+      <link>http://localhost:1313/tags/status/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/status/</guid>
+      <guid>http://localhost:1313/tags/status/</guid>
       <description></description>
     </item>
     <item>
       <title>Даванков</title>
-      <link>https://blog.vit.ooo/tags/%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2/</link>
+      <link>http://localhost:1313/tags/%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2/</guid>
+      <guid>http://localhost:1313/tags/%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2/</guid>
       <description></description>
     </item>
     <item>
       <title>Быстрый Старт</title>
-      <link>https://blog.vit.ooo/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</link>
+      <link>http://localhost:1313/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</guid>
+      <guid>http://localhost:1313/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</guid>
       <description></description>
     </item>
     <item>
       <title>Вайти</title>
-      <link>https://blog.vit.ooo/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</link>
+      <link>http://localhost:1313/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</guid>
+      <guid>http://localhost:1313/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>Ооо</title>
-      <link>https://blog.vit.ooo/tags/%D0%BE%D0%BE%D0%BE/</link>
+      <link>http://localhost:1313/tags/%D0%BE%D0%BE%D0%BE/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/tags/%D0%BE%D0%BE%D0%BE/</guid>
+      <guid>http://localhost:1313/tags/%D0%BE%D0%BE%D0%BE/</guid>
       <description></description>
     </item>
   </channel>

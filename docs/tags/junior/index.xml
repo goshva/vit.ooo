@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junior on ООО «вАйТи»</title>
-    <link>https://blog.vit.ooo/tags/junior/</link>
+    <link>http://localhost:1313/tags/junior/</link>
     <description>Recent content in Junior on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Thu, 15 Feb 2024 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://blog.vit.ooo/tags/junior/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/junior/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Эксперимент с набором стажеров</title>
-      <link>https://blog.vit.ooo/posts/post-3/</link>
+      <link>http://localhost:1313/posts/post-3/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>https://blog.vit.ooo/posts/post-3/</guid>
+      <guid>http://localhost:1313/posts/post-3/</guid>
       <description>Эксперимент с набором 30 стажеров оказался увлекательным и интересным процессом. В рамках эксперимента продемонстрировали стажерам различные навыки и технологии в действии, дали возможность проявить себя на практике. Кроме того, организуемсоревнования, задания и задачи, чтобы оценить эффективность и продуктивность каждого из ребят.&#xA;Кроме того, проводим регулярные обзоры кода и обратную связь с каждым участником, чтобы помочь развиваться и расти в профессии разработчика. Уделяем внимание развитию командной работы и сплоченности и взаимо выручки, чтобы они смогли эффективно взаимодействовать друг с другом.</description>
     </item>
   </channel>
