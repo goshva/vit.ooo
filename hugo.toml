@@ -1,4 +1,4 @@
-baseURL = 'https://blog.vit.ooo/'
+baseURL = 'https://vit.ooo/'
 defaultContentLanguage  = 'ru'
 
 languageCode = 'ru-ru'
