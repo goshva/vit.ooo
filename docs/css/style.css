@@ -7302,6 +7302,7 @@ html {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center; }
+  
   @media (max-width: 767px) {
     .hiro-header.home-header {
       background-size: 100% 81px;
@@ -8069,3 +8070,24 @@ html {
       background-image: none;
     }
     }
+
+
+
+
+    @media (max-width: 996px) {
+      .slaider-section {
+        min-height: 680px;
+      } }
+      @media (max-width: 767px) {
+        .slaider-section {
+          min-height: 1050px;
+        }
+        .hiro-nav-popup-toggle {
+          right: 0;
+        }  
+      }
+        
+      @media (max-width: 500px) {
+        .slaider-section {
+          min-height: 1000px;
+        } }
