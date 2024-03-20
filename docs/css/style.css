@@ -8074,7 +8074,7 @@ html {
 
 
 .slaider-section {
-  display: flex;
+  /* display: flex; */
   height: 100%;
 }
     @media (max-width: 996px) {
@@ -8095,11 +8095,11 @@ html {
           min-height: 1000px;
         } }
 
-  .slider-container {
+  /* .slider-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-  }
+  } */
 
 
 
