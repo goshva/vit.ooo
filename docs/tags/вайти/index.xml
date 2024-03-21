@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Вайти on ООО «вАйТи»</title>
-    <link>http://localhost:1313/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</link>
-    <description>Recent content in Вайти on ООО «вАйТи»</description>
+    <title>вайти on ООО «вАйТи»</title>
+    <link>https://vit.ooo/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</link>
+    <description>Recent content in вайти on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vit.ooo/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ура  - нам 1 год</title>
-      <link>http://localhost:1313/posts/post-1/</link>
+      <link>https://vit.ooo/posts/post-1/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-1/</guid>
-      <description>За прошедший год наша компания по созданию программного обеспечения сделала значительный шаг вперед и достигла ряда важных достижений. В этом отчете мы хотим поделиться с вами нашими ключевыми успехами и рассказать о планах на будущее.&#xA;В ходе первого года работы нами были разработаны и успешно внедрены несколько программных продуктов для различных сфер бизнеса. Мы активно работали над улучшением качества наших продуктов, учитывая отзывы и пожелания наших клиентов. Это позволило нам увеличить уровень удовлетворенности пользователей и повысить нашу репутацию на рынке.</description>
+      <guid>https://vit.ooo/posts/post-1/</guid>
+      <description>За прошедший год наша компания по созданию программного обеспечения сделала значительный шаг вперед и достигла ряда важных достижений. В этом отчете мы хотим поделиться с вами нашими ключевыми успехами и рассказать о планах на будущее.
+В ходе первого года работы нами были разработаны и успешно внедрены несколько программных продуктов для различных сфер бизнеса. Мы активно работали над улучшением качества наших продуктов, учитывая отзывы и пожелания наших клиентов. Это позволило нам увеличить уровень удовлетворенности пользователей и повысить нашу репутацию на рынке.</description>
     </item>
   </channel>
 </rss>
