@@ -3,13 +3,13 @@
   dir="ltr">
 
 <head>
-	<meta name="generator" content="Hugo 0.120.4">
+	<meta name="generator" content="Hugo 0.124.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   
-      <link rel="stylesheet" href="/css/style.min.4ae73283a1c163176c425e2e5c81e68f83249560b3cd16aa9c5cef345aaf3961.css" integrity="sha256-Sucyg6HBYxdsQl4uXIHmj4MklWCzzRaqnFzvNFqvOWE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/style.css">
 
 
-      <link rel="stylesheet" href="/vendors/animate.css/animate.min.min.6769404cde30f68387c49eca4a99b17fcacb80bcb70f6da1aa710f759694c4e3.css" integrity="sha256-Z2lATN4w9oOHxJ7KSpmxf8rLgLy3D22hqnEPdZaUxOM=" crossorigin="anonymous">
-    <script src="/vendors/jquery/jquery.min.min.7ced15da04670329e1e4bc4b8bd0635b8ca74368777e734c4e32f11dc39b7335.js" integrity="sha256-fO0V2gRnAynh5LxLi9BjW4ynQ2h3fnNMTjLxHcObczU=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/vendors/animate.css/animate.min.css">
+    <script defer src="/vendors/jquery/jquery.min.js"></script>
 
 
 
@@ -1242,28 +1242,62 @@
                             Карьера вАйТи
                         </h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">×</span>
+                            <svg class="btn-svg" aria-hidden="true" viewBox="0 0 24 24" fill="#000" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M16.19 2H7.81C4.17 2 2 4.17 2 7.81V16.18C2 19.83 4.17 22 7.81 22H16.18C19.82 22 21.99 19.83 21.99 16.19V7.81C22 4.17 19.83 2 16.19 2ZM15.36 14.3C15.65 14.59 15.65 15.07 15.36 15.36C15.21 15.51 15.02 15.58 14.83 15.58C14.64 15.58 14.45 15.51 14.3 15.36L12 13.06L9.7 15.36C9.55 15.51 9.36 15.58 9.17 15.58C8.98 15.58 8.79 15.51 8.64 15.36C8.35 15.07 8.35 14.59 8.64 14.3L10.94 12L8.64 9.7C8.35 9.41 8.35 8.93 8.64 8.64C8.93 8.35 9.41 8.35 9.7 8.64L12 10.94L14.3 8.64C14.59 8.35 15.07 8.35 15.36 8.64C15.65 8.93 15.65 9.41 15.36 9.7L13.06 12L15.36 14.3Z" fill="#000"></path> </g></svg>
                         </button>
                     </div>
                     <div class="modal-body">
-                        <h4>Сейчас открыта вакансия стажёра</h4>
-                        <p>Linux, Nginx;</p>
-                        <p>
-                            Back-end: Python, ASGI, FastAPI, Uvicorn, MongoDB, InfluxDB,
-                            Redis, RabbitMQ, WebSockets;
-                        </p>
-                        <p>Front-end: Node.js, Vite.js, Vue.js, Quasar;</p>
-                        <p>HTML5, CCS3;</p>
-                        <p>JavaScript ES6+;</p>
-                        <p>Git и Docket;</p>
-                        <p>Go и Rust;</p>
-                        <p>Эллиптическая криптография и блокчейн.</p>
+                        <h4>Сейчас открыты вакансии стажёров</h4>
+                        
+                        <ul>
+                          <li class="modal-title-position">Back-end</li>
+                          <li>Python, ASGI, FastAPI, Uvicorn, MongoDB, InfluxDB,
+                            Redis, RabbitMQ, WebSockets;</li>
+                          <li>Linux, Nginx;</li>
+                        </ul>
+                        
+                        <ul>
+                          <li class="modal-title-position">Front-end</li>
+                          <li>Node.js, Vite.js, Vue.js, Quasar;</li>
+                          <li>HTML5, CCS3;</li>
+                          <li>JavaScript ES6+;</li>
+                          <li>Git и Docket;</li>
+                          <li>Go и Rust;</li>
+                          <li>Эллиптическая криптография и блокчейн.</li>
+                        </ul>
+                        
+                        
+                        
+                        
+                        
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<style>
+  .modal-title {
+    font-size: 3rem;
+  }
+
+  .btn-svg {
+    fill: black;
+    width: 60px;
+  }
+
+  .modal-title-position {
+    font-size: 2rem;
+    list-style-type: disc;
+    }
+  ul {
+    list-style-type: none;
+  }
+
+
+
+</style>
+
 <section class="posts-section hiro-section" id="posts">
     <div class="container">
         <div class="row">
@@ -1275,8 +1309,8 @@
 
           <li class="card post-card col-md-10 col-lg-5">
             <div class="card-body">
-                <a href="https://vit.ooo/posts/post-3/">
-                    <img class="card-img-top interns-image mb-2" src="https://vit.ooo/posts/post-3/bryce-canyon.jpg"
+                <a href="http://localhost:1313/posts/post-3/">
+                    <img class="card-img-top interns-image mb-2" src="http://localhost:1313/posts/post-3/bryce-canyon.jpg"
                         alt="interns-image" />
                 </a>
                 <div class="post-wrap">
@@ -1292,11 +1326,11 @@
                 <div class="post-wrap-bottom">
                   <p class="posts-hesh">
                     
-                    <a href="/tags/junior/">#junior</a>, 
-                    <a href="/tags/intern/">#intern</a>
+                    <a href="/tags/junior/">#Junior</a>, 
+                    <a href="/tags/intern/">#Intern</a>
                   </p>
                   
-                <a href="https://vit.ooo/posts/post-3/" class="card-link bottom post-button">Перейти</a>
+                <a href="http://localhost:1313/posts/post-3/" class="card-link bottom post-button">Перейти</a>
                 <span class="arrow-right"></span>
               </div>
               <div class="card-footer bg-transparent border-0 pt-0"></div>
@@ -1307,8 +1341,8 @@
 
           <li class="card post-card col-md-10 col-lg-5">
             <div class="card-body">
-                <a href="https://vit.ooo/posts/post-5/">
-                    <img class="card-img-top interns-image mb-2" src="https://vit.ooo/posts/post-5/game-dev.jpg"
+                <a href="http://localhost:1313/posts/post-5/">
+                    <img class="card-img-top interns-image mb-2" src="http://localhost:1313/posts/post-5/game-dev.jpg"
                         alt="interns-image" />
                 </a>
                 <div class="post-wrap">
@@ -1324,15 +1358,15 @@
                 <div class="post-wrap-bottom">
                   <p class="posts-hesh">
                     
-                    <a href="/tags/purejs/">#purejs</a>, 
-                    <a href="/tags/websocket/">#websocket</a>, 
-                    <a href="/tags/html5/">#html5</a>, 
-                    <a href="/tags/study/">#study</a>, 
-                    <a href="/tags/education/">#education</a>, 
+                    <a href="/tags/purejs/">#Purejs</a>, 
+                    <a href="/tags/websocket/">#Websocket</a>, 
+                    <a href="/tags/html5/">#Html5</a>, 
+                    <a href="/tags/study/">#Study</a>, 
+                    <a href="/tags/education/">#Education</a>, 
                     <a href="/tags/snakeword/">#Snakeword</a>
                   </p>
                   
-                <a href="https://vit.ooo/posts/post-5/" class="card-link bottom post-button">Перейти</a>
+                <a href="http://localhost:1313/posts/post-5/" class="card-link bottom post-button">Перейти</a>
                 <span class="arrow-right"></span>
               </div>
               <div class="card-footer bg-transparent border-0 pt-0"></div>
@@ -1343,8 +1377,8 @@
 
           <li class="card post-card col-md-10 col-lg-5">
             <div class="card-body">
-                <a href="https://vit.ooo/posts/post-6/">
-                    <img class="card-img-top interns-image mb-2" src="https://vit.ooo/posts/post-6/2024-02-24_22-07-29.png"
+                <a href="http://localhost:1313/posts/post-6/">
+                    <img class="card-img-top interns-image mb-2" src="http://localhost:1313/posts/post-6/2024-02-24_22-07-29.png"
                         alt="interns-image" />
                 </a>
                 <div class="post-wrap">
@@ -1360,14 +1394,14 @@
                 <div class="post-wrap-bottom">
                   <p class="posts-hesh">
                     
-                    <a href="/tags/crypto/">#crypto</a>, 
-                    <a href="/tags/nft/">#nft</a>, 
-                    <a href="/tags/web3/">#web3</a>, 
-                    <a href="/tags/bar/">#bar</a>, 
-                    <a href="/tags/eat/">#eat</a>
+                    <a href="/tags/crypto/">#Crypto</a>, 
+                    <a href="/tags/nft/">#Nft</a>, 
+                    <a href="/tags/web3/">#Web3</a>, 
+                    <a href="/tags/bar/">#Bar</a>, 
+                    <a href="/tags/eat/">#Eat</a>
                   </p>
                   
-                <a href="https://vit.ooo/posts/post-6/" class="card-link bottom post-button">Перейти</a>
+                <a href="http://localhost:1313/posts/post-6/" class="card-link bottom post-button">Перейти</a>
                 <span class="arrow-right"></span>
               </div>
               <div class="card-footer bg-transparent border-0 pt-0"></div>
@@ -1378,8 +1412,8 @@
 
           <li class="card post-card col-md-10 col-lg-5">
             <div class="card-body">
-                <a href="https://vit.ooo/posts/post-2/">
-                    <img class="card-img-top interns-image mb-2" src="https://vit.ooo/posts/post-2/2024-02-24_21-44-50.png"
+                <a href="http://localhost:1313/posts/post-2/">
+                    <img class="card-img-top interns-image mb-2" src="http://localhost:1313/posts/post-2/2024-02-24_21-44-50.png"
                         alt="interns-image" />
                 </a>
                 <div class="post-wrap">
@@ -1395,12 +1429,12 @@
                 <div class="post-wrap-bottom">
                   <p class="posts-hesh">
                     
-                    <a href="/tags/purejs/">#purejs</a>, 
-                    <a href="/tags/gamedev/">#gamedev</a>, 
-                    <a href="/tags/websocket/">#websocket</a>
+                    <a href="/tags/purejs/">#Purejs</a>, 
+                    <a href="/tags/gamedev/">#Gamedev</a>, 
+                    <a href="/tags/websocket/">#Websocket</a>
                   </p>
                   
-                <a href="https://vit.ooo/posts/post-2/" class="card-link bottom post-button">Перейти</a>
+                <a href="http://localhost:1313/posts/post-2/" class="card-link bottom post-button">Перейти</a>
                 <span class="arrow-right"></span>
               </div>
               <div class="card-footer bg-transparent border-0 pt-0"></div>
@@ -1411,8 +1445,8 @@
 
           <li class="card post-card col-md-10 col-lg-5">
             <div class="card-body">
-                <a href="https://vit.ooo/posts/post-4/">
-                    <img class="card-img-top interns-image mb-2" src="https://vit.ooo/posts/post-4/2024-02-24_21-57-23.png"
+                <a href="http://localhost:1313/posts/post-4/">
+                    <img class="card-img-top interns-image mb-2" src="http://localhost:1313/posts/post-4/2024-02-24_21-57-23.png"
                         alt="interns-image" />
                 </a>
                 <div class="post-wrap">
@@ -1428,12 +1462,12 @@
                 <div class="post-wrap-bottom">
                   <p class="posts-hesh">
                     
-                    <a href="/tags/goverment/">#goverment</a>, 
-                    <a href="/tags/status/">#status</a>, 
+                    <a href="/tags/goverment/">#Goverment</a>, 
+                    <a href="/tags/status/">#Status</a>, 
                     <a href="/tags/%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2/">#Даванков</a>
                   </p>
                   
-                <a href="https://vit.ooo/posts/post-4/" class="card-link bottom post-button">Перейти</a>
+                <a href="http://localhost:1313/posts/post-4/" class="card-link bottom post-button">Перейти</a>
                 <span class="arrow-right"></span>
               </div>
               <div class="card-footer bg-transparent border-0 pt-0"></div>
@@ -1444,8 +1478,8 @@
 
           <li class="card post-card col-md-10 col-lg-5">
             <div class="card-body">
-                <a href="https://vit.ooo/posts/post-1/">
-                    <img class="card-img-top interns-image mb-2" src="https://vit.ooo/posts/post-1/happy-birthday.jpg"
+                <a href="http://localhost:1313/posts/post-1/">
+                    <img class="card-img-top interns-image mb-2" src="http://localhost:1313/posts/post-1/happy-birthday.jpg"
                         alt="interns-image" />
                 </a>
                 <div class="post-wrap">
@@ -1461,12 +1495,12 @@
                 <div class="post-wrap-bottom">
                   <p class="posts-hesh">
                     
-                    <a href="/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/">#вайти</a>, 
-                    <a href="/tags/%D0%BE%D0%BE%D0%BE/">#ооо</a>, 
-                    <a href="/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/">#быстрый старт</a>
+                    <a href="/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/">#Вайти</a>, 
+                    <a href="/tags/%D0%BE%D0%BE%D0%BE/">#Ооо</a>, 
+                    <a href="/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/">#Быстрый Старт</a>
                   </p>
                   
-                <a href="https://vit.ooo/posts/post-1/" class="card-link bottom post-button">Перейти</a>
+                <a href="http://localhost:1313/posts/post-1/" class="card-link bottom post-button">Перейти</a>
                 <span class="arrow-right"></span>
               </div>
               <div class="card-footer bg-transparent border-0 pt-0"></div>
@@ -1538,8 +1572,8 @@
       
     </div>
 
-      <script src="/js/loader.c67d9f9b32c456233bc9a4263197a619e132d490cfc6038580af24ce809887cc.js" integrity="sha256-xn2fmzLEViM7yaQmMZemGeEy1JDPxgOFgK8kzoCYh8w=" crossorigin="anonymous"></script>
-      <script src="/js/main.186abd633bc2280a243802798ddd6a01ae8a84afa418b599c86476d685a20b8b.js" integrity="sha256-GGq9YzvCKAokOAJ5jd1qAa6KhK&#43;kGLWZyGR21oWiC4s=" crossorigin="anonymous"></script>
+      <script defer src="/js/loader.js"></script>
+      <script defer src="/js/main.js"></script>
 
   </footer>
 </body>
