@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="ru-ru"
+  dir="ltr">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+    <link rel="stylesheet" href="/css/style.css">
+
+
+    <link rel="stylesheet" href="/vendors/animate.css/animate.min.css">
+    <script defer src="/vendors/jquery/jquery.min.js"></script>
+
+
+
+    <title>Документоориентированные базы данных | ООО «вАйТи»</title>
+    
+    <link rel="icon" type="image/x-icon" href="/img/favicon.svg">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Агентство цифровых интеграций">
+    <meta name="yandex-verification" content="78484268419037b0">
+    <meta name="yandex-verification" content="408dcc32111025c9">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <script src="https://mc.yandex.ru/metrika/tag.js"></script>
+    
+    <script type="text/javascript">
+      (function (m, e, t, r, i, k, a) {
+        m[i] =
+          m[i] ||
+          function () {
+            (m[i].a = m[i].a || []).push(arguments);
+          };
+        m[i].l = 1 * new Date();
+        for (var j = 0; j < document.scripts.length; j++) {
+          if (document.scripts[j].src === r) {
+            return;
+          }
+        }
+        (k = e.createElement(t)),
+          (a = e.getElementsByTagName(t)[0]),
+          (k.async = 1),
+          (k.src = r),
+          a.parentNode.insertBefore(k, a);
+      })(
+        window,
+        document,
+        "script",
+        "https://mc.yandex.ru/metrika/tag.js",
+        "ym"
+      );
+      ym(91502557, "init", {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true,
+        trackHash: true,
+      });
+    </script>
+    <noscript>
+      <div>
+        <img src="https://mc.yandex.ru/watch/91502557" style="position: absolute; left: -9999px" alt="" />
+      </div>
+    </noscript>
+    
+    <style>
+      .logo {
+        font-family: "Marmelad", sans-serif;
+        font-size: 40px;
+        color: #000;
+      }
+  
+      .hiro-nav-popup-toggle {
+        position: fixed;
+        top: 50px;
+        right: 50px;
+      }
+  
+      #services {
+        background-color: #b39ddb;
+      }
+  
+      #works {
+        background-color: #90a4ae;
+      }
+  
+      #career {
+        background-color: #90caf9;
+      }
+  
+      .container-container {
+        margin: 10px;
+        background-color: rgb(40, 47, 92);
+      }
+  
+      .container_foto {
+        padding: 0;
+        overflow: hidden;
+        position: relative;
+        padding: 0 !important;
+      }
+  
+      .container_foto article {
+        position: absolute;
+        bottom: 0;
+        padding: 0 0 10px 10px;
+        z-index: 1;
+        -webkit-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+        -o-transition: all 0.5s ease;
+        -ms-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+      }
+  
+      .container_foto h2 {
+        color: #000000;
+        text-shadow: 1px 1px 7px #fff;
+        background: linear-gradient(10deg, #ffffff8f, transparent);
+        font-weight: 800;
+        font-size: 25px;
+        border-bottom: #fff solid 1px;
+      }
+  
+      .container_foto h4 {
+        font-weight: 300;
+        color: #fff;
+        font-size: 16px;
+        background-color: #000;
+        opacity: 0.75;
+      }
+  
+      .container_foto img {
+        width: 100%;
+        top: 0;
+        left: 0;
+        opacity: 0.75;
+        -webkit-transition: all 4s ease;
+        -moz-transition: all 4s ease;
+        -o-transition: all 4s ease;
+        -ms-transition: all 4s ease;
+        transition: all 4s ease;
+      }
+  
+      .container_foto:hover {
+        cursor: pointer;
+      }
+  
+      .container_foto:hover img {
+        opacity: 0.1;
+        transform: scale(1.5);
+      }
+  
+      .container_foto:hover article {
+        transform: translate(2px, -69px);
+        -webkit-transform: translate(2px, -69px);
+        -moz-transform: translate(2px, -69px);
+        -o-transform: translate(2px, -69px);
+        -ms-transform: translate(2px, -69px);
+      }
+  
+      .carousel-item-social-links {
+        display: inline-flex;
+      }
+    </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+  <div class="hiro-loader" style="display: none"></div>
+  <header class="hiro-header home-header" id="top">
+  </header>
+  <main>
+
+
+    
+<style>
+  .single-post__date {
+  font-size: clamp(1rem, 3vw, 1.5rem);
+}
+
+.single-post__header {
+  font-size: clamp(2rem, 5vw, 3rem);
+}
+
+.single-post__content {
+  padding-top: 20px;
+  font-size: clamp(1rem, 3vw, 1.5rem);
+}
+
+.single-post__content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+
+.single-post__content_tags {
+  padding-top: 20px;
+}
+
+.single-post__content_tags div {
+  display: flex;
+}
+
+.single-post__content_tags div ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  padding-left: 20px;
+  flex-wrap: wrap;
+}
+
+.single-post__content_tags div li {
+  position: relative;
+}
+
+.single-post__content_tags div li::before {
+  content: "#";
+  position: absolute;
+  left: clamp(-15px, -3vw, -3px);
+  color: #007BFF;
+}
+
+.single-post__nav {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  letter-spacing: 3.94px;
+  font-weight: 600;
+  font-size: clamp(1rem, 3vw, 1.5rem);
+}
+
+.single-post__nav button {
+  border: none;
+  background-color: transparent;
+  letter-spacing: 3.94px;
+}
+
+.single-post__nav a {
+  text-decoration: none;
+  color: #000;
+  text-align: center;
+}
+
+.svg-arrow {
+  width: 80px;
+  height: 80px;
+}
+</style>
+
+
+<nav class="nav-header">
+  <div class="container">
+    <div class="hiro-nav">
+      <a href="https://vit.ooo/" class="nav-brand logo wow tada slow" style="visibility: visible; animation-name: tada;">вАйТи</a>
+      <button class="hiro-nav-popup-toggle">
+        <svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <g id="Hiro" stroke="#d8d8d8" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="hiro-agency" transform="translate(-964.000000, -37.000000)" fill="#d8d8d8">
+              <g id="Menu" fill="#d8d8d8" transform="translate(964.000000, 37.000000)">
+                <g id="menu">
+                  <rect id="Rectangle" fill-rule="nonzero" x="-8.05281767e-14" y="7.50795322" width="19.9609942" height="2.4951462"></rect>
+                  <rect id="Rectangle" fill-rule="nonzero" x="-8.05281767e-14" y="14.9964327" width="19.9609942" height="2.4951462"></rect>
+                  <rect id="Rectangle" fill-rule="nonzero" x="-8.05281767e-14" y="0.0194736842" width="19.9609942" height="2.4951462"></rect>
+                </g>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </button>
+    </div>
+
+
+  </div>
+</nav>
+
+<div class="hiro-nav-popup-modal">
+    <div class="hiro-nav-popup-modal-content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 menu-wrapper">
+            <ul class="nav hiro-main-nav">
+              <li class="nav-item">
+                <a href="#about" class="nav-link">О нас</a>
+              </li>
+              <li class="nav-item">
+                <a href="#services" class="nav-link">Услуги</a>
+              </li>
+              <li class="nav-item">
+                <a href="#works" class="nav-link">Работы</a>
+              </li>
+              <li class="nav-item">
+                <a href="#team" class="nav-link">Команда</a>
+              </li>
+              <li class="nav-item">
+                <a href="#career" class="nav-link">Карьера</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://vit.ooo/posts" class="nav-link">Блог</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://vit.ooo/tags" class="nav-link">ТЕМАтики</a>
+              </li>
+              <li class="nav-item">
+                <a href="#contact" class="nav-link">Контакт</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-6 blog-posts text-white hiro-pro-nav">
+            <h5 class="popup-blog-headng">Последнее</h5>
+            <div class="media mb-4">
+              
+              
+              <img loading="lazy" src="/img/pro-narasimha_hub9dc673f65a0c5715e83785e984c7cc5_61380_0x140_resize_box_3.png"  class="img-fluid mr-4"  width="140px">
+  
+              <div class="media-body align-self-end">
+                <h5 class="popup-blog-post-title">
+                  <a href="#works" class="pro-link text-white">Нарасимха:<br>Крипто-пузыри</a>
+                </h5>
+              </div>
+            </div>
+            <div class="media mb-4">
+              
+              
+              <img loading="lazy" src="/img/pro-yat_hu3339979debf949489927390446d41b98_1781410_0x140_resize_box_3.png"  class="img-fluid mr-4"  width="140px">
+              <div class="media-body align-self-end">
+                <h5 class="popup-blog-post-title">
+                  <a href="#works" class="pro-link text-white">Ятѣ: Обмен<br>Ценностями</a>
+                </h5>
+              </div>
+            </div>
+            <div class="media mb-4">
+              
+              
+              <img loading="lazy" src="/img/pro-gm_hucd5f426a2146157896a41e64e90bc3a3_68690_0x140_resize_box_3.png"  class="img-fluid mr-4"  width="140px">
+                            
+              <div class="media-body align-self-end">
+                <h5 class="popup-blog-post-title">
+                  <a href="#works" class="pro-link text-white">Град мастеров: Ярмарки<br>Рукоделья</a>
+                </h5>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<section class="posts-section hiro-section single-section" id="posts">
+  <div class="container">
+    <div class="row">
+      <article class="single-post">
+      <h2 class="single-post__header">Документоориентированные базы данных</h2>
+      
+      
+      <time datetime="2023-12-15T10:00:00-07:00" class="single-post__date">15 декабря 2023 г.</time>
+        
+      <div class="single-post__content">
+      
+        <div class="single-post__content_tags">
+
+        </div>
+      </div>
+
+      <hr>
+      <div class="single-post__nav">
+      
+      <a class="link-hover-fx" href="http://vit.ooo/services/neural-networks/">Машинное обучение и нейронные сети
+        <span>
+          <svg class="svg-arrow" fill="#000000" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" transform="rotate(90)"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M5 21h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2zm7-14 5 5h-4v5h-2v-5H7l5-5z"></path></g></svg>
+        </span>
+      </a>
+      
+      <button class="link-hover-fx" onclick="window.history.back()"><svg class="svg-arrow" fill="#000000" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" transform="rotate(270)"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M5 21h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2zm7-14 5 5h-4v5h-2v-5H7l5-5z"></path></g></svg> Вернуться</button>
+      </div>
+    </article>          
+    </div>
+  </div>
+</section>
+
+  </main>
+  <footer class="hiro-footer wow fadeInUp">
+    
+    <div class="container d-flex flex-wrap justify-content-lg-between align-items-center">
+      <p class="mb-0 footer-text">
+        © ООО «вАйТи» 2024; ИНН: 2628061464; ОГРН: 1222600013041
+      </p>
+      
+    </div>
+
+      <script defer src="/js/loader.js"></script>
+      <script defer src="/js/main.js"></script>
+
+  </footer>
+</body>
+
+</html>

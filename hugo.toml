@@ -37,6 +37,11 @@ name = 'Tags'
 pageRef = '/tags'
 weight = 60
 
+[[menus.main]]
+name = 'Services'
+pageRef = '/services'
+weight = 70
+
 [module]
   [module.hugoVersion]
     extended = false
@@ -53,3 +58,5 @@ weight = 60
     
 [permalinks]
 #posts = "/:title/:filename"
+#services = "/:title/:filename"
+

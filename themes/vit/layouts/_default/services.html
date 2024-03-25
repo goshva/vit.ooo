@@ -1,0 +1,110 @@
+{{ define "main" }}
+{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+
+<section class="hiro-section" id="services">
+  <div class="container">
+      <div class="service-section">
+          <h2 class="section-title career-section-title">Услуги</h2>
+          <p class="service-text">{{ .Content }}</p>
+          <div class="row">
+              <div class="col-md-4 mb-4 mb-md-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                  <h3 class="service-category-title service-category-title-single">Development</h3>
+                  <ul class="service-list list-group list-group-flush">
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/website" class="link">Сайты, лендинги и порталы</a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/web-applications" class="link">Прогрессивные веб-приложения</a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/mobile-app" class="link">
+                          Мобильные приложения Android и iOS
+                      </a>
+                    </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/telegram-bots" class="link">Telegram-боты</a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/qr-marketing" class="link">QR-маркетинг</a>
+                      </li>
+                  </ul>
+              </div>
+              <div class="col-md-4 mb-4 mb-md-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                  <h3 class="service-category-title">Research</h3>
+                  <ul class="service-list list-group list-group-flush">
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/big-data" class="link">Сбор больших данных</a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/storage" class="link">
+                          Хранение, обработка и визуализация
+                      </a>
+                    </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/browser-automation" class="link">
+                          Веб-скрейпинг и автоматизация браузера
+                      </a>
+                    </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/blockchain" class="link">
+                          Интеграция в блокчейн и смарт-контракты
+                      </a>
+                    </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/neural-networks" class="link">
+                          Машинное обучение и нейронные сети
+                      </a>
+                    </li>
+                  </ul>
+              </div>
+              <div class="col-md-4 mb-4 mb-md-0 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                  <h3 class="service-category-title">DevOps</h3>
+                  <ul class="service-list list-group list-group-flush">
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/cloud-infrastructure-administration" class="link">
+                          Администрирование облачной инфраструктуры
+                      </a>
+                    </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/continuous-integration-and-deployment" class="link">
+                          Непрерывные интеграция и развёртывание
+                      </a>
+                    </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/containerization-of-applications" class="link">Контейнеризация приложений</a>
+                      </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/document-oriented-databases" class="link">
+                          Документоориентированные базы данных
+                      </a>
+                    </li>
+                      <li class="list-group-item">
+                        <a href="http://vit.ooo/services/flexible-development-methodologies" class="link">Гибкие методологии разработки</a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+
+<style>
+  .service-category-title-single {
+    font-size: 24px;
+  }
+
+  .service-section {
+    padding-right: 0;
+  }
+  
+  .hiro-nav-popup-toggle {
+    display: none;
+  }
+ 
+ 
+</style>
+
+{{ end }}
+
+
+

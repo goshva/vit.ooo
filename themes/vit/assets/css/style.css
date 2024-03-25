@@ -8072,6 +8072,11 @@ html {
     }
 
 
+    .link {
+      text-decoration: none;
+      color: inherit;
+    }
+
 
 .slaider-section {
   /* display: flex; */
@@ -8101,5 +8106,6 @@ html {
     justify-content: space-between;
   } */
 
+  
 
 
