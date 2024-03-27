@@ -81,13 +81,13 @@
 <section class="posts-section hiro-section single-section" id="posts">
   <div class="container">
     <div class="row">
-      <article class="single-post">
-      <h2 class="single-post__header">{{ .Title }}</h2>
+      <article class="single-post" itemscope itemtype="http://schema.org/BlogPosting">
+      <h2 class="single-post__header" itemprop="headline">{{ .Title }}</h2>
       {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
       {{ $dateHuman := .Date | time.Format ":date_long" }}
       <time datetime="{{ $dateMachine }}" class="single-post__date">{{ $dateHuman }}</time>
         
-      <div class="single-post__content">
+      <div class="single-post__content" itemprop="articleBody">
       {{ .Content }}
         <div class="single-post__content_tags">{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
         </div>
@@ -96,8 +96,8 @@
       <hr>
       <div class="single-post__nav">
       {{ with .NextInSection }}
-      <a class="link-hover-fx" href="{{ .Permalink }}">{{ .Title }}
-        <span>
+      <a class="link-hover-fx" href="{{ .Permalink }}" itemprop="url">{{ .Title }}
+        <span itemprop="headline">
           <svg class="svg-arrow" fill="#000000" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" transform="rotate(90)"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M5 21h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2zm7-14 5 5h-4v5h-2v-5H7l5-5z"></path></g></svg>
         </span>
       </a>
