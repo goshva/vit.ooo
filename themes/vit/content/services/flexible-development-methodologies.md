@@ -3,7 +3,7 @@ title = 'Гибкие методологии разработки'
 date = 2024-03-02T10:00:00-07:00
 draft = false
 header_image= 'kandinsky-download-1711514849591.png'
-description= ''
+description= 'Гибкие методологии разработки'
 tags= ['Гибкие методологии', 'разработка ПО', 'Scrum', 'Kanban', 'управление проектами', 'Agile']
 +++
 

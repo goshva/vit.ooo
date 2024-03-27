@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WebApp on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/webapp/</link>
+    <link>http://localhost:1313/tags/webapp/</link>
     <description>Recent content in WebApp on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/webapp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/webapp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Telegram-боты</title>
-      <link>https://vit.ooo/services/telegram-bots/</link>
+      <link>http://localhost:1313/services/telegram-bots/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/telegram-bots/</guid>
+      <guid>http://localhost:1313/services/telegram-bots/</guid>
       <description></description>
     </item>
     <item>
       <title>Прогрессивные веб-приложения</title>
-      <link>https://vit.ooo/services/web-applications/</link>
+      <link>http://localhost:1313/services/web-applications/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/web-applications/</guid>
+      <guid>http://localhost:1313/services/web-applications/</guid>
       <description></description>
     </item>
   </channel>

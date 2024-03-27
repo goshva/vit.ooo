@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/agile/</link>
+    <link>http://localhost:1313/tags/agile/</link>
     <description>Recent content in Agile on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sat, 02 Mar 2024 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Гибкие методологии разработки</title>
-      <link>https://vit.ooo/services/flexible-development-methodologies/</link>
+      <link>http://localhost:1313/services/flexible-development-methodologies/</link>
       <pubDate>Sat, 02 Mar 2024 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/flexible-development-methodologies/</guid>
+      <guid>http://localhost:1313/services/flexible-development-methodologies/</guid>
       <description>Гибкие методологии разработки - это современный подход к управлению процессом создания программного обеспечения, который отличается от традиционных жестких методов, таких как Waterfall. Гибкие методологии позволяют более эффективно реагировать на изменения в требованиях заказчика, сокращая время и ресурсы, затрачиваемые на разработку.&#xA;Одной из самых популярных гибких методологий разработки является Scrum. Scrum предлагает разделение проекта на короткие циклы, называемые спринтами, в течение которых команда разработчиков выполняет определенное количество работы и регулярно встречается для обсуждения прогресса и планирования следующих шагов.</description>
     </item>
   </channel>

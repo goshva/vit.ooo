@@ -9,7 +9,7 @@
       {{ end }}
       {{ range .Data.Terms.ByCount }}
           
-        <li class="tags-item"><a class="title is-5 is-size-6-mobile" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+        <li class="tags-item"><a class="title is-5 is-size-6-mobile tags-link" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
             {{ $Totalpage:= len .Pages }}
             <span>{{ $Totalpage }}</span> {{ if ne $Totalpage 1 }}{{ end }}
         </li>

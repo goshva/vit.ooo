@@ -2,13 +2,13 @@
 <html lang="ru-ru"
   dir="ltr">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   
-      <link rel="stylesheet" href="/css/style.min.376faa74493fcd4d309b681d9d2115450a91b01ee0011fc96c3e0966ae8f9665.css" integrity="sha256-N2&#43;qdEk/zU0wm2gdnSEVRQqRsB7gAR/JbD4JZq6PlmU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/style.css">
 
 
-      <link rel="stylesheet" href="/vendors/animate.css/animate.min.min.6769404cde30f68387c49eca4a99b17fcacb80bcb70f6da1aa710f759694c4e3.css" integrity="sha256-Z2lATN4w9oOHxJ7KSpmxf8rLgLy3D22hqnEPdZaUxOM=" crossorigin="anonymous">
-    <script src="/vendors/jquery/jquery.min.min.7ced15da04670329e1e4bc4b8bd0635b8ca74368777e734c4e32f11dc39b7335.js" integrity="sha256-fO0V2gRnAynh5LxLi9BjW4ynQ2h3fnNMTjLxHcObczU=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/vendors/animate.css/animate.min.css">
+    <script defer src="/vendors/jquery/jquery.min.js"></script>
 
 
 
@@ -141,7 +141,7 @@
 <nav class="nav-header">
   <div class="container">
     <div class="hiro-nav">
-      <a href="https://vit.ooo/" class="nav-brand logo wow tada slow" style="visibility: visible; animation-name: tada;">вАйТи</a>
+      <a href="/" class="nav-brand logo wow tada slow nav-brand-link" style="visibility: visible; animation-name: tada;">вАйТи</a>
       <button class="hiro-nav-popup-toggle">
         <svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
           <g id="Hiro" stroke="#d8d8d8" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -163,6 +163,79 @@
   </div>
 </nav>
 
+<div class="hiro-nav-popup-modal">
+    <div class="hiro-nav-popup-modal-content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 menu-wrapper">
+            <ul class="nav hiro-main-nav">
+              <li class="nav-item">
+                <a href="#about" class="nav-link">О нас</a>
+              </li>
+              <li class="nav-item">
+                <a href="/services" class="nav-link">Услуги</a>
+              </li>
+              <li class="nav-item">
+                <a href="#works" class="nav-link">Работы</a>
+              </li>
+              <li class="nav-item">
+                <a href="#team" class="nav-link">Команда</a>
+              </li>
+              <li class="nav-item">
+                <a href="#career" class="nav-link">Карьера</a>
+              </li>
+              <li class="nav-item">
+                <a href="/posts" class="nav-link">Блог</a>
+              </li>
+              <li class="nav-item">
+                <a href="/tags" class="nav-link">ТЕМАтики</a>
+              </li>
+              <li class="nav-item">
+                <a href="#contact" class="nav-link">Контакт</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-6 blog-posts text-white hiro-pro-nav">
+            <h5 class="popup-blog-headng">Последнее</h5>
+            <div class="media mb-4">
+              
+              
+              <img loading="lazy" src="/img/pro-narasimha_hub9dc673f65a0c5715e83785e984c7cc5_61380_0x140_resize_box_3.png"  class="img-fluid mr-4"  width="140px">
+  
+              <div class="media-body align-self-end">
+                <h5 class="popup-blog-post-title">
+                  <a href="#works" class="pro-link text-white">Нарасимха:<br>Крипто-пузыри</a>
+                </h5>
+              </div>
+            </div>
+            <div class="media mb-4">
+              
+              
+              <img loading="lazy" src="/img/pro-yat_hu3339979debf949489927390446d41b98_1781410_0x140_resize_box_3.png"  class="img-fluid mr-4"  width="140px">
+              <div class="media-body align-self-end">
+                <h5 class="popup-blog-post-title">
+                  <a href="#works" class="pro-link text-white">Ятѣ: Обмен<br>Ценностями</a>
+                </h5>
+              </div>
+            </div>
+            <div class="media mb-4">
+              
+              
+              <img loading="lazy" src="/img/pro-gm_hucd5f426a2146157896a41e64e90bc3a3_68690_0x140_resize_box_3.png"  class="img-fluid mr-4"  width="140px">
+                            
+              <div class="media-body align-self-end">
+                <h5 class="popup-blog-post-title">
+                  <a href="#works" class="pro-link text-white">Град мастеров: Ярмарки<br>Рукоделья</a>
+                </h5>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
 
 <section class="hiro-section" id="services">
   <div class="container">
@@ -175,21 +248,21 @@
                   <h3 class="service-category-title service-category-title-single">Development</h3>
                   <ul class="service-list list-group list-group-flush">
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/website" class="link">Сайты, лендинги и порталы</a>
+                        <a href="/services/website" class="service-list__link link">Сайты, лендинги и порталы</a>
                       </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/web-applications" class="link">Прогрессивные веб-приложения</a>
+                        <a href="/services/web-applications" class="service-list__link link">Прогрессивные веб-приложения</a>
                       </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/mobile-app" class="link">
+                        <a href="/services/mobile-app" class="service-list__link link">
                           Мобильные приложения Android и iOS
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/telegram-bots" class="link">Telegram-боты</a>
+                        <a href="/services/telegram-bots" class="service-list__link link">Telegram-боты</a>
                       </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/qr-marketing" class="link">QR-маркетинг</a>
+                        <a href="/services/qr-marketing" class="service-list__link link">QR-маркетинг</a>
                       </li>
                   </ul>
               </div>
@@ -197,25 +270,25 @@
                   <h3 class="service-category-title">Research</h3>
                   <ul class="service-list list-group list-group-flush">
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/big-data" class="link">Сбор больших данных</a>
+                        <a href="/services/big-data" class="service-list__link link">Сбор больших данных</a>
                       </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/storage" class="link">
+                        <a href="/services/storage" class="service-list__link link">
                           Хранение, обработка и визуализация
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/browser-automation" class="link">
+                        <a href="/services/browser-automation" class="service-list__link link">
                           Веб-скрейпинг и автоматизация браузера
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/blockchain" class="link">
+                        <a href="/services/blockchain" class="service-list__link link">
                           Интеграция в блокчейн и смарт-контракты
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/neural-networks" class="link">
+                        <a href="/services/neural-networks" class="service-list__link link">
                           Машинное обучение и нейронные сети
                       </a>
                     </li>
@@ -225,25 +298,25 @@
                   <h3 class="service-category-title">DevOps</h3>
                   <ul class="service-list list-group list-group-flush">
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/cloud-infrastructure-administration" class="link">
+                        <a href="/services/cloud-infrastructure-administration" class="service-list__link link">
                           Администрирование облачной инфраструктуры
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/continuous-integration-and-deployment" class="link">
+                        <a href="/services/continuous-integration-and-deployment" class="service-list__link link">
                           Непрерывные интеграция и развёртывание
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/containerization-of-applications" class="link">Контейнеризация приложений</a>
+                        <a href="/services/containerization-of-applications" class="service-list__link link">Контейнеризация приложений</a>
                       </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/document-oriented-databases" class="link">
+                        <a href="/services/document-oriented-databases" class="service-list__link link">
                           Документоориентированные базы данных
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/flexible-development-methodologies" class="link">Гибкие методологии разработки</a>
+                        <a href="/services/flexible-development-methodologies" class="service-list__link link">Гибкие методологии разработки</a>
                       </li>
                   </ul>
               </div>
@@ -263,13 +336,7 @@
   
   .hiro-nav-popup-toggle {
     display: none;
-  }
-
-  .link {
-    text-decoration: none;
-    color: inherit;
-  }
- 
+  }                                                           
  
 </style>
 
@@ -286,8 +353,8 @@
      <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(91502557, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/91502557" style="position:absolute; left:-9999px;" alt="" /></div></noscript> 
 
 
-      <script src="/js/loader.c67d9f9b32c456233bc9a4263197a619e132d490cfc6038580af24ce809887cc.js" integrity="sha256-xn2fmzLEViM7yaQmMZemGeEy1JDPxgOFgK8kzoCYh8w=" crossorigin="anonymous"></script>
-      <script src="/js/main.186abd633bc2280a243802798ddd6a01ae8a84afa418b599c86476d685a20b8b.js" integrity="sha256-GGq9YzvCKAokOAJ5jd1qAa6KhK&#43;kGLWZyGR21oWiC4s=" crossorigin="anonymous"></script>
+      <script defer src="/js/loader.js"></script>
+      <script defer src="/js/main.js"></script>
 
   </footer>
 </body>

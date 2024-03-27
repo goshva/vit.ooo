@@ -8106,6 +8106,52 @@ html {
     justify-content: space-between;
   } */
 
-  
+  .service-list__link, .tags-link {
+    text-decoration: none;
+    line-height: 21px;
+    color: inherit;
+    transition: 0.3s linear;
+  }
 
+  .service-list__link:hover {
+    text-decoration: none;
+    color: #44d7b6;
+    font-size: 15px;
+    line-height: 21px;
+  }
+
+  .tags-link:hover {
+    text-decoration: none;
+    color: #d0c2e9;
+  }
+
+  .services-section-link, .nav-brand-link {
+    text-decoration: none;
+    line-height: 21px;
+    color: inherit;
+    transition: 0.3s linear;
+    position: relative;
+  }
+
+  .services-section-link:hover, .nav-brand-link:hover {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .services-section-link::after, .nav-brand-link::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -15px;
+    width: 0;
+    height: 5px;
+    opacity: 0;
+    background-color: #44d7b6;
+    transition: 0.3s ease-in-out all;
+}
+  
+.services-section-link:hover::after, .nav-brand-link:hover::after {
+    opacity: 1;
+    width: 100%;
+}
 

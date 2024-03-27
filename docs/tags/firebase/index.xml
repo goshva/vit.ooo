@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firebase on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/firebase/</link>
+    <link>http://localhost:1313/tags/firebase/</link>
     <description>Recent content in Firebase on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Mon, 18 Mar 2024 21:10:00 +0703</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Документоориентированные базы данных</title>
-      <link>https://vit.ooo/services/document-oriented-databases/</link>
+      <link>http://localhost:1313/services/document-oriented-databases/</link>
       <pubDate>Mon, 18 Mar 2024 21:10:00 +0703</pubDate>
-      <guid>https://vit.ooo/services/document-oriented-databases/</guid>
+      <guid>http://localhost:1313/services/document-oriented-databases/</guid>
       <description>Прибыль от использования в производстве документоориентированных баз данных</description>
     </item>
   </channel>

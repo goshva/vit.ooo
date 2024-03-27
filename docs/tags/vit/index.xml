@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vit on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/vit/</link>
+    <link>http://localhost:1313/tags/vit/</link>
     <description>Recent content in Vit on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/vit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>QR-маркетинг</title>
-      <link>https://vit.ooo/services/qr-marketing/</link>
+      <link>http://localhost:1313/services/qr-marketing/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/qr-marketing/</guid>
+      <guid>http://localhost:1313/services/qr-marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Администратирование облачной инфраструктуры</title>
-      <link>https://vit.ooo/services/cloud-infrastructure-administration/</link>
+      <link>http://localhost:1313/services/cloud-infrastructure-administration/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/cloud-infrastructure-administration/</guid>
+      <guid>http://localhost:1313/services/cloud-infrastructure-administration/</guid>
       <description>Администратирование облачной инфраструктуры - это &amp;hellip;.</description>
     </item>
     <item>
       <title>Веб-скрейпинг и автоматизация браузера</title>
-      <link>https://vit.ooo/services/browser-automation/</link>
+      <link>http://localhost:1313/services/browser-automation/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/browser-automation/</guid>
+      <guid>http://localhost:1313/services/browser-automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Интеграция в блокчейн и смарт-контракты</title>
-      <link>https://vit.ooo/services/blockchain/</link>
+      <link>http://localhost:1313/services/blockchain/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/blockchain/</guid>
+      <guid>http://localhost:1313/services/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Контейнеризация приложений</title>
-      <link>https://vit.ooo/services/containerization-of-applications/</link>
+      <link>http://localhost:1313/services/containerization-of-applications/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/containerization-of-applications/</guid>
+      <guid>http://localhost:1313/services/containerization-of-applications/</guid>
       <description></description>
     </item>
     <item>
       <title>Мобильные приложения Android и iOS</title>
-      <link>https://vit.ooo/services/mobile-app/</link>
+      <link>http://localhost:1313/services/mobile-app/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/mobile-app/</guid>
+      <guid>http://localhost:1313/services/mobile-app/</guid>
       <description></description>
     </item>
     <item>
       <title>Сбор больших данных</title>
-      <link>https://vit.ooo/services/big-data/</link>
+      <link>http://localhost:1313/services/big-data/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/big-data/</guid>
+      <guid>http://localhost:1313/services/big-data/</guid>
       <description></description>
     </item>
   </channel>

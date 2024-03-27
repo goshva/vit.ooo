@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+{{ partial "hiro-nav-popup-modal.html" }}
 
 <section class="hiro-section" id="services">
   <div class="container">
@@ -11,21 +12,21 @@
                   <h3 class="service-category-title service-category-title-single">Development</h3>
                   <ul class="service-list list-group list-group-flush">
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/website" class="link">Сайты, лендинги и порталы</a>
+                        <a href="/services/website" class="service-list__link link">Сайты, лендинги и порталы</a>
                       </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/web-applications" class="link">Прогрессивные веб-приложения</a>
+                        <a href="/services/web-applications" class="service-list__link link">Прогрессивные веб-приложения</a>
                       </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/mobile-app" class="link">
+                        <a href="/services/mobile-app" class="service-list__link link">
                           Мобильные приложения Android и iOS
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/telegram-bots" class="link">Telegram-боты</a>
+                        <a href="/services/telegram-bots" class="service-list__link link">Telegram-боты</a>
                       </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/qr-marketing" class="link">QR-маркетинг</a>
+                        <a href="/services/qr-marketing" class="service-list__link link">QR-маркетинг</a>
                       </li>
                   </ul>
               </div>
@@ -33,25 +34,25 @@
                   <h3 class="service-category-title">Research</h3>
                   <ul class="service-list list-group list-group-flush">
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/big-data" class="link">Сбор больших данных</a>
+                        <a href="/services/big-data" class="service-list__link link">Сбор больших данных</a>
                       </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/storage" class="link">
+                        <a href="/services/storage" class="service-list__link link">
                           Хранение, обработка и визуализация
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/browser-automation" class="link">
+                        <a href="/services/browser-automation" class="service-list__link link">
                           Веб-скрейпинг и автоматизация браузера
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/blockchain" class="link">
+                        <a href="/services/blockchain" class="service-list__link link">
                           Интеграция в блокчейн и смарт-контракты
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/neural-networks" class="link">
+                        <a href="/services/neural-networks" class="service-list__link link">
                           Машинное обучение и нейронные сети
                       </a>
                     </li>
@@ -61,25 +62,25 @@
                   <h3 class="service-category-title">DevOps</h3>
                   <ul class="service-list list-group list-group-flush">
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/cloud-infrastructure-administration" class="link">
+                        <a href="/services/cloud-infrastructure-administration" class="service-list__link link">
                           Администрирование облачной инфраструктуры
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/continuous-integration-and-deployment" class="link">
+                        <a href="/services/continuous-integration-and-deployment" class="service-list__link link">
                           Непрерывные интеграция и развёртывание
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/containerization-of-applications" class="link">Контейнеризация приложений</a>
+                        <a href="/services/containerization-of-applications" class="service-list__link link">Контейнеризация приложений</a>
                       </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/document-oriented-databases" class="link">
+                        <a href="/services/document-oriented-databases" class="service-list__link link">
                           Документоориентированные базы данных
                       </a>
                     </li>
                       <li class="list-group-item">
-                        <a href="http://vit.ooo/services/flexible-development-methodologies" class="link">Гибкие методологии разработки</a>
+                        <a href="/services/flexible-development-methodologies" class="service-list__link link">Гибкие методологии разработки</a>
                       </li>
                   </ul>
               </div>
@@ -99,13 +100,7 @@
   
   .hiro-nav-popup-toggle {
     display: none;
-  }
-
-  .link {
-    text-decoration: none;
-    color: inherit;
-  }
- 
+  }                                                           
  
 </style>
 

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bots on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/bots/</link>
+    <link>http://localhost:1313/tags/bots/</link>
     <description>Recent content in Bots on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/bots/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bots/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Telegram-боты</title>
-      <link>https://vit.ooo/services/telegram-bots/</link>
+      <link>http://localhost:1313/services/telegram-bots/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/telegram-bots/</guid>
+      <guid>http://localhost:1313/services/telegram-bots/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PWA on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/pwa/</link>
+    <link>http://localhost:1313/tags/pwa/</link>
     <description>Recent content in PWA on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/pwa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/pwa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Прогрессивные веб-приложения</title>
-      <link>https://vit.ooo/services/web-applications/</link>
+      <link>http://localhost:1313/services/web-applications/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/web-applications/</guid>
+      <guid>http://localhost:1313/services/web-applications/</guid>
       <description></description>
     </item>
   </channel>

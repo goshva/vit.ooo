@@ -3,7 +3,7 @@ title = 'Машинное обучение и нейронные сети'
 date = 2024-03-27T10:00:00-07:00
 draft = false
 header_image= 'kandinsky-download-1711512096640.png'
-description= ''
+description= 'Машинное обучение и нейронные сети'
 tags=['AI','neural networks']
 +++
 
