@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vit on ООО «вАйТи»</title>
+    <link>https://vit.ooo/tags/vit/</link>
+    <description>Recent content in vit on ООО «вАйТи»</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
+    <atom:link href="https://vit.ooo/tags/vit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QR-маркетинг</title>
+      <link>https://vit.ooo/services/qr-marketing/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/qr-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Администратирование облачной инфраструктуры</title>
+      <link>https://vit.ooo/services/cloud-infrastructure-administration/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/cloud-infrastructure-administration/</guid>
+      <description>Администратирование облачной инфраструктуры - это &amp;hellip;.</description>
+    </item>
+    <item>
+      <title>Веб-скрейпинг и автоматизация браузера</title>
+      <link>https://vit.ooo/services/browser-automation/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/browser-automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Интеграция в блокчейн и смарт-контракты</title>
+      <link>https://vit.ooo/services/blockchain/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Контейнеризация приложений</title>
+      <link>https://vit.ooo/services/containerization-of-applications/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/containerization-of-applications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Мобильные приложения Android и iOS</title>
+      <link>https://vit.ooo/services/mobile-app/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/mobile-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Сбор больших данных</title>
+      <link>https://vit.ooo/services/big-data/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/big-data/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

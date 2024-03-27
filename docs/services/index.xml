@@ -2,115 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Услуги on ООО «вАйТи»</title>
-    <link>http://vit.ooo/services/</link>
+    <link>https://vit.ooo/services/</link>
     <description>Recent content in Услуги on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 15 Feb 2024 10:00:00 -0700</lastBuildDate>
-    <atom:link href="http://vit.ooo/services/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Машинное обучение и нейронные сети</title>
-      <link>http://vit.ooo/services/neural-networks/</link>
-      <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/neural-networks/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
+    <atom:link href="https://vit.ooo/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Документоориентированные базы данных</title>
-      <link>http://vit.ooo/services/document-oriented-databases/</link>
-      <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/document-oriented-databases/</guid>
-      <description></description>
+      <link>https://vit.ooo/services/document-oriented-databases/</link>
+      <pubDate>Mon, 18 Mar 2024 21:10:00 +0703</pubDate>
+      <guid>https://vit.ooo/services/document-oriented-databases/</guid>
+      <description>Прибыль от использования в производстве документоориентированных баз данных</description>
     </item>
     <item>
       <title>Гибкие методологии разработки</title>
-      <link>http://vit.ooo/services/flexible-development-methodologies/</link>
-      <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/flexible-development-methodologies/</guid>
-      <description></description>
+      <link>https://vit.ooo/services/flexible-development-methodologies/</link>
+      <pubDate>Sat, 02 Mar 2024 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/flexible-development-methodologies/</guid>
+      <description>Гибкие методологии разработки - это современный подход к управлению процессом создания программного обеспечения, который отличается от традиционных жестких методов, таких как Waterfall. Гибкие методологии позволяют более эффективно реагировать на изменения в требованиях заказчика, сокращая время и ресурсы, затрачиваемые на разработку.
+Одной из самых популярных гибких методологий разработки является Scrum. Scrum предлагает разделение проекта на короткие циклы, называемые спринтами, в течение которых команда разработчиков выполняет определенное количество работы и регулярно встречается для обсуждения прогресса и планирования следующих шагов.</description>
     </item>
     <item>
-      <title>QR-маркетинг</title>
-      <link>http://vit.ooo/services/qr-marketing/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/qr-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Telegram-боты</title>
-      <link>http://vit.ooo/services/telegram-bots/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/telegram-bots/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Администратирование облачной инфраструктуры</title>
-      <link>http://vit.ooo/services/cloud-infrastructure-administration/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/cloud-infrastructure-administration/</guid>
-      <description>Администратирование облачной инфраструктуры - это &amp;hellip;.</description>
-    </item>
-    <item>
-      <title>Веб-скрейпинг и автоматизация браузера</title>
-      <link>http://vit.ooo/services/browser-automation/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/browser-automation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Интеграция в блокчейн и смарт-контракты</title>
-      <link>http://vit.ooo/services/blockchain/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/blockchain/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Контейнеризация приложений</title>
-      <link>http://vit.ooo/services/containerization-of-applications/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/containerization-of-applications/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Мобильные приложения Android и iOS</title>
-      <link>http://vit.ooo/services/mobile-app/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/mobile-app/</guid>
+      <title>Хранение, обработка и визуализация</title>
+      <link>https://vit.ooo/services/storage/</link>
+      <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/storage/</guid>
       <description></description>
     </item>
     <item>
       <title>Непрерывные интеграция и развёртывание</title>
-      <link>http://vit.ooo/services/continuous-integration-and-deployment/</link>
+      <link>https://vit.ooo/services/continuous-integration-and-deployment/</link>
+      <pubDate>Mon, 12 Feb 2024 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/continuous-integration-and-deployment/</guid>
+      <description>Непрерывная интеграция и развертывание (Continuous Integration and Deployment, CI/CD) - это методология разработки программного обеспечения, которая ориентирована на ускорение процесса поставки кода в производственную среду. Основная идея заключается в автоматизации процессов сборки, тестирования, развертывания и мониторинга приложений, что позволяет ускорить цикл разработки и снизить риски внесения ошибок в продукт.
+Непрерывная интеграция включает в себя регулярное объединение кода всех разработчиков в общий репозиторий, где происходит автоматическая сборка и запуск тестов. Это помогает выявить конфликты между кодом, а также своевременно обнаружить ошибки и проблемы интеграции.</description>
+    </item>
+    <item>
+      <title>QR-маркетинг</title>
+      <link>https://vit.ooo/services/qr-marketing/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/continuous-integration-and-deployment/</guid>
+      <guid>https://vit.ooo/services/qr-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Telegram-боты</title>
+      <link>https://vit.ooo/services/telegram-bots/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/telegram-bots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Администратирование облачной инфраструктуры</title>
+      <link>https://vit.ooo/services/cloud-infrastructure-administration/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/cloud-infrastructure-administration/</guid>
+      <description>Администратирование облачной инфраструктуры - это &amp;hellip;.</description>
+    </item>
+    <item>
+      <title>Веб-скрейпинг и автоматизация браузера</title>
+      <link>https://vit.ooo/services/browser-automation/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/browser-automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Интеграция в блокчейн и смарт-контракты</title>
+      <link>https://vit.ooo/services/blockchain/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Контейнеризация приложений</title>
+      <link>https://vit.ooo/services/containerization-of-applications/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/containerization-of-applications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Мобильные приложения Android и iOS</title>
+      <link>https://vit.ooo/services/mobile-app/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/services/mobile-app/</guid>
       <description></description>
     </item>
     <item>
       <title>Прогрессивные веб-приложения</title>
-      <link>http://vit.ooo/services/web-applications/</link>
+      <link>https://vit.ooo/services/web-applications/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/web-applications/</guid>
+      <guid>https://vit.ooo/services/web-applications/</guid>
       <description></description>
     </item>
     <item>
       <title>Сбор больших данных</title>
-      <link>http://vit.ooo/services/big-data/</link>
+      <link>https://vit.ooo/services/big-data/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/big-data/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Хранение, обработка и визуализация</title>
-      <link>http://vit.ooo/services/storage/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/storage/</guid>
+      <guid>https://vit.ooo/services/big-data/</guid>
       <description></description>
     </item>
     <item>
       <title>Сайты, лендинги и порталы</title>
-      <link>http://vit.ooo/services/website/</link>
+      <link>https://vit.ooo/services/website/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://vit.ooo/services/website/</guid>
+      <guid>https://vit.ooo/services/website/</guid>
       <description></description>
     </item>
   </channel>
