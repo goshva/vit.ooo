@@ -10,8 +10,12 @@
           <li class="card post-card col-md-10 col-lg-5">
             <div class="card-body">
                 <a href="{{.Permalink}}">
-                    <img class="card-img-top interns-image mb-2" src="{{ .Permalink }}{{ .Params.header_image }}"
+
+                  
+                    <img class="card-img-top interns-image mb-2" src="{{ .Permalink | absURL }}{{ .Params.header_image }}"
                         alt="interns-image" />
+
+                        
                 </a>
                 <div class="post-wrap">
                   <div class="post-wrap-top">
