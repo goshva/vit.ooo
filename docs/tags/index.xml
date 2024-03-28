@@ -2,346 +2,360 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ООО «вАйТи»</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://vit.ooo/tags/</link>
     <description>Recent content in Tags on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 18 Mar 2024 21:10:00 +0703</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Mar 2024 10:00:00 -0700</lastBuildDate>
+    <atom:link href="https://vit.ooo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://vit.ooo/tags/ai/</link>
+      <pubDate>Wed, 27 Mar 2024 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>neural networks</title>
+      <link>https://vit.ooo/tags/neural-networks/</link>
+      <pubDate>Wed, 27 Mar 2024 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/neural-networks/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Couchbase</title>
-      <link>http://localhost:1313/tags/couchbase/</link>
+      <link>https://vit.ooo/tags/couchbase/</link>
       <pubDate>Mon, 18 Mar 2024 21:10:00 +0703</pubDate>
-      <guid>http://localhost:1313/tags/couchbase/</guid>
+      <guid>https://vit.ooo/tags/couchbase/</guid>
       <description></description>
     </item>
     <item>
       <title>Firebase</title>
-      <link>http://localhost:1313/tags/firebase/</link>
+      <link>https://vit.ooo/tags/firebase/</link>
       <pubDate>Mon, 18 Mar 2024 21:10:00 +0703</pubDate>
-      <guid>http://localhost:1313/tags/firebase/</guid>
+      <guid>https://vit.ooo/tags/firebase/</guid>
       <description></description>
     </item>
     <item>
       <title>MongoDB</title>
-      <link>http://localhost:1313/tags/mongodb/</link>
+      <link>https://vit.ooo/tags/mongodb/</link>
       <pubDate>Mon, 18 Mar 2024 21:10:00 +0703</pubDate>
-      <guid>http://localhost:1313/tags/mongodb/</guid>
+      <guid>https://vit.ooo/tags/mongodb/</guid>
       <description></description>
     </item>
     <item>
       <title>Agile</title>
-      <link>http://localhost:1313/tags/agile/</link>
+      <link>https://vit.ooo/tags/agile/</link>
       <pubDate>Sat, 02 Mar 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/agile/</guid>
+      <guid>https://vit.ooo/tags/agile/</guid>
       <description></description>
     </item>
     <item>
       <title>Kanban</title>
-      <link>http://localhost:1313/tags/kanban/</link>
+      <link>https://vit.ooo/tags/kanban/</link>
       <pubDate>Sat, 02 Mar 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/kanban/</guid>
+      <guid>https://vit.ooo/tags/kanban/</guid>
       <description></description>
     </item>
     <item>
       <title>Scrum</title>
-      <link>http://localhost:1313/tags/scrum/</link>
+      <link>https://vit.ooo/tags/scrum/</link>
       <pubDate>Sat, 02 Mar 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/scrum/</guid>
+      <guid>https://vit.ooo/tags/scrum/</guid>
       <description></description>
     </item>
     <item>
-      <title>Гибкие Методологии</title>
-      <link>http://localhost:1313/tags/%D0%B3%D0%B8%D0%B1%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
+      <title>Гибкие методологии</title>
+      <link>https://vit.ooo/tags/%D0%B3%D0%B8%D0%B1%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
       <pubDate>Sat, 02 Mar 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%B3%D0%B8%D0%B1%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
+      <guid>https://vit.ooo/tags/%D0%B3%D0%B8%D0%B1%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
       <description></description>
     </item>
     <item>
-      <title>Разработка ПО</title>
-      <link>http://localhost:1313/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE/</link>
+      <title>разработка ПО</title>
+      <link>https://vit.ooo/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE/</link>
       <pubDate>Sat, 02 Mar 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE/</guid>
+      <guid>https://vit.ooo/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE/</guid>
       <description></description>
     </item>
     <item>
-      <title>Управление Проектами</title>
-      <link>http://localhost:1313/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</link>
+      <title>управление проектами</title>
+      <link>https://vit.ooo/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</link>
       <pubDate>Sat, 02 Mar 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</guid>
+      <guid>https://vit.ooo/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</guid>
       <description></description>
     </item>
     <item>
-      <title>Backup</title>
-      <link>http://localhost:1313/tags/backup/</link>
+      <title>backup</title>
+      <link>https://vit.ooo/tags/backup/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/backup/</guid>
+      <guid>https://vit.ooo/tags/backup/</guid>
       <description></description>
     </item>
     <item>
-      <title>Intern</title>
-      <link>http://localhost:1313/tags/intern/</link>
+      <title>intern</title>
+      <link>https://vit.ooo/tags/intern/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/intern/</guid>
+      <guid>https://vit.ooo/tags/intern/</guid>
       <description></description>
     </item>
     <item>
-      <title>Junior</title>
-      <link>http://localhost:1313/tags/junior/</link>
+      <title>junior</title>
+      <link>https://vit.ooo/tags/junior/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/junior/</guid>
+      <guid>https://vit.ooo/tags/junior/</guid>
       <description></description>
     </item>
     <item>
-      <title>Проверка Бекапов</title>
-      <link>http://localhost:1313/tags/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%B1%D0%B5%D0%BA%D0%B0%D0%BF%D0%BE%D0%B2/</link>
+      <title>проверка бекапов</title>
+      <link>https://vit.ooo/tags/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%B1%D0%B5%D0%BA%D0%B0%D0%BF%D0%BE%D0%B2/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%B1%D0%B5%D0%BA%D0%B0%D0%BF%D0%BE%D0%B2/</guid>
+      <guid>https://vit.ooo/tags/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%B1%D0%B5%D0%BA%D0%B0%D0%BF%D0%BE%D0%B2/</guid>
       <description></description>
     </item>
     <item>
-      <title>Резервное Копирование</title>
-      <link>http://localhost:1313/tags/%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+      <title>резервное копирование</title>
+      <link>https://vit.ooo/tags/%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
+      <guid>https://vit.ooo/tags/%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
     <item>
       <title>CD</title>
-      <link>http://localhost:1313/tags/cd/</link>
+      <link>https://vit.ooo/tags/cd/</link>
       <pubDate>Mon, 12 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/cd/</guid>
+      <guid>https://vit.ooo/tags/cd/</guid>
       <description></description>
     </item>
     <item>
       <title>CI</title>
-      <link>http://localhost:1313/tags/ci/</link>
+      <link>https://vit.ooo/tags/ci/</link>
       <pubDate>Mon, 12 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/ci/</guid>
+      <guid>https://vit.ooo/tags/ci/</guid>
       <description></description>
     </item>
     <item>
-      <title>CI/CD</title>
-      <link>http://localhost:1313/tags/ci/cd/</link>
+      <title>методология</title>
+      <link>https://vit.ooo/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</link>
       <pubDate>Mon, 12 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/ci/cd/</guid>
+      <guid>https://vit.ooo/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</guid>
       <description></description>
     </item>
     <item>
-      <title>Методология</title>
-      <link>http://localhost:1313/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</link>
+      <title>общий репозиторий</title>
+      <link>https://vit.ooo/tags/%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9/</link>
       <pubDate>Mon, 12 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</guid>
+      <guid>https://vit.ooo/tags/%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9/</guid>
       <description></description>
     </item>
     <item>
-      <title>Общий Репозиторий</title>
-      <link>http://localhost:1313/tags/%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9/</link>
-      <pubDate>Mon, 12 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Education</title>
-      <link>http://localhost:1313/tags/education/</link>
+      <title>education</title>
+      <link>https://vit.ooo/tags/education/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/education/</guid>
+      <guid>https://vit.ooo/tags/education/</guid>
       <description></description>
     </item>
     <item>
-      <title>Html5</title>
-      <link>http://localhost:1313/tags/html5/</link>
+      <title>html5</title>
+      <link>https://vit.ooo/tags/html5/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/html5/</guid>
+      <guid>https://vit.ooo/tags/html5/</guid>
       <description></description>
     </item>
     <item>
-      <title>Purejs</title>
-      <link>http://localhost:1313/tags/purejs/</link>
+      <title>purejs</title>
+      <link>https://vit.ooo/tags/purejs/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/purejs/</guid>
+      <guid>https://vit.ooo/tags/purejs/</guid>
       <description></description>
     </item>
     <item>
       <title>Snakeword</title>
-      <link>http://localhost:1313/tags/snakeword/</link>
+      <link>https://vit.ooo/tags/snakeword/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/snakeword/</guid>
+      <guid>https://vit.ooo/tags/snakeword/</guid>
       <description></description>
     </item>
     <item>
-      <title>Study</title>
-      <link>http://localhost:1313/tags/study/</link>
+      <title>study</title>
+      <link>https://vit.ooo/tags/study/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/study/</guid>
+      <guid>https://vit.ooo/tags/study/</guid>
       <description></description>
     </item>
     <item>
-      <title>Websocket</title>
-      <link>http://localhost:1313/tags/websocket/</link>
+      <title>websocket</title>
+      <link>https://vit.ooo/tags/websocket/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/websocket/</guid>
+      <guid>https://vit.ooo/tags/websocket/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bar</title>
-      <link>http://localhost:1313/tags/bar/</link>
+      <title>bar</title>
+      <link>https://vit.ooo/tags/bar/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/bar/</guid>
+      <guid>https://vit.ooo/tags/bar/</guid>
       <description></description>
     </item>
     <item>
-      <title>Crypto</title>
-      <link>http://localhost:1313/tags/crypto/</link>
+      <title>crypto</title>
+      <link>https://vit.ooo/tags/crypto/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/crypto/</guid>
+      <guid>https://vit.ooo/tags/crypto/</guid>
       <description></description>
     </item>
     <item>
-      <title>Eat</title>
-      <link>http://localhost:1313/tags/eat/</link>
+      <title>eat</title>
+      <link>https://vit.ooo/tags/eat/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/eat/</guid>
+      <guid>https://vit.ooo/tags/eat/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nft</title>
-      <link>http://localhost:1313/tags/nft/</link>
+      <title>nft</title>
+      <link>https://vit.ooo/tags/nft/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/nft/</guid>
+      <guid>https://vit.ooo/tags/nft/</guid>
       <description></description>
     </item>
     <item>
-      <title>Web3</title>
-      <link>http://localhost:1313/tags/web3/</link>
+      <title>web3</title>
+      <link>https://vit.ooo/tags/web3/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/web3/</guid>
+      <guid>https://vit.ooo/tags/web3/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bots</title>
-      <link>http://localhost:1313/tags/bots/</link>
+      <title>bots</title>
+      <link>https://vit.ooo/tags/bots/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/bots/</guid>
+      <guid>https://vit.ooo/tags/bots/</guid>
       <description></description>
     </item>
     <item>
-      <title>Gamedev</title>
-      <link>http://localhost:1313/tags/gamedev/</link>
+      <title>gamedev</title>
+      <link>https://vit.ooo/tags/gamedev/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/gamedev/</guid>
+      <guid>https://vit.ooo/tags/gamedev/</guid>
       <description></description>
     </item>
     <item>
-      <title>Goverment</title>
-      <link>http://localhost:1313/tags/goverment/</link>
+      <title>goverment</title>
+      <link>https://vit.ooo/tags/goverment/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/goverment/</guid>
+      <guid>https://vit.ooo/tags/goverment/</guid>
       <description></description>
     </item>
     <item>
-      <title>NO Google Play</title>
-      <link>http://localhost:1313/tags/no-google-play/</link>
+      <title>NO google play</title>
+      <link>https://vit.ooo/tags/no-google-play/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/no-google-play/</guid>
+      <guid>https://vit.ooo/tags/no-google-play/</guid>
       <description></description>
     </item>
     <item>
       <title>PWA</title>
-      <link>http://localhost:1313/tags/pwa/</link>
+      <link>https://vit.ooo/tags/pwa/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/pwa/</guid>
+      <guid>https://vit.ooo/tags/pwa/</guid>
       <description></description>
     </item>
     <item>
-      <title>Status</title>
-      <link>http://localhost:1313/tags/status/</link>
+      <title>status</title>
+      <link>https://vit.ooo/tags/status/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/status/</guid>
+      <guid>https://vit.ooo/tags/status/</guid>
       <description></description>
     </item>
     <item>
-      <title>Telebot</title>
-      <link>http://localhost:1313/tags/telebot/</link>
+      <title>telebot</title>
+      <link>https://vit.ooo/tags/telebot/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/telebot/</guid>
+      <guid>https://vit.ooo/tags/telebot/</guid>
       <description></description>
     </item>
     <item>
-      <title>Vit</title>
-      <link>http://localhost:1313/tags/vit/</link>
+      <title>vit</title>
+      <link>https://vit.ooo/tags/vit/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/vit/</guid>
+      <guid>https://vit.ooo/tags/vit/</guid>
       <description></description>
     </item>
     <item>
-      <title>WebApp</title>
-      <link>http://localhost:1313/tags/webapp/</link>
+      <title>webapp</title>
+      <link>https://vit.ooo/tags/webapp/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/webapp/</guid>
+      <guid>https://vit.ooo/tags/webapp/</guid>
       <description></description>
     </item>
     <item>
-      <title>Блокировка На Сторах</title>
-      <link>http://localhost:1313/tags/%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D0%B0%D1%85/</link>
+      <title>Блокировка на сторах</title>
+      <link>https://vit.ooo/tags/%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D0%B0%D1%85/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D0%B0%D1%85/</guid>
+      <guid>https://vit.ooo/tags/%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D0%B0%D1%85/</guid>
       <description></description>
     </item>
     <item>
-      <title>ВАйТи</title>
-      <link>http://localhost:1313/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</link>
+      <title>вайти</title>
+      <link>https://vit.ooo/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</guid>
+      <guid>https://vit.ooo/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>Даванков</title>
-      <link>http://localhost:1313/tags/%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2/</link>
+      <link>https://vit.ooo/tags/%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2/</guid>
+      <guid>https://vit.ooo/tags/%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2/</guid>
       <description></description>
     </item>
     <item>
-      <title>Перейти В Телеграмм</title>
-      <link>http://localhost:1313/tags/%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%B2-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC/</link>
+      <title>перейти в телеграмм</title>
+      <link>https://vit.ooo/tags/%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%B2-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%B2-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC/</guid>
+      <guid>https://vit.ooo/tags/%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%B2-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC/</guid>
       <description></description>
     </item>
     <item>
-      <title>Быстрый Старт</title>
-      <link>http://localhost:1313/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</link>
+      <title>быстрый старт</title>
+      <link>https://vit.ooo/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</guid>
+      <guid>https://vit.ooo/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</guid>
       <description></description>
     </item>
     <item>
-      <title>Лендинги</title>
-      <link>http://localhost:1313/tags/%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8/</link>
+      <title>лендинги</title>
+      <link>https://vit.ooo/tags/%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8/</guid>
+      <guid>https://vit.ooo/tags/%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ооо</title>
-      <link>http://localhost:1313/tags/%D0%BE%D0%BE%D0%BE/</link>
+      <title>ооо</title>
+      <link>https://vit.ooo/tags/%D0%BE%D0%BE%D0%BE/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%BE%D0%BE%D0%BE/</guid>
+      <guid>https://vit.ooo/tags/%D0%BE%D0%BE%D0%BE/</guid>
       <description></description>
     </item>
     <item>
-      <title>Порталы</title>
-      <link>http://localhost:1313/tags/%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B/</link>
+      <title>порталы</title>
+      <link>https://vit.ooo/tags/%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B/</guid>
+      <guid>https://vit.ooo/tags/%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>Сайты</title>
-      <link>http://localhost:1313/tags/%D1%81%D0%B0%D0%B9%D1%82%D1%8B/</link>
+      <link>https://vit.ooo/tags/%D1%81%D0%B0%D0%B9%D1%82%D1%8B/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/%D1%81%D0%B0%D0%B9%D1%82%D1%8B/</guid>
+      <guid>https://vit.ooo/tags/%D1%81%D0%B0%D0%B9%D1%82%D1%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CI/CD</title>
+      <link>https://vit.ooo/tags/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vit.ooo/tags/ci/cd/</guid>
       <description></description>
     </item>
   </channel>
