@@ -2,7 +2,7 @@
 title = 'Непрерывные интеграция и развёртывание'
 date = 2024-02-12T10:00:00-07:00
 draft = false
-header_image= 'kandinsky-download-1711543405136'
+header_image= 'kandinsky-download-1711543405136.png'
 description= 'Непрерывные интеграция и развёртывание'
 tags= ['CI', 'CD', 'методология', 'CI/CD', 'общий репозиторий']
 
