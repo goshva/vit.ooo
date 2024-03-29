@@ -3,6 +3,99 @@
     <div class="row">
       <div class="col-md-6 mb-md-0 container_foto wow fadeInLeft"
         style="visibility: visible; animation-name: fadeInLeft;">
+        <div class="container-container" data-toggle="modal" data-target="#durak">
+          <article class="text-left wow wobble slower" style="visibility: visible; animation-name: wobble;">
+            <h2>Card game Durak</h2>
+            <h4>Карточная игра</h4>
+          </article>
+          {{ $image := resources.Get "img/durak.jpg" }}
+          {{ $image := $image.Resize "x515" }}
+          <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+        </div>
+      </div>
+      <div class="modal fade" id="durak" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLongTitle">
+                "Дурак": всеми любимая карточная игра
+              </h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">×</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              <p>
+                Команда разработчиков вдохновилась известной карточной игрой и разработала её онлайн-версию.
+              </p>
+              <p>
+                Игроки по очереди выкладывают карты на стол, стараясь избавиться от своих карт быстрее других. Основной целью является избавиться от всех карт первым и не остаться “дураком”.
+              </p>
+              <p>
+                Каждая карта имеет свое значение и масть, иногда игрокам приходится принимать решения на основе того, какие карты были уже сыграны и какие еще могут быть у соперников. Также в игре есть тактики, такие как “защита” от карт с более высоким значением или попытка “набить руку” соперника, чтобы увеличить его количество карт.
+              </p>
+              <p>Игра при этом напряженная и динамичная, так как в любой момент все может измениться из-за одной карты. 
+                Победа в <a href="https://durak.vit.ooo/">Дураке</a> приносит удовлетворение и чувство достижения.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6 mb-md-0 container_foto wow fadeInLeft"
+        style="visibility: visible; animation-name: fadeInLeft;">
+        <div class="container-container" data-toggle="modal" data-target="#snakeword">
+          <article class="text-left wow wobble slower" style="visibility: visible; animation-name: wobble;">
+            <h2>Snakeword</h2>
+            <h4>Интелектуальная игра</h4>
+          </article>
+          {{ $image := resources.Get "img/snakeword.jpg" }}
+          {{ $image := $image.Resize "x515" }}
+          <img loading="lazy" src="{{ $image.RelPermalink }}" class="team-member-thumbnail">
+        </div>
+      </div>
+      <div class="modal fade" id="snakeword" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLongTitle">
+                Snakeword: интеллектуальная игра
+              </h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">×</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              <p>
+                Приветствуем вас в захватывающем мире слов и логики - Snakeword! 
+                Это увлекательная игра, разработанная нашей компанией, которая позволяет вам погрузиться в мир букв и слов, 
+                испытать свои знания и скорость реакции.
+              </p>
+              <p>
+                Snakeword предлагает вам интерактивное поле, на котором разбросаны буквы. 
+                Ваша задача - соединять эти буквы в слова, двигаясь по линиям и направлениям, как змейка. 
+                Чем длиннее и сложнее слова, тем больше очков вы заработаете
+              </p>
+              <p>
+                В игре вы столкнетесь с таймером, который подсчитывает время до конца раунда, 
+                поэтому постарайтесь использовать свои навыки максимально эффективно, 
+                чтобы набрать как можно больше очков до его истечения.
+              </p>
+              <p>Кроме того, Snakeword поддерживает многоязычность, что дает вам возможность 
+                наслаждаться игрой на разных языках. 
+                Это прекрасная возможность не только провести время весело, но и улучшить свой 
+                словарный запас и языковые навыки.</p>
+              <p><a href="https://snakeword.vit.ooo/en/">Snakeword</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="col-md-6 mb-md-0 container_foto wow fadeInLeft"
+        style="visibility: visible; animation-name: fadeInLeft;">
         <div class="container-container" data-toggle="modal" data-target="#narasimha">
           <article class="text-left wow wobble slower" style="visibility: visible; animation-name: wobble;">
             <h2>Narasimha</h2>
