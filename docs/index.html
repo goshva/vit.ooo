@@ -42,7 +42,7 @@
       }
   
       #works {
-        background-color: #90a4ae;
+        background-color: aliceblue;
       }
   
       #career {
@@ -51,7 +51,8 @@
   
       .container-container {
         margin: 10px;
-        background-color: rgb(40, 47, 92);
+        background-color: #B39DD8;
+        height: clamp(130px, 25vh, 550px);
       }
   
       .container_foto {
@@ -64,46 +65,65 @@
       .container_foto article {
         position: absolute;
         bottom: 0;
-        padding: 0 0 10px 10px;
         z-index: 1;
-        -webkit-transition: all 0.5s ease;
-        -moz-transition: all 0.5s ease;
-        -o-transition: all 0.5s ease;
-        -ms-transition: all 0.5s ease;
-        transition: all 0.5s ease;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        -o-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        transition: all 1s ease;
+        padding: 5px;
+        background: #44D7B6;
+        margin: 0 0 10px 10px;
+        transition: all 1s ease;
       }
   
       .container_foto h2 {
-        color: #000000;
-        text-shadow: 1px 1px 7px #fff;
-        background: linear-gradient(10deg, #ffffff8f, transparent);
+        color: #fff;
+        text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
         font-weight: 800;
         font-size: 25px;
         border-bottom: #fff solid 1px;
+        background: none;
+        transition: all 1s ease;
       }
   
       .container_foto h4 {
-        font-weight: 300;
         color: #fff;
         font-size: 16px;
-        background-color: #000;
-        opacity: 0.75;
+        margin-bottom: 0;
+        color: #000;
+        font-weight: 600;
+        transition: all 1s ease;
       }
   
       .container_foto img {
         width: 100%;
+        height: 100%;
         top: 0;
         left: 0;
-        opacity: 0.75;
-        -webkit-transition: all 4s ease;
-        -moz-transition: all 4s ease;
-        -o-transition: all 4s ease;
-        -ms-transition: all 4s ease;
-        transition: all 4s ease;
+        opacity: 0.8;
+        -webkit-transition: all 1.5s ease;
+        -moz-transition: all 1.5s ease;
+        -o-transition: all 1.5s ease;
+        -ms-transition: all 1.5s ease;
+        transition: all 1.5s ease;
+        object-fit: cover;
       }
   
       .container_foto:hover {
         cursor: pointer;
+        background: #44D7B6;
+      }
+
+      .container_foto:hover h2 {
+        color: #fff; 
+        text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+        transition: all 1s ease;
+      }
+
+      .container_foto:hover h4 {
+        font-size: 20px; 
+        transition: all 1s ease;
       }
   
       .container_foto:hover img {
@@ -595,9 +615,9 @@
       <div class="col-md-6 mb-md-0 container_foto wow fadeInLeft"
         style="visibility: visible; animation-name: fadeInLeft;">
         <div class="container-container" data-toggle="modal" data-target="#durak">
-          <article class="text-left wow wobble slower" style="visibility: visible; animation-name: wobble;">
-            <h2>Card game Durak</h2>
-            <h4>Карточная игра</h4>
+          <article class="text-left wow wobble slower projects__card-text" style="visibility: visible; animation-name: wobble;">
+            <h2 class="projects__card-text_name">Card game Durak</h2>
+            <h4 class="projects__card-text_description">Карточная игра</h4>
           </article>
           
           
@@ -636,9 +656,9 @@
       <div class="col-md-6 mb-md-0 container_foto wow fadeInLeft"
         style="visibility: visible; animation-name: fadeInLeft;">
         <div class="container-container" data-toggle="modal" data-target="#snakeword">
-          <article class="text-left wow wobble slower" style="visibility: visible; animation-name: wobble;">
-            <h2>Snakeword</h2>
-            <h4>Интелектуальная игра</h4>
+          <article class="text-left wow wobble slower projects__card-text" style="visibility: visible; animation-name: wobble;">
+            <h2 class="projects__card-text_name">Snakeword</h2>
+            <h4 class="projects__card-text_description">Интелектуальная игра</h4>
           </article>
           
           
@@ -688,9 +708,9 @@
       <div class="col-md-6 mb-md-0 container_foto wow fadeInLeft"
         style="visibility: visible; animation-name: fadeInLeft;">
         <div class="container-container" data-toggle="modal" data-target="#narasimha">
-          <article class="text-left wow wobble slower" style="visibility: visible; animation-name: wobble;">
-            <h2>Narasimha</h2>
-            <h4>Обработка и хранение рыночных данных</h4>
+          <article class="text-left wow wobble slower projects__card-text" style="visibility: visible; animation-name: wobble;">
+            <h2 class="projects__card-text_name">Narasimha</h2>
+            <h4 class="projects__card-text_description">Обработка и хранение рыночных данных</h4>
           </article>
           
           
@@ -733,9 +753,9 @@
       <div class="col-md-6 mb-md-0 container_foto wow fadeInRight"
         style="visibility: visible; animation-name: fadeInRight;">
         <div class="container-container" data-toggle="modal" data-target="#yat">
-          <article class="text-left wow wobble slower" style="visibility: visible; animation-name: wobble;">
-            <h2>Ятѣ</h2>
-            <h4>Натуральный обмен ценностями</h4>
+          <article class="text-left wow wobble slower projects__card-text" style="visibility: visible; animation-name: wobble;">
+            <h2 class="projects__card-text_name">Ятѣ</h2>
+            <h4 class="projects__card-text_description">Натуральный обмен ценностями</h4>
           </article>
           
           
@@ -791,9 +811,9 @@
       <div class="col-md-6 mb-md-0 container_foto wow fadeInLeft"
         style="visibility: visible; animation-name: fadeInLeft;">
         <div class="container-container" data-toggle="modal" data-target="#gw">
-          <article class="text-left wow wobble slower" style="visibility: visible; animation-name: wobble;">
-            <h2>GreenWord</h2>
-            <h4>Позитивный инфопоток</h4>
+          <article class="text-left wow wobble slower projects__card-text" style="visibility: visible; animation-name: wobble;">
+            <h2 class="projects__card-text_name">GreenWord</h2>
+            <h4 class="projects__card-text_description">Позитивный инфопоток</h4>
           </article>
           
           
@@ -856,9 +876,9 @@
       <div class="col-md-6 mb-md-0 container_foto wow fadeInRight"
         style="visibility: visible; animation-name: fadeInRight;">
         <div class="container-container" data-toggle="modal" data-target="#incripto">
-          <article class="text-left wow wobble slower" style="visibility: visible; animation-name: wobble;">
-            <h2>Incripto</h2>
-            <h4>Зашифрованный одноранговый чат</h4>
+          <article class="text-left wow wobble slower projects__card-text" style="visibility: visible; animation-name: wobble;">
+            <h2 class="projects__card-text_name">Incripto</h2>
+            <h4 class="projects__card-text_description">Зашифрованный одноранговый чат</h4>
           </article>
           
           
@@ -928,9 +948,9 @@
       <div class="col-md-6 mb-md-0 container_foto wow fadeInLeft"
         style="visibility: visible; animation-name: fadeInLeft;">
         <div class="container-container" data-toggle="modal" data-target="#onefabric">
-          <article class="text-left wow wobble slower" style="visibility: visible; animation-name: wobble;">
-            <h2>Умный</h2>
-            <h4>Квест на развитие</h4>
+          <article class="text-left wow wobble slower projects__card-text" style="visibility: visible; animation-name: wobble;">
+            <h2 class="projects__card-text_name">Умный</h2>
+            <h4 class="projects__card-text_description">Квест на развитие</h4>
           </article>
           <img src="https://questkislovodsk.ru/images/demo.png">
         </div>
@@ -970,9 +990,9 @@
       <div class="col-md-6 mb-md-0 container_foto wow fadeInRight"
         style="visibility: visible; animation-name: fadeInRight;">
         <div class="container-container" data-toggle="modal" data-target="#enlightenment">
-          <article class="text-left wow wobble slower" style="visibility: visible; animation-name: wobble;">
-            <h2>Мой Кавказ</h2>
-            <h4>Сильный сайт по туризму</h4>
+          <article class="text-left wow wobble slower projects__card-text" style="visibility: visible; animation-name: wobble;">
+            <h2 class="projects__card-text_name">Мой Кавказ</h2>
+            <h4 class="projects__card-text_description">Сильный сайт по туризму</h4>
           </article>
           
           
@@ -1018,9 +1038,9 @@
       <div class="col-md-6 mb-md-0 container_foto wow fadeInLeft"
         style="visibility: visible; animation-name: fadeInLeft;">
         <div class="container-container" data-toggle="modal" data-target="#mc">
-          <article class="text-left wow wobble slower">
-            <h2>Интернет магазин Сладостей</h2>
-            <h4>Бутик MC Chocolaterie</h4>
+          <article class="text-left wow wobble slower projects__card-text">
+            <h2 class="projects__card-text_name">Интернет магазин Сладостей</h2>
+            <h4 class="projects__card-text_description">Бутик MC Chocolaterie</h4>
           </article>
           
           
@@ -1058,9 +1078,9 @@
       <div class="col-md-6 mb-md-0 container_foto wow fadeInRight"
         style="visibility: visible; animation-name: fadeInRight;">
         <div class="container-container" data-toggle="modal" data-target="#ht">
-          <article class="text-left wow wobble slower">
-            <h2>Сердце Города</h2>
-            <h4>Информационный портал для труристов</h4>
+          <article class="text-left wow wobble slower projects__card-text">
+            <h2 class="projects__card-text_name">Сердце Города</h2>
+            <h4 class="projects__card-text_description">Информационный портал для труристов</h4>
           </article>
           
           
