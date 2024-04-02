@@ -9,17 +9,31 @@
     <lastBuildDate>Wed, 27 Mar 2024 10:00:00 -0700</lastBuildDate>
     <atom:link href="https://vit.ooo/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI</title>
-      <link>https://vit.ooo/tags/ai/</link>
+      <title>moneyTracer</title>
+      <link>https://vit.ooo/tags/moneytracer/</link>
       <pubDate>Wed, 27 Mar 2024 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/tags/ai/</guid>
+      <guid>https://vit.ooo/tags/moneytracer/</guid>
       <description></description>
     </item>
     <item>
-      <title>Neural Networks</title>
+      <title>neural networks</title>
       <link>https://vit.ooo/tags/neural-networks/</link>
       <pubDate>Wed, 27 Mar 2024 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCR</title>
+      <link>https://vit.ooo/tags/ocr/</link>
+      <pubDate>Wed, 27 Mar 2024 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/ocr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>research</title>
+      <link>https://vit.ooo/tags/research/</link>
+      <pubDate>Wed, 27 Mar 2024 10:00:00 -0700</pubDate>
+      <guid>https://vit.ooo/tags/research/</guid>
       <description></description>
     </item>
     <item>
@@ -65,56 +79,56 @@
       <description></description>
     </item>
     <item>
-      <title>Гибкие Методологии</title>
+      <title>Гибкие методологии</title>
       <link>https://vit.ooo/tags/%D0%B3%D0%B8%D0%B1%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
       <pubDate>Sat, 02 Mar 2024 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D0%B3%D0%B8%D0%B1%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
       <description></description>
     </item>
     <item>
-      <title>Разработка ПО</title>
+      <title>разработка ПО</title>
       <link>https://vit.ooo/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE/</link>
       <pubDate>Sat, 02 Mar 2024 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE/</guid>
       <description></description>
     </item>
     <item>
-      <title>Управление Проектами</title>
+      <title>управление проектами</title>
       <link>https://vit.ooo/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</link>
       <pubDate>Sat, 02 Mar 2024 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</guid>
       <description></description>
     </item>
     <item>
-      <title>Backup</title>
+      <title>backup</title>
       <link>https://vit.ooo/tags/backup/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/backup/</guid>
       <description></description>
     </item>
     <item>
-      <title>Intern</title>
+      <title>intern</title>
       <link>https://vit.ooo/tags/intern/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/intern/</guid>
       <description></description>
     </item>
     <item>
-      <title>Junior</title>
+      <title>junior</title>
       <link>https://vit.ooo/tags/junior/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/junior/</guid>
       <description></description>
     </item>
     <item>
-      <title>Проверка Бекапов</title>
+      <title>проверка бекапов</title>
       <link>https://vit.ooo/tags/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%B1%D0%B5%D0%BA%D0%B0%D0%BF%D0%BE%D0%B2/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%B1%D0%B5%D0%BA%D0%B0%D0%BF%D0%BE%D0%B2/</guid>
       <description></description>
     </item>
     <item>
-      <title>Резервное Копирование</title>
+      <title>резервное копирование</title>
       <link>https://vit.ooo/tags/%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
@@ -135,42 +149,35 @@
       <description></description>
     </item>
     <item>
-      <title>CI/CD</title>
-      <link>https://vit.ooo/tags/ci/cd/</link>
-      <pubDate>Mon, 12 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/tags/ci/cd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Методология</title>
+      <title>методология</title>
       <link>https://vit.ooo/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</link>
       <pubDate>Mon, 12 Feb 2024 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</guid>
       <description></description>
     </item>
     <item>
-      <title>Общий Репозиторий</title>
+      <title>общий репозиторий</title>
       <link>https://vit.ooo/tags/%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9/</link>
       <pubDate>Mon, 12 Feb 2024 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9/</guid>
       <description></description>
     </item>
     <item>
-      <title>Education</title>
+      <title>education</title>
       <link>https://vit.ooo/tags/education/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/education/</guid>
       <description></description>
     </item>
     <item>
-      <title>Html5</title>
+      <title>html5</title>
       <link>https://vit.ooo/tags/html5/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/html5/</guid>
       <description></description>
     </item>
     <item>
-      <title>Purejs</title>
+      <title>purejs</title>
       <link>https://vit.ooo/tags/purejs/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/purejs/</guid>
@@ -184,77 +191,77 @@
       <description></description>
     </item>
     <item>
-      <title>Study</title>
+      <title>study</title>
       <link>https://vit.ooo/tags/study/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/study/</guid>
       <description></description>
     </item>
     <item>
-      <title>Websocket</title>
+      <title>websocket</title>
       <link>https://vit.ooo/tags/websocket/</link>
       <pubDate>Fri, 15 Dec 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/websocket/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bar</title>
+      <title>bar</title>
       <link>https://vit.ooo/tags/bar/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/bar/</guid>
       <description></description>
     </item>
     <item>
-      <title>Crypto</title>
+      <title>crypto</title>
       <link>https://vit.ooo/tags/crypto/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/crypto/</guid>
       <description></description>
     </item>
     <item>
-      <title>Eat</title>
+      <title>eat</title>
       <link>https://vit.ooo/tags/eat/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/eat/</guid>
       <description></description>
     </item>
     <item>
-      <title>Nft</title>
+      <title>nft</title>
       <link>https://vit.ooo/tags/nft/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/nft/</guid>
       <description></description>
     </item>
     <item>
-      <title>Web3</title>
+      <title>web3</title>
       <link>https://vit.ooo/tags/web3/</link>
       <pubDate>Sat, 11 Nov 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/web3/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bots</title>
+      <title>bots</title>
       <link>https://vit.ooo/tags/bots/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/bots/</guid>
       <description></description>
     </item>
     <item>
-      <title>Gamedev</title>
+      <title>gamedev</title>
       <link>https://vit.ooo/tags/gamedev/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/gamedev/</guid>
       <description></description>
     </item>
     <item>
-      <title>Government</title>
+      <title>government</title>
       <link>https://vit.ooo/tags/government/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/government/</guid>
       <description></description>
     </item>
     <item>
-      <title>NO Google Play</title>
+      <title>NO google play</title>
       <link>https://vit.ooo/tags/no-google-play/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/no-google-play/</guid>
@@ -268,42 +275,42 @@
       <description></description>
     </item>
     <item>
-      <title>Status</title>
+      <title>status</title>
       <link>https://vit.ooo/tags/status/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/status/</guid>
       <description></description>
     </item>
     <item>
-      <title>Telebot</title>
+      <title>telebot</title>
       <link>https://vit.ooo/tags/telebot/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/telebot/</guid>
       <description></description>
     </item>
     <item>
-      <title>Vit</title>
+      <title>vit</title>
       <link>https://vit.ooo/tags/vit/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/vit/</guid>
       <description></description>
     </item>
     <item>
-      <title>WebApp</title>
+      <title>webapp</title>
       <link>https://vit.ooo/tags/webapp/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/webapp/</guid>
       <description></description>
     </item>
     <item>
-      <title>Блокировка На Сторах</title>
+      <title>Блокировка на сторах</title>
       <link>https://vit.ooo/tags/%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D0%B0%D1%85/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D0%B0%D1%85/</guid>
       <description></description>
     </item>
     <item>
-      <title>ВАйТи</title>
+      <title>вайти</title>
       <link>https://vit.ooo/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D0%B2%D0%B0%D0%B9%D1%82%D0%B8/</guid>
@@ -317,35 +324,35 @@
       <description></description>
     </item>
     <item>
-      <title>Перейти В Телеграмм</title>
+      <title>перейти в телеграмм</title>
       <link>https://vit.ooo/tags/%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%B2-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D0%BF%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%B2-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC/</guid>
       <description></description>
     </item>
     <item>
-      <title>Быстрый Старт</title>
+      <title>быстрый старт</title>
       <link>https://vit.ooo/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D1%81%D1%82%D0%B0%D1%80%D1%82/</guid>
       <description></description>
     </item>
     <item>
-      <title>Лендинги</title>
+      <title>лендинги</title>
       <link>https://vit.ooo/tags/%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ооо</title>
+      <title>ооо</title>
       <link>https://vit.ooo/tags/%D0%BE%D0%BE%D0%BE/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D0%BE%D0%BE%D0%BE/</guid>
       <description></description>
     </item>
     <item>
-      <title>Порталы</title>
+      <title>порталы</title>
       <link>https://vit.ooo/tags/%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B/</guid>
@@ -356,6 +363,13 @@
       <link>https://vit.ooo/tags/%D1%81%D0%B0%D0%B9%D1%82%D1%8B/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
       <guid>https://vit.ooo/tags/%D1%81%D0%B0%D0%B9%D1%82%D1%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CI/CD</title>
+      <link>https://vit.ooo/tags/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vit.ooo/tags/ci/cd/</guid>
       <description></description>
     </item>
   </channel>
