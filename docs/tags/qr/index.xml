@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qr on ООО «вАйТи»</title>
+    <link>http://localhost:1313/tags/qr/</link>
+    <description>Recent content in Qr on ООО «вАйТи»</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/qr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QR-маркетинг</title>
+      <link>http://localhost:1313/services/qr-marketing/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/services/qr-marketing/</guid>
+      <description>Наша компания предоставляет услугу QR-маркетинга, которая позволяет бизнесам эффективно использовать QR-коды для привлечения клиентов, повышения удобства для пользователей и улучшения маркетинговых кампаний.&#xA;QR-коды — это двухмерные штрихкоды, которые могут содержать различную информацию, такую как текст, веб-ссылки, контактные данные и многое другое. QR-коды легко сканировать с помощью мобильных устройств с камерой, что делает их удобным и доступным инструментом для взаимодействия с потенциальными клиентами.&#xA;Наша услуга QR-маркетинга включает:&#xA;Создание уникальных и привлекательных QR-кодов, соответствующих целям бизнеса.</description>
+    </item>
+  </channel>
+</rss>

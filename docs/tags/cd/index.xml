@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CD on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/cd/</link>
+    <link>http://localhost:1313/tags/cd/</link>
     <description>Recent content in CD on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Mon, 12 Feb 2024 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/cd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Непрерывные интеграция и развёртывание</title>
-      <link>https://vit.ooo/services/continuous-integration-and-deployment/</link>
+      <link>http://localhost:1313/services/continuous-integration-and-deployment/</link>
       <pubDate>Mon, 12 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/continuous-integration-and-deployment/</guid>
-      <description>Непрерывная интеграция и развертывание (Continuous Integration and Deployment, CI/CD) — это методология разработки программного обеспечения, которая ориентирована на ускорение процесса поставки кода в производственную среду. Основная идея заключается в автоматизации процессов сборки, тестирования, развертывания и мониторинга приложений, что позволяет ускорить цикл разработки и снизить риски внесения ошибок в продукт.
-Непрерывная интеграция включает в себя регулярное объединение кода всех разработчиков в общий репозиторий, где происходит автоматическая сборка и запуск тестов. Это помогает выявить конфликты между кодом, а также своевременно обнаружить ошибки и проблемы интеграции.</description>
+      <guid>http://localhost:1313/services/continuous-integration-and-deployment/</guid>
+      <description>Непрерывная интеграция и развертывание (Continuous Integration and Deployment, CI/CD) — это методология разработки программного обеспечения, которая ориентирована на ускорение процесса поставки кода в производственную среду. Основная идея заключается в автоматизации процессов сборки, тестирования, развертывания и мониторинга приложений, что позволяет ускорить цикл разработки и снизить риски внесения ошибок в продукт.&#xA;Непрерывная интеграция включает в себя регулярное объединение кода всех разработчиков в общий репозиторий, где происходит автоматическая сборка и запуск тестов. Это помогает выявить конфликты между кодом, а также своевременно обнаружить ошибки и проблемы интеграции.</description>
     </item>
   </channel>
 </rss>

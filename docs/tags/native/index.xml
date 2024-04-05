@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Native on ООО «вАйТи»</title>
+    <link>http://localhost:1313/tags/native/</link>
+    <description>Recent content in Native on ООО «вАйТи»</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 05 Apr 2023 10:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/native/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Мобильные приложения Android и iOS vs PWA</title>
+      <link>http://localhost:1313/services/mobile-app/</link>
+      <pubDate>Wed, 05 Apr 2023 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/services/mobile-app/</guid>
+      <description>Мы решили разрабатывать PWA приложения, а не нативные приложения, из-за ряда преимуществ, которые они предоставляют. Во-первых, PWA приложения могут работать на различных устройствах и платформах, что делает их более универсальными для пользователей. Они также имеют более быструю скорость загрузки и меньший объем, что обеспечивает более удобный опыт использования.&#xA;Кроме того, PWA приложения не требуют установки из магазина приложений, что упрощает процесс доступа для пользователей. Они могут быть добавлены на главный экран устройства через веб-браузер и использоваться как обычные приложения, не занимая место на устройстве.</description>
+    </item>
+  </channel>
+</rss>

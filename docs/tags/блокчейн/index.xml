@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Блокчейн on ООО «вАйТи»</title>
+    <link>http://localhost:1313/tags/%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD/</link>
+    <description>Recent content in Блокчейн on ООО «вАйТи»</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Интеграция в блокчейн и смарт-контракты</title>
+      <link>http://localhost:1313/services/blockchain/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/services/blockchain/</guid>
+      <description>Наши услуги по интеграции в блокчейн и смарт-контракты позволяют нашим клиентам использовать передовые технологии для оптимизации и обеспечения безопасности своих бизнес-процессов. Блокчейн — это распределенная база данных, которая обеспечивает прозрачность, надежность и целостность хранения информации.&#xA;Интеграция в блокчейн позволяет компаниям улучшить прозрачность и отслеживаемость бизнес-операций, снизить издержки на промежуточных участниках и повысить безопасность данных. Мы помогаем нашим клиентам определить наиболее подходящую блокчейн-платформу для их задач, разработать и реализовать индивидуальное техническое решение.</description>
+    </item>
+  </channel>
+</rss>
