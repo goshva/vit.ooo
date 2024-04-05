@@ -4,7 +4,7 @@ date = 2023-02-15T10:00:00-07:00
 draft = false
 header_image= 'tg2.png'
 description= 'Telegram-боты'
-tags= ['telebot','bots','webapp','перейти в телеграмм']
+tags= ['telebot','bots','webapp','перейти в телеграмм','telegram-bots','telegram','bot']
 +++
 
 Мы предоставляем услугу разработки Telegram-ботов, которая заключается в создании программного обеспечения для платформы Telegram, автоматизирующего взаимодействие с пользователями. 

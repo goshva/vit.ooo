@@ -4,7 +4,7 @@ date = 2023-02-15T10:00:00-07:00
 draft = false
 header_image= 'bigdata.png'
 description= 'Сбор больших данных'
-tags= ['vit', 'вАйТи']
+tags= ['vit', 'вАйТи','big-data','bigdata','машинное обучение','machine-learning','отчетность','reporting','диаграмма','график','представление данных']
 
 +++
 

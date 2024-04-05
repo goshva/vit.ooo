@@ -4,7 +4,7 @@ date = 2023-02-15T10:00:00-07:00
 draft = false
 header_image= 'kandinsky-download-1711543335567.png'
 description= 'Контейнеризация приложений'
-tags= ['vit', 'вАйТи']
+tags= ['vit', 'вАйТи','контейнеризация','docker','kubernetes','containerization','containerization-of-applications','docker','kubernetes','compose']
 
 +++
 
