@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gcp on ООО «вАйТи»</title>
-    <link>http://localhost:1313/tags/gcp/</link>
-    <description>Recent content in Gcp on ООО «вАйТи»</description>
+    <title>gcp on ООО «вАйТи»</title>
+    <link>https://vit.ooo/tags/gcp/</link>
+    <description>Recent content in gcp on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gcp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vit.ooo/tags/gcp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Администратирование облачной инфраструктуры</title>
-      <link>http://localhost:1313/services/cloud-infrastructure-administration/</link>
+      <link>https://vit.ooo/services/cloud-infrastructure-administration/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/services/cloud-infrastructure-administration/</guid>
-      <description>Наша компания предоставляет услугу администрирования облачной инфраструктуры, что включает в себя управление всеми аспектами облачных ресурсов, таких как виртуальные машины, хранилища данных, сетевые ресурсы и т.д.&#xA;Наши специалисты обеспечивают надежную и безопасную работу облачных сервисов, настраивая и оптимизируя их производительность, масштабируемость и доступность. Мы также занимаемся мониторингом и регулярным обновлением инфраструктуры, чтобы предотвратить отказы и обеспечить бесперебойную работу бизнес-процессов.&#xA;Мы гарантируем высокий уровень безопасности данных, следуя передовым стандартам безопасности и применяя современные методы шифрования и защиты информации.</description>
+      <guid>https://vit.ooo/services/cloud-infrastructure-administration/</guid>
+      <description>Наша компания предоставляет услугу администрирования облачной инфраструктуры, что включает в себя управление всеми аспектами облачных ресурсов, таких как виртуальные машины, хранилища данных, сетевые ресурсы и т.д.
+Наши специалисты обеспечивают надежную и безопасную работу облачных сервисов, настраивая и оптимизируя их производительность, масштабируемость и доступность. Мы также занимаемся мониторингом и регулярным обновлением инфраструктуры, чтобы предотвратить отказы и обеспечить бесперебойную работу бизнес-процессов.
+Мы гарантируем высокий уровень безопасности данных, следуя передовым стандартам безопасности и применяя современные методы шифрования и защиты информации.</description>
     </item>
   </channel>
 </rss>

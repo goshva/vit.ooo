@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web-Скрейпинг on ООО «вАйТи»</title>
-    <link>http://localhost:1313/tags/web-%D1%81%D0%BA%D1%80%D0%B5%D0%B9%D0%BF%D0%B8%D0%BD%D0%B3/</link>
-    <description>Recent content in Web-Скрейпинг on ООО «вАйТи»</description>
+    <title>web-скрейпинг on ООО «вАйТи»</title>
+    <link>https://vit.ooo/tags/web-%D1%81%D0%BA%D1%80%D0%B5%D0%B9%D0%BF%D0%B8%D0%BD%D0%B3/</link>
+    <description>Recent content in web-скрейпинг on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/web-%D1%81%D0%BA%D1%80%D0%B5%D0%B9%D0%BF%D0%B8%D0%BD%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vit.ooo/tags/web-%D1%81%D0%BA%D1%80%D0%B5%D0%B9%D0%BF%D0%B8%D0%BD%D0%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Веб-скрейпинг и автоматизация браузера</title>
-      <link>http://localhost:1313/services/browser-automation/</link>
+      <link>https://vit.ooo/services/browser-automation/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/services/browser-automation/</guid>
-      <description>Веб-скрейпинг — это процесс извлечения информации с веб-сайтов. С помощью специальных программ и скриптов наша компания может помочь вам автоматизировать процесс сбора нужных данных с различных источников в интернете. Например, вы можете задать условия для поиска определенной информации на сайтах (цены на товары, контактные данные компаний и т.д.), и программа будет автоматически сканировать веб-страницы и собирать нужные данные для вас.&#xA;Автоматизация браузера — это использование специальных программных средств для выполнения заданных действий в веб-браузере.</description>
+      <guid>https://vit.ooo/services/browser-automation/</guid>
+      <description>Веб-скрейпинг — это процесс извлечения информации с веб-сайтов. С помощью специальных программ и скриптов наша компания может помочь вам автоматизировать процесс сбора нужных данных с различных источников в интернете. Например, вы можете задать условия для поиска определенной информации на сайтах (цены на товары, контактные данные компаний и т.д.), и программа будет автоматически сканировать веб-страницы и собирать нужные данные для вас.
+Автоматизация браузера — это использование специальных программных средств для выполнения заданных действий в веб-браузере.</description>
     </item>
   </channel>
 </rss>
