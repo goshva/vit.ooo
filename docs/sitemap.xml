@@ -104,6 +104,9 @@
     <loc>https://vit.ooo/tags/ci/</loc>
     <lastmod>2024-02-12T10:00:00-07:00</lastmod>
   </url><url>
+    <loc>https://vit.ooo/tags/ci/cd/</loc>
+    <lastmod>2024-02-12T10:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://vit.ooo/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</loc>
     <lastmod>2024-02-12T10:00:00-07:00</lastmod>
   </url><url>
@@ -408,7 +411,5 @@
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
     <loc>https://vit.ooo/categories/</loc>
-  </url><url>
-    <loc>https://vit.ooo/tags/ci/cd/</loc>
   </url>
 </urlset>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>landing on ООО «вАйТи»</title>
+    <title>Landing on ООО «вАйТи»</title>
     <link>https://vit.ooo/tags/landing/</link>
-    <description>Recent content in landing on ООО «вАйТи»</description>
+    <description>Recent content in Landing on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
@@ -13,9 +13,7 @@
       <link>https://vit.ooo/services/website/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
       <guid>https://vit.ooo/services/website/</guid>
-      <description>Наша компания предоставляет услуги по разработке и созданию различных типов веб-сайтов, включая корпоративные сайты, интернет-магазины, лендинги и порталы.
-До начала работы у нас проводится анализ целей и потребностей клиента, после чего разрабатывается дизайн и функциональность будущего сайта. Мы учитываем все пожелания заказчика и стремимся создать продукт, который будет эффективно решать поставленные задачи.
-Мы работаем с различными технологиями и платформами для разработки веб-сайтов, такими как HTML, CSS, JavaScript, PHP, WordPress, Joomla, Magento, Hugo и другие.</description>
+      <description>Наша компания предоставляет услуги по разработке и созданию различных типов веб-сайтов, включая корпоративные сайты, интернет-магазины, лендинги и порталы.&#xA;До начала работы у нас проводится анализ целей и потребностей клиента, после чего разрабатывается дизайн и функциональность будущего сайта. Мы учитываем все пожелания заказчика и стремимся создать продукт, который будет эффективно решать поставленные задачи.&#xA;Мы работаем с различными технологиями и платформами для разработки веб-сайтов, такими как HTML, CSS, JavaScript, PHP, WordPress, Joomla, Magento, Hugo и другие.</description>
     </item>
   </channel>
 </rss>

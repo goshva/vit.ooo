@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>containerization on ООО «вАйТи»</title>
+    <title>Containerization on ООО «вАйТи»</title>
     <link>https://vit.ooo/tags/containerization/</link>
-    <description>Recent content in containerization on ООО «вАйТи»</description>
+    <description>Recent content in Containerization on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
@@ -13,8 +13,7 @@
       <link>https://vit.ooo/services/containerization-of-applications/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
       <guid>https://vit.ooo/services/containerization-of-applications/</guid>
-      <description>Контейнеризация приложений — это технология, которая позволяет упаковывать приложения и все необходимые для их работы компоненты в контейнеры. Контейнер — это изолированная среда, в которой находятся все зависимости приложения: библиотеки, среда выполнения, конфигурационные файлы и другое.
-Одной из самых популярных платформ для контейнеризации является Docker, она позволяет создавать, управлять и разворачивать контейнеры на любом сервере. С помощью контейнеризации приложения могут запускаться в любой среде, будь то локальный компьютер, облачная инфраструктура или дата-центр.</description>
+      <description>Контейнеризация приложений — это технология, которая позволяет упаковывать приложения и все необходимые для их работы компоненты в контейнеры. Контейнер — это изолированная среда, в которой находятся все зависимости приложения: библиотеки, среда выполнения, конфигурационные файлы и другое.&#xA;Одной из самых популярных платформ для контейнеризации является Docker, она позволяет создавать, управлять и разворачивать контейнеры на любом сервере. С помощью контейнеризации приложения могут запускаться в любой среде, будь то локальный компьютер, облачная инфраструктура или дата-центр.</description>
     </item>
   </channel>
 </rss>
