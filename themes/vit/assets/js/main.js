@@ -15,21 +15,16 @@ $('.hiro-pro-nav .pro-link[href^="#"]:not([href="#!"])').click(function(){
 $myCarousel = $('.carousel');
 
 function doAnimations(elems) {
-    var animEndEv = 'webkitAnimationEnd animationend';
-  
-    elems.each(function () {
-      var $this = $(this),
-          $animationType = $this.data('animation');
-  
-      // Add animate.css classes to
-      // the elements to be animated
-      // Remove animate.css classes
-      // once the animation event has ended
-      $this.addClass($animationType).one(animEndEv, function () {
-        $this.removeClass($animationType);
-      });
-    });
-  }
+  var animEndEv = 'webkitAnimationEnd animationend';
+
+  elems.forEach(function (elem) {
+      var animationType = elem.dataset.animation;
+      elem.classList.add(animationType);
+      elem.addEventListener(animEndEv, function () {
+          elem.classList.remove(animationType);
+      }, {once: true});
+  });
+}
   
   // Select the elements to be animated
   // in the first slide on page load
