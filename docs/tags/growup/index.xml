@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>intern on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/intern/</link>
-    <description>Recent content in intern on ООО «вАйТи»</description>
+    <title>growup on ООО «вАйТи»</title>
+    <link>https://vit.ooo/tags/growup/</link>
+    <description>Recent content in growup on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Thu, 18 Apr 2024 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/intern/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vit.ooo/tags/growup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Принимаем на практику</title>
       <link>https://vit.ooo/posts/post-7/</link>
@@ -16,14 +16,6 @@
       <description>Приглашаем студентов технических специальностей (математика, информационные технологии, радиотехника и подобные) пройти стажировку в нашей компании. вАйТи российская IT-компания, занимается разработкой игрового и обучающего программного обеспечения для пользователей по всему миру. Мы убеждены, что вкладываться в будущих сотрудников нужно еще на стадии их обучения и поэтому создали направление поддержки будущих разработчиков.
 По 4 направлениям организованы проекты (групповые чаты с задачами и програмистами разных уровней)
 Цель проекта - развитие профессиональных компетенций и получение практического опыта в разработки программного обеспечения в партнерстве с вузами.</description>
-    </item>
-    <item>
-      <title>Эксперимент с набором стажеров</title>
-      <link>https://vit.ooo/posts/post-3/</link>
-      <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/posts/post-3/</guid>
-      <description>Эксперимент с набором 30 стажёров оказался увлекательным и интересным процессом. В рамках эксперимента мы демонстрируем стажёрам различные навыки и технологии в действии, даём возможность проявить себя на практике. Кроме того, организовываем соревнования, чтобы оценить эффективность и продуктивность каждого из ребят.
-Также проводим регулярные обзоры кода и обратную связь с каждым участником, чтобы помочь развиваться и расти в профессии разработчика. Уделяем внимание развитию командной работы и сплоченности и взаимовыручки, чтобы они смогли эффективно взаимодействовать друг с другом.</description>
     </item>
   </channel>
 </rss>
