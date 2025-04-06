@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Couchbase on ООО «вАйТи»</title>
-    <link>http://madenko.store/tags/couchbase/</link>
+    <link>https://madenko.store/tags/couchbase/</link>
     <description>Recent content in Couchbase on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Mon, 18 Mar 2024 21:10:00 +0703</lastBuildDate>
-    <atom:link href="http://madenko.store/tags/couchbase/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://madenko.store/tags/couchbase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Документоориентированные базы данных</title>
-      <link>http://madenko.store/services/document-oriented-databases/</link>
+      <link>https://madenko.store/services/document-oriented-databases/</link>
       <pubDate>Mon, 18 Mar 2024 21:10:00 +0703</pubDate>
-      <guid>http://madenko.store/services/document-oriented-databases/</guid>
+      <guid>https://madenko.store/services/document-oriented-databases/</guid>
       <description>Наша компания предоставляет услугу создания и использования документоориентированных баз данных в производстве. Документоориентированные базы данных — это современный подход к хранению и организации данных, где информация хранится в виде документов, а не в виде таблиц, как в реляционных базах данных.&#xA;При использовании документоориентированных баз данных компания может значительно упростить хранение и обработку информации. Это позволяет более эффективно управлять данными, быстро находить необходимую информацию, а также улучшить производительность бизнес-процессов.&#xA;Мы поможем разработать и настроить документоориентированную базу данных с учётом специфики вашего бизнеса.</description>
     </item>
   </channel>

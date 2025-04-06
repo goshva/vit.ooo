@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website on ООО «вАйТи»</title>
-    <link>http://madenko.store/tags/website/</link>
+    <link>https://madenko.store/tags/website/</link>
     <description>Recent content in Website on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
-    <atom:link href="http://madenko.store/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://madenko.store/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Сайты, лендинги и порталы</title>
-      <link>http://madenko.store/services/website/</link>
+      <link>https://madenko.store/services/website/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://madenko.store/services/website/</guid>
+      <guid>https://madenko.store/services/website/</guid>
       <description>Наша компания предоставляет услуги по разработке и созданию различных типов веб-сайтов, включая корпоративные сайты, интернет-магазины, лендинги и порталы.&#xA;До начала работы у нас проводится анализ целей и потребностей клиента, после чего разрабатывается дизайн и функциональность будущего сайта. Мы учитываем все пожелания заказчика и стремимся создать продукт, который будет эффективно решать поставленные задачи.&#xA;Мы работаем с различными технологиями и платформами для разработки веб-сайтов, такими как HTML, CSS, JavaScript, PHP, WordPress, Joomla, Magento, Hugo и другие.</description>
     </item>
   </channel>

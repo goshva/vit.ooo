@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on ООО «вАйТи»</title>
-    <link>http://madenko.store/tags/research/</link>
+    <link>https://madenko.store/tags/research/</link>
     <description>Recent content in Research on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 27 Mar 2024 10:00:00 -0700</lastBuildDate>
-    <atom:link href="http://madenko.store/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://madenko.store/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Машинное обучение и нейронные сети</title>
-      <link>http://madenko.store/services/neural-networks/</link>
+      <link>https://madenko.store/services/neural-networks/</link>
       <pubDate>Wed, 27 Mar 2024 10:00:00 -0700</pubDate>
-      <guid>http://madenko.store/services/neural-networks/</guid>
+      <guid>https://madenko.store/services/neural-networks/</guid>
       <description>Машинное распознавание номера купюры с использованием фотографий и геолокации - это инновационный проект, который объединяет в себе технологии компьютерного зрения и геопозиционирования для более точного и эффективного контроля за денежными операциями.&#xA;Основная идея проекта заключается в том, что с помощью специального программного обеспечения и камеры устройства можно сфотографировать купюру и передать полученные данные на сервер, где происходит распознавание номера банкноты. После этого на карте отображается точное местоположение, где была заснята купюра, что помогает отследить перемещение денег, выявить поддельные купюры и предотвратить их распространение.</description>
     </item>
   </channel>

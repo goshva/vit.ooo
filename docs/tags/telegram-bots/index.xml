@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Telegram-Bots on ООО «вАйТи»</title>
-    <link>http://madenko.store/tags/telegram-bots/</link>
+    <link>https://madenko.store/tags/telegram-bots/</link>
     <description>Recent content in Telegram-Bots on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
-    <atom:link href="http://madenko.store/tags/telegram-bots/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://madenko.store/tags/telegram-bots/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Telegram-боты</title>
-      <link>http://madenko.store/services/telegram-bots/</link>
+      <link>https://madenko.store/services/telegram-bots/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://madenko.store/services/telegram-bots/</guid>
+      <guid>https://madenko.store/services/telegram-bots/</guid>
       <description>Мы предоставляем услугу разработки Telegram-ботов, которая заключается в создании программного обеспечения для платформы Telegram, автоматизирующего взаимодействие с пользователями.&#xA;Боты выполняют различные функции, такие как обработка запросов, предоставление информации и выполнение действий по команде пользователя.&#xA;Мы можем разработать ботов под индивидуальные потребности клиента, учитывая их бизнес-задачи и стратегию. Более того, мы предлагаем услуги по поддержке и обновлению ботов, что гарантирует их актуальность и надежную работу. Это включает в себя мониторинг производительности, внесение изменений в соответствии с потребностями бизнеса клиента, а также обновление функциональности бота для улучшения взаимодействия с пользователями.</description>
     </item>
   </channel>
