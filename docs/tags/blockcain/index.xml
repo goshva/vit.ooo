@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blockcain on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/blockcain/</link>
-    <description>Recent content in blockcain on ООО «вАйТи»</description>
+    <title>Blockcain on ООО «вАйТи»</title>
+    <link>http://madenko.store/tags/blockcain/</link>
+    <description>Recent content in Blockcain on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Thu, 18 Apr 2024 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/blockcain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://madenko.store/tags/blockcain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Принимаем на практику</title>
-      <link>https://vit.ooo/posts/post-7/</link>
+      <link>http://madenko.store/posts/post-7/</link>
       <pubDate>Thu, 18 Apr 2024 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/posts/post-7/</guid>
-      <description>Приглашаем студентов технических специальностей (математика, информационные технологии, радиотехника и подобные) пройти стажировку в нашей компании. вАйТи российская IT-компания, занимается разработкой игрового и обучающего программного обеспечения для пользователей по всему миру. Мы убеждены, что вкладываться в будущих сотрудников нужно еще на стадии их обучения и поэтому создали направление поддержки будущих разработчиков.
-По 4 направлениям организованы проекты (групповые чаты с задачами и програмистами разных уровней)
-Цель проекта - развитие профессиональных компетенций и получение практического опыта в разработки программного обеспечения в партнерстве с вузами.</description>
+      <guid>http://madenko.store/posts/post-7/</guid>
+      <description>Приглашаем студентов технических специальностей (математика, информационные технологии, радиотехника и подобные) пройти стажировку в нашей компании. вАйТи российская IT-компания, занимается разработкой игрового и обучающего программного обеспечения для пользователей по всему миру. Мы убеждены, что вкладываться в будущих сотрудников нужно еще на стадии их обучения и поэтому создали направление поддержки будущих разработчиков.&#xA;По 4 направлениям организованы проекты (групповые чаты с задачами и програмистами разных уровней)&#xA;Цель проекта - развитие профессиональных компетенций и получение практического опыта в разработки программного обеспечения в партнерстве с вузами.</description>
     </item>
   </channel>
 </rss>

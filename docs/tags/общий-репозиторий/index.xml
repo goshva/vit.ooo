@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>общий репозиторий on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9/</link>
-    <description>Recent content in общий репозиторий on ООО «вАйТи»</description>
+    <title>Общий Репозиторий on ООО «вАйТи»</title>
+    <link>http://madenko.store/tags/%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9/</link>
+    <description>Recent content in Общий Репозиторий on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Mon, 12 Feb 2024 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://madenko.store/tags/%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Непрерывные интеграция и развёртывание</title>
-      <link>https://vit.ooo/services/continuous-integration-and-deployment/</link>
+      <link>http://madenko.store/services/continuous-integration-and-deployment/</link>
       <pubDate>Mon, 12 Feb 2024 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/continuous-integration-and-deployment/</guid>
-      <description>Непрерывная интеграция и развертывание (Continuous Integration and Deployment, CI/CD) — это методология разработки программного обеспечения, которая ориентирована на ускорение процесса поставки кода в производственную среду. Основная идея заключается в автоматизации процессов сборки, тестирования, развертывания и мониторинга приложений, что позволяет ускорить цикл разработки и снизить риски внесения ошибок в продукт.
-Непрерывная интеграция включает в себя регулярное объединение кода всех разработчиков в общий репозиторий, где происходит автоматическая сборка и запуск тестов. Это помогает выявить конфликты между кодом, а также своевременно обнаружить ошибки и проблемы интеграции.</description>
+      <guid>http://madenko.store/services/continuous-integration-and-deployment/</guid>
+      <description>Непрерывная интеграция и развертывание (Continuous Integration and Deployment, CI/CD) — это методология разработки программного обеспечения, которая ориентирована на ускорение процесса поставки кода в производственную среду. Основная идея заключается в автоматизации процессов сборки, тестирования, развертывания и мониторинга приложений, что позволяет ускорить цикл разработки и снизить риски внесения ошибок в продукт.&#xA;Непрерывная интеграция включает в себя регулярное объединение кода всех разработчиков в общий репозиторий, где происходит автоматическая сборка и запуск тестов. Это помогает выявить конфликты между кодом, а также своевременно обнаружить ошибки и проблемы интеграции.</description>
     </item>
   </channel>
 </rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NO google play on ООО «вАйТи»</title>
-    <link>https://vit.ooo/tags/no-google-play/</link>
-    <description>Recent content in NO google play on ООО «вАйТи»</description>
+    <title>NO Google Play on ООО «вАйТи»</title>
+    <link>http://madenko.store/tags/no-google-play/</link>
+    <description>Recent content in NO Google Play on ООО «вАйТи»</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 15 Feb 2023 10:00:00 -0700</lastBuildDate>
-    <atom:link href="https://vit.ooo/tags/no-google-play/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://madenko.store/tags/no-google-play/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Прогрессивные веб-приложения</title>
-      <link>https://vit.ooo/services/web-applications/</link>
+      <link>http://madenko.store/services/web-applications/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://vit.ooo/services/web-applications/</guid>
-      <description>Наша компания специализируется на разработке прогрессивных веб-приложений. Прогрессивные веб-приложения (PWA) — это современные мобильные приложения, которые сочетают в себе преимущества веб-сайтов и нативных приложений. Они обладают высокой производительностью, быстрым временем загрузки, адаптивным дизайном под разные устройства и работают без подключения к интернету.
-Мы предлагаем нашим клиентам полный цикл разработки PWA: от консультации и проектирования до реализации и тестирования. Наши специалисты имеют большой опыт в создании инновационных и удобных в использовании веб-приложений, которые помогут улучшить бизнес клиента и привлечь больше пользователей.</description>
+      <guid>http://madenko.store/services/web-applications/</guid>
+      <description>Наша компания специализируется на разработке прогрессивных веб-приложений. Прогрессивные веб-приложения (PWA) — это современные мобильные приложения, которые сочетают в себе преимущества веб-сайтов и нативных приложений. Они обладают высокой производительностью, быстрым временем загрузки, адаптивным дизайном под разные устройства и работают без подключения к интернету.&#xA;Мы предлагаем нашим клиентам полный цикл разработки PWA: от консультации и проектирования до реализации и тестирования. Наши специалисты имеют большой опыт в создании инновационных и удобных в использовании веб-приложений, которые помогут улучшить бизнес клиента и привлечь больше пользователей.</description>
     </item>
   </channel>
 </rss>
